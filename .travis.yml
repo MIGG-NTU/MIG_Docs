@@ -18,12 +18,14 @@ install:
   #                tracklang fandol
 
 script:
-  - make build
+#  - make build
+  - make html
 
 deploy:
   provider: pages
   skip_cleanup: true
   github_token: ${GH_TOKEN}
-  local_dir: build/dirhtml
+#  local_dir: build/dirhtml
+  local_dir: build/html
   on:
     branch: master
