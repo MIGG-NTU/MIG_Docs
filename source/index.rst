@@ -1,6 +1,8 @@
 MIG user guide
 ===============
 
+This guide is still under construction.
+
 Welcome to Mathematical Imaging and Geophysics Group (MIG) at NTU.
 
 - `content <https://github.com/MIGG-NTU/content.MIGG>`_: content
