@@ -144,6 +144,16 @@ html_static_path = ['_static']
 # using the given strftime format.
 #html_last_updated_fmt = '%b %d, %Y'
 
+# added by core-man on Oct. 17 2020
+html_context = {
+    'display_github': True,
+    'github_user': 'MIGG-NTU',
+    'github_repo': 'MIG_Docs',
+    'github_version': 'master',
+    'conf_py_path': '/source/',
+    'theme_vcs_pageview_mode': 'blob',
+}
+
 # If true, SmartyPants will be used to convert quotes and dashes to
 # typographically correct entities.
 #html_use_smartypants = True
