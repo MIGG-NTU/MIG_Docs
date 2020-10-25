@@ -5,6 +5,12 @@ Build a document for all the materials in the [MIGG-NTU GitHub](https://github.c
 - [References](#references)
 
 
+**TODO**
+
+- [NTU resources](https://github.com/MIGG-NTU/resources.ntu)
+- [groupmeeting](https://github.com/MIGG-NTU/groupmeeting.ntu)
+
+
 ## References
 
 - [Sphnix](https://www.sphinx-doc.org/en/master/): a tool that makes it easy to create intelligent and beautiful documentation.
