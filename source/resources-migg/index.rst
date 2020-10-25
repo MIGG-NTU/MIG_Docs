@@ -4,5 +4,5 @@ MIG Private Resources
 
 .. toctree::
 
-   demo1
-   demo2
+   portable-drives
+   utils
