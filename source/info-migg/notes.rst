@@ -19,12 +19,14 @@ Common Notes for Managers
     - If you add new file folders, please also modify the corresponding content in the `MIG User Docs <https://migg-ntu.github.io/MIG_Docs/resources-migg/index.html>`_
 
 
-MIGG Routine Managers
----------------------
+MIG Routine Managers
+--------------------
 
 A new MIGG member is defined as one of the following cases (note that the **only** condition depends on Prof. Tong):
+
 - Prof. Tong adds him/her into our WeChat group
 - Prof. Tong formally notices us (in WeChat and groupmeeintg etc.) that someone has accepted the offer (e.g., master, Ph.D., postdoc etc.) or someone decides to visit us (e.g., visiting student/professor etc.)
+
 
 Before the new member arrives NTU
 +++++++++++++++++++++++++++++++++
@@ -39,8 +41,8 @@ Before the new member arrives NTU
 
     1. `https://personal.ntu.edu.sg/tongping/ <https://personal.ntu.edu.sg/tongping/>`_ (Prof. Ping Tong's research group)
     2. `https://blogs.ntu.edu.sg/geophysics <https://blogs.ntu.edu.sg/geophysics>`_ (Groupmeeting topics and papers)
-    3. `MIG User Docs <https://migg-ntu.github.io/MIG_Docs/index.html>`_
-    4. `MIG GitHub <https://github.com/MIGG-NTU>`_
+    3. `https://migg-ntu.github.io/MIG_Docs/ <https://migg-ntu.github.io/MIG_Docs/index.html>`_ (MIG User Docs)
+    4. `https://github.com/MIGG-NTU <https://github.com/MIGG-NTU>`_ (MIG GitHub)
 
     Some MIGG internal materials are available in MIGG Google Drive： xxx (replaced xxx with real share link of ``MIGG-materials``)
 
@@ -83,46 +85,45 @@ After a memeber leaves NTU
 
 - After a member leaves NTU, please click **reply to all** in Prof. Shengji Wei's paper reading notice email, and delete the member's email in the receiver list. Please clarify in the main text that "This email is just to delete XXX XXX in the email list because he/she has left NTU". After the email is sent, the member will not receive their paper reading notice email anymore.
 
-Other
-+++++
+Other notes
++++++++++++
 
 - Please help MIGG groupmeeting manager to update EOS-seismology emails, because they may be updated at some time. Please remember to delete previous email addresses and add new email addresses in their email list. The groupmeeting manager may change frequently, while he/she may not familiar with EOS-seismology group.
 
 
-MIGG groupmeeting managers
---------------------------
+MIG Groupmeeting Managers
+-------------------------
 
-### Group meeting arrangement
+Group meeting arrangement
++++++++++++++++++++++++++
 
-- Please check Pulic Holidays before arranging a group meeting. Please refer to [NTU Academic Calendar](https://www.ntu.edu.sg/sasd/oas/AcademicCalendar/Pages/index.aspx).
+- Please check Pulic Holidays before arranging a group meeting. Please refer to `NTU Academic Calendar <https://www.ntu.edu.sg/sasd/oas/AcademicCalendar/Pages/index.aspx>`_.
 
-- Please refer to [LT/TR Room booking](https://github.com/MathImaging-Geophysics-Group/resources.ntu) to help Prof. TONG with tutorial room booking. If you have no access, please ask other members help you.
+- Please refer to `LT/TR Room booking <https://github.com/MathImaging-Geophysics-Group/resources.ntu>`_ to help Prof. TONG with tutorial room booking. If you have no access, please ask other members help you.
 
-- Please refer to [NTU blog](https://github.com/MIGG-NTU/resources.ntu) to learn how to manage MIGG groupmeeting website.
+- Please refer to `NTU blog <https://github.com/MIGG-NTU/resources.ntu>`_ to learn how to manage MIGG groupmeeting website.
 
 - Please remind the reporter to send ppt to the manager after the presentation, so that MIGG members can download the ppt after groupmeeting.
 
-- Please update all the things in [groupmeeting.ntu](https://github.com/MIGG-NTU/groupmeeting.ntu) simultaneously in the GitHub for a backup purpose.
+- Please update all the things in `groupmeeting.ntu <https://github.com/MIGG-NTU/groupmeeting.ntu>`_ simultaneously in the GitHub for a backup purpose.
 
-- Please upload ppt to `groupmeeting.ntu` in MIGG Google Drive simultaneously for a backup purpose if ppt is available. Paper pdfs are not needed to upload there due to the space limit.
+- Please upload ppt to ``groupmeeting.ntu`` in MIGG Google Drive simultaneously for a backup purpose if ppt is available. Paper pdfs are not needed to upload there due to the space limit.
 
-- Please create or update the [collection](https://blogs.ntu.edu.sg/geophysics/collection/) in groupmeeting website simultaneously so that we can have a good document record.
+- Please create or update the collections in `MIG Groupmeeting Website <https://blogs.ntu.edu.sg/geophysics/>`_ simultaneously so that we can have a good document record.
 
-### Group meeting notice
+
+Group meeting notice
+++++++++++++++++++++
 
 - Please remind the reporter to send clear pdfs without notes, a three-sentence-long topic summary (so that everyone can know the content), & paper citation at least **two weeks before** his/her presetation. The citation can be archived from google scholar, e.g.,
-    > Cheng, C., Bodin, T., & Allen, R. M. (2016). Three-dimensional pre-stack depth migration of receiver functions with the fast marching method: a Kirchhoff approach. Geophysical Journal International, 205(2), 819-829.
+
+    Cheng, C., Bodin, T., & Allen, R. M. (2016). Three-dimensional pre-stack depth migration of receiver functions with the fast marching method: a Kirchhoff approach. Geophysical Journal International, 205(2), 819-829.
 
 - Our paper reading notice email also needs to cc to Prof. Shengji Wei's group members. We can click **reply to all** in their paper reading notice email, and then copy all the email addresses including the sender's email. We can then group their emails as **EOS_Prof.Wei** in our MIGG email **Contacts** (click the top-right nine dots -> Contacts). Please notice their email list may be updated at some time, so please remember to delete previous email addresses and add new email addresses.
 
 
-MIGG members
---------------------------
+MIG members
+-----------
 
 - Please help new MIGG members if you are available.
 
-
-## Revision history
-
-- 2020-05-25: update something related GitHub and Google Drive
-- 2019-07-26: initial draft

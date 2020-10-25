@@ -76,8 +76,8 @@ MIG User Guide
 - Manager: Jiayuan Yao
 
 
-MIG Group Meeting Website
--------------------------
+MIG Group Meeting
+-----------------
 
 - Website: `https://blogs.ntu.edu.sg/geophysics <https://blogs.ntu.edu.sg/geophysics>`_
 - Website Tutorial: `NTU blog <https://github.com/MathImaging-Geophysics-Group/resources.ntu>`_
@@ -110,8 +110,8 @@ MIG GitHub
     - Shucheng Wu (member)
 
 
-MIG Google Email Group
-----------------------
+MIG Google Group
+----------------
 
 - Email: ntuimaging@googlegroups.com. Every MIG member can send an email to this email, and all members can receive his/her email. This email is like WeChat Group.
 - Website: `Online forum <https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/ntuimaging>`_
@@ -132,7 +132,7 @@ MIG Email
 - Note: This email is used to send a notice to all MIG members. Please don't use this email to send an email to some MIG members. We should use our own email in this case.
 
 
-MIG shared data
+MIG Shared Data
 ---------------
 
 - Google Drive
