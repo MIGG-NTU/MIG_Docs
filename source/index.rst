@@ -17,17 +17,17 @@ Welcome to Mathematical Imaging and Geophysics Group (MIG) at NTU.
    :caption: Resources
 
    info-migg/index
+   groupmeeting/index
+   photos-thesis/index
    resources-migg/index
    resources-ntu/index
-   groupmeeting/index
-   collection/index
-   geo-myanmar/index
 
 
 .. toctree::
    :maxdepth: 3
    :hidden:
-   :caption: Researches
+   :caption: Researches & Life
 
-   basis/index
+   research/index
+   life/index
 
