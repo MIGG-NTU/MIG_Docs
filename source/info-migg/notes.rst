@@ -1,8 +1,8 @@
-MIGG manager and member notes
-=============================
+MIG Manager and Member Notes
+============================
 
-Common notes for managers
---------------------------
+Common Notes for Managers
+-------------------------
 
 - We should have at least two managers for each task, so that if one leaves NTU suddently, another can still work with MIGG daily things.
 
@@ -14,76 +14,77 @@ Common notes for managers
 
 - Google Drive
     - The Google Drive only has 15GB. We only use it to store non-open materials or large files that are not suitable to be put in GitHub. Other better method for sharing public data may be found in the future.
-    - MIGG public and private data are put in `MIGG-materials`. `Right-click it` -> `Get shareable link` -> `click sharing settings`. We can click `top-right button (Share with people setting)` to determine if *Editors can change permissions and share*. We can also click `bottom-left button (Change)` to determine if anyone with the link is a `viewer` or `editor`. For file safety, we must set it to be `viewer`.
-    - We can also only share some directories in `MIGG-materials`. The method is the same.
-    - If you add new file folders, please also modify the corresponding content in the [MIGG GitHub](https://github.com/MIGG-NTU/content.MIGG)
+    - MIGG public and private data are put in ``MIGG-materials``. ``Right-click it`` -> ``Get shareable link`` -> ``click sharing settings``. We can click ``top-right button (Share with people setting)`` to determine if *Editors can change permissions and share*. We can also click ``bottom-left button (Change)`` to determine if anyone with the link is a ``viewer`` or ``editor``. For file safety, we must set it to be ``viewer``.
+    - We can also only share some directories in ``MIGG-materials``. The method is the same.
+    - If you add new file folders, please also modify the corresponding content in the `MIG User Docs <https://migg-ntu.github.io/MIG_Docs/resources-migg/index.html>`_
 
 
-MIGG routine managers
---------------------------
+MIGG Routine Managers
+---------------------
 
 A new MIGG member is defined as one of the following cases (note that the **only** condition depends on Prof. Tong):
 - Prof. Tong adds him/her into our WeChat group
 - Prof. Tong formally notices us (in WeChat and groupmeeintg etc.) that someone has accepted the offer (e.g., master, Ph.D., postdoc etc.) or someone decides to visit us (e.g., visiting student/professor etc.)
 
-### Before the new member arrives NTU
+Before the new member arrives NTU
++++++++++++++++++++++++++++++++++
 
 - Please send him/her an email about some basic information about MIGG and **cc to Prof. TONG**. A template email is shown below.
 
-    > Hi XX,
-    >
-    > I  would like to share some information about our group with you.
-    >
-    > There are three websites related to our group now.
-    > 1. http://www.ntu.edu.sg/home/tongping (Prof. Ping Tong's research group)
-    > 2. https://blogs.ntu.edu.sg/geophysics (Groupmeeting topics and papers)
-    >       - Manager: Dongdong Wang (Core Administrator) & Tianjue Li (replaced names with right managers then)
-    > 3. [MIGG GitHub](https://github.com/MIGG-NTU)
-    >       - Manager: Tianjue Li & Jiayuan Yao (replaced names with right managers then)
-    >
-    >
-    > Some MIGG internal materials are available in MIGG Google Drive ： xxx (replaced xxx with real share link of `MIGG-materials`)
-    >   - Manager: Tianjue Li & Jiayuan Yao (replaced names with right managers then)
-    >
-    >
-    > If you have any useful materials and information, we will be appreciated that you can share with us. For example, your thesis (pdf & ppt), books, softwares, your experiences etc.
-    >
-    >
-    > If you have any suggestions about our websites or other things, please feel free to discuss with the managers.
-    >
-    > Yours,
-    > XXX (replace xxx with your name)
+    Hi XX,
 
-- Before a new member arrives Singapore, please send him/her some information about NTU and Singapore and **cc to Prof. TONG**. For example, [留学新加坡](https://core-man.github.io/blog/post/oversea-in-singapore/). This could be included in the above email.
+    I  would like to share some information about our group with you.
+
+    There are four websites related to our group now.
+
+    1. `https://personal.ntu.edu.sg/tongping/ <https://personal.ntu.edu.sg/tongping/>`_ (Prof. Ping Tong's research group)
+    2. `https://blogs.ntu.edu.sg/geophysics <https://blogs.ntu.edu.sg/geophysics>`_ (Groupmeeting topics and papers)
+    3. `MIG User Docs <https://migg-ntu.github.io/MIG_Docs/index.html>`_
+    4. `MIG GitHub <https://github.com/MIGG-NTU>`_
+
+    Some MIGG internal materials are available in MIGG Google Drive： xxx (replaced xxx with real share link of ``MIGG-materials``)
+
+    If you have any useful materials and information, we will be appreciated that you can share with us. For example, your thesis (pdf & ppt), books, softwares, your experiences etc.
+
+    If you have any suggestions about our websites or other things, please feel free to discuss with the managers.
+
+    Yours,
+    XXX (replace xxx with your name)
+
+- Before a new member arrives Singapore, please send him/her some information about NTU and Singapore and **cc to Prof. TONG**. For example, `留学新加坡 <https://core-man.github.io/blog/post/oversea-in-singapore/>`_. This could be included in the above email.
 
 - If he/she is not in our WeChat group, we can also ask if him/her has a WeChat account so that we can add him/her in the WeChat group. This could also be included in the above email. But remember **first** ask Prof. Tong if we can add him/her into the WeChat group **before** adding him/her into the group. Actualy only boss can add someone into the WeChat group.
 
 - Please add him/her email to our Google email group.
 
 
-### After the new member arrives NTU
+After the new member arrives NTU
+++++++++++++++++++++++++++++++++
 
 - When a new member arrives at our office, please help him/her join in the office WeChat group (MAS-04-07).
 
 - When a new member arrives at NTU, please click **reply to all** in Prof. Shengji Wei's paper reading notice email, and add the new member's email to the receiver list. Please clarify in the main text that "This email is just to add XXX XXX in the email list". After the email is sent, the new member will receive their paper reading notice email.
 
-- After a new member arrives at NTU, please tell him about [Introductary seismological material checklist](https://core-man.github.io/blog/post/intro-material-seismology/) if he/she is not familiar with those basic skills.
+- After a new member arrives at NTU, please tell him about `Introductary seismological material checklist <https://core-man.github.io/blog/post/intro-material-seismology/>`_ if he/she is not familiar with those basic skills.
 
-- After a new member arrives at NTU, please add his/her information in [MIGG infomation collection](../MIGG-info-collection/index.md) & [MIGG members](../MIGG-members/index.md).
+- After a new member arrives at NTU, please add his/her information in `MIG members <https://migg-ntu.github.io/MIG_Docs/info-migg/info.html#current-members>`_ and `MIG Homepage <https://personal.ntu.edu.sg/tongping/#people>`_.
 
 - After a new member arrives at NTU for some time, please ask Prof. Shengji Wei if he/she can be added to EOS-seismology WeChat group **if he/she is interested to attend Shengji's groupmeeting and have a good relationship with EOS-seismology group**.
 
-- After a new member arrives at NTU for some time, please ask him/her if he/she would like to share Bachelor, Master, PhD thesis & ppt. If so, please add it in [thesis.MIGG](https://github.com/MathImaging-Geophysics-Group/thesis.MIGG) and upload them in MIGG Google Drive.
+- After a new member arrives at NTU for some time, please ask him/her if he/she would like to share Bachelor, Master, PhD thesis & ppt. If so, please add it in `MIG Thesis <https://migg-ntu.github.io/MIG_Docs/collection/thesis-MIGG.html>`_ and upload them in MIGG Google Drive.
 
-### After a memeber leaves NTU
+
+After a memeber leaves NTU
+++++++++++++++++++++++++++
 
 - After a member leaves NTU, please delete his/her email from Google email group.
 
-- After a member leaves NTU, please put his/her information to previous members in [MIGG infomation collection](../MIGG-info-collection/index.md) & [MIGG members](../MIGG-members/index.md).
+- After a member leaves NTU, please update his/her information in `MIG members <https://migg-ntu.github.io/MIG_Docs/info-migg/info.html#current-members>`_ and `MIG Homepage <https://personal.ntu.edu.sg/tongping/#people>`_.
 
 - After a member leaves NTU, please click **reply to all** in Prof. Shengji Wei's paper reading notice email, and delete the member's email in the receiver list. Please clarify in the main text that "This email is just to delete XXX XXX in the email list because he/she has left NTU". After the email is sent, the member will not receive their paper reading notice email anymore.
 
-### Other
+Other
++++++
 
 - Please help MIGG groupmeeting manager to update EOS-seismology emails, because they may be updated at some time. Please remember to delete previous email addresses and add new email addresses in their email list. The groupmeeting manager may change frequently, while he/she may not familiar with EOS-seismology group.
 
