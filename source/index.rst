@@ -6,7 +6,6 @@ MIG User Guide
 **TODO**
 
 - `NTU Resources <https://migg-ntu.github.io/MIG_Docs/resources-ntu/index.html>`_
-- `Myanmar Geosciences <https://migg-ntu.github.io/MIG_Docs/research/geo-myanmar.html>`_
 - `Groupmeeting <https://migg-ntu.github.io/MIG_Docs/groupmeeting/index.html>`_
 
 
@@ -22,7 +21,7 @@ Welcome to Mathematical Imaging and Geophysics Group (MIG) at NTU.
    :hidden:
    :caption: Resources
 
-   info-migg/index
+   information/index
    groupmeeting/index
    photos-thesis/index
    resources-migg/index
@@ -36,4 +35,3 @@ Welcome to Mathematical Imaging and Geophysics Group (MIG) at NTU.
 
    research/index
    life/index
-

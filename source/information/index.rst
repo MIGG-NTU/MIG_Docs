@@ -8,4 +8,3 @@ MIGG information, notes and resources etc.
 
    info
    notes
-   books
