@@ -1,8 +1,9 @@
-MIG Private Resources
-=====================
+Private Resources
+=================
 
 
 .. toctree::
 
    portable-drives
+   google-drive
    utils
