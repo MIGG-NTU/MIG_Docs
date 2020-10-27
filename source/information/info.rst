@@ -170,13 +170,19 @@ Weekly Lunch
 MIG-related Leaders and Executives
 ----------------------------------
 
-- SPMS
-    - `Leadership of SPMS <https://spms.ntu.edu.sg/aboutus/Pages/Leadership.aspx>`_
-    - Senior Executive, Local Support (Finance & Procurement): `Lilian CHUA Suat Bee <https://spms.ntu.edu.sg/aboutus/Our-People/Pages/Chairs-Office.aspx>`_
-    - Senior Executive of Division of Mathematical Sciences: `LIU Shuying, Leneatte <https://spms.ntu.edu.sg/MathematicalSciences/People/Pages/Administrative--Teaching-Staff.aspx) (She has left. To Be Updated!>`_
-- EOS
-    - `Leadership of EOS <https://earthobservatory.sg/about/director>`_
-    - Finance Executive: `SU SU Hlaing Myint <https://earthobservatory.sg/people/su-su-hlaing-myint>`_
+SPMS
+- `Leadership of SPMS <https://spms.ntu.edu.sg/aboutus/Pages/Leadership.aspx>`_
+- `TEO Woo Lian Susan <https://spms.ntu.edu.sg/aboutus/Our-People/Pages/Chairs-Office.aspx>`_
+    - Senior Executive, Local Support (Finance & Procurement)
+    - ``Staff claims`` + ``Part Time Student claims``
+- `Clemence CHEONG Pak Hoe <https://spms.ntu.edu.sg/aboutus/Our-People/Pages/Chairs-Office.aspx>`_
+    - Senior Executive, Local Support (Finance & Procurement)
+    - ``MAS students claims`` (except Part Time Student claims)
+- `NG Xue Fen <https://spms.ntu.edu.sg/MathematicalSciences/People/Pages/Administrative--Teaching-Staff.aspx>`_: Executive of Division of Mathematical Sciences
+
+EOS
+- `Leadership of EOS <https://earthobservatory.sg/about/director>`_
+- Finance Executive: `SU SU Hlaing Myint <https://earthobservatory.sg/people/su-su-hlaing-myint>`_
 
 
 Useful Resources
