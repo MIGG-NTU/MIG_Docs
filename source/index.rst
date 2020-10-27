@@ -26,6 +26,7 @@ Welcome to Mathematical Imaging and Geophysics Group (MIG) at NTU.
    photos-thesis/index
    resources-migg/index
    resources-ntu/index
+   links/index
 
 
 .. toctree::

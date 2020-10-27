@@ -171,6 +171,7 @@ MIG-related Leaders and Executives
 ----------------------------------
 
 SPMS
+
 - `Leadership of SPMS <https://spms.ntu.edu.sg/aboutus/Pages/Leadership.aspx>`_
 - `TEO Woo Lian Susan <https://spms.ntu.edu.sg/aboutus/Our-People/Pages/Chairs-Office.aspx>`_
     - Senior Executive, Local Support (Finance & Procurement)
@@ -181,12 +182,6 @@ SPMS
 - `NG Xue Fen <https://spms.ntu.edu.sg/MathematicalSciences/People/Pages/Administrative--Teaching-Staff.aspx>`_: Executive of Division of Mathematical Sciences
 
 EOS
+
 - `Leadership of EOS <https://earthobservatory.sg/about/director>`_
 - Finance Executive: `SU SU Hlaing Myint <https://earthobservatory.sg/people/su-su-hlaing-myint>`_
-
-
-Useful Resources
-----------------
-
-- `NTU resources <https://github.com/MathImaging-Geophysics-Group/resources.ntu>`_
-
