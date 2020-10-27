@@ -1,19 +1,14 @@
 MIG User Guide
 ===============
 
+Welcome to Mathematical Imaging and Geophysics Group (MIG) at NTU.
+
 **This guide is still under construction**
 
-**TODO**
+**The following is going to be added to this website soon.**
 
 - `NTU Resources <https://migg-ntu.github.io/MIG_Docs/resources-ntu/index.html>`_
 - `Groupmeeting <https://migg-ntu.github.io/MIG_Docs/groupmeeting/index.html>`_
-
-
-Welcome to Mathematical Imaging and Geophysics Group (MIG) at NTU.
-
-- `academic <https://github.com/MIGG-NTU/academic>`_: MIG Homepage
-- `MIG_Docs <https://github.com/MIGG-NTU/MIG_Docs>`_: MIG User Docs
-- `MIGG-NTU.github.io <https://github.com/MIGG-NTU/MIGG-NTU.github.io>`_: GitHub User Page
 
 
 .. toctree::
