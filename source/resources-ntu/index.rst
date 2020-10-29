@@ -9,5 +9,5 @@ We will move NTU resources in `resources.ntu <https://github.com/MIGG-NTU/MIG_Do
 
 .. toctree::
 
-   flight-business-travel
-   cluster
+   DR-ntu
+   demo
