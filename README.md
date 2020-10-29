@@ -7,8 +7,8 @@ Build a document for all the materials in the [MIGG-NTU GitHub](https://github.c
 
 **TODO**
 
-- [NTU resources](https://github.com/MIGG-NTU/resources.ntu)
-- [groupmeeting](https://github.com/MIGG-NTU/groupmeeting.ntu)
+- [NTU resources](https://github.com/MIGG-NTU/MIG_Docs/tree/master/TODO/resources.ntu)
+- [groupmeeting](https://github.com/MIGG-NTU/MIG_Docs/tree/master/TODO/groupmeeting.ntu)
 
 
 ## References
