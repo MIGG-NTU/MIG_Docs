@@ -3,7 +3,7 @@ Groupmeeting
 
 **Under Construction**
 
-We will move groupmeetings and workshops of MIG and EOS-seismology in `groupmeeting.ntu <https://github.com/MIGG-NTU/groupmeeting.ntu>`_ to this website soon.
+We will move ``MIGG workshops`` and ``EOS-seismology groupmeeting`` in `groupmeeting.ntu <https://github.com/MIGG-NTU/groupmeeting.ntu>`_ to this website soon.
 
 
 .. toctree::

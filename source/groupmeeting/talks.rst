@@ -1,19 +1,75 @@
 Invited Talks
 =============
 
+Some invited talks in MIGG, with some PPTs in MIGG Google Drive (``groupmeeting.NTU/talks.MIGG``).
+
+
 2020
 ----
 
-...
+Crustal deformation in the southeastern (SE) Tibet revealed by the receiver function analysis
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- 2020/10/15 by Mijian Xu
+
+- Abstract
+
+    - We employ receiver function and common conversion point stacking analysis with the seismic waveforms recorded by the dense ChinArray and other local seismic stations to accurately define the Moho topography in SE Tibet.
+    - We find that the Moho under the Tibetan Plateau is much deeper than that under the surrounding Yangtze Craton and Indochina block; abrupt Moho changes are found across the southeastern plateau margin, similar to that under the eastern plateau margin.
+    - We interpret these sharp Moho variations across the plateau margin to have developed when the Tibetan Plateau was extruded southeastward in the late Miocene. Subsequent gravity collapse resulted in crustal extension and gentle topographic variation, while the sharp Moho slope was preserved.
+
+- references
+    - Xu, M., Huang, Z., Wang, L., Xu, M., Zhang, Y., Mi, N., et al. (2020). Sharp lateral Moho variations across the SE Tibetan margin and their implications for plateau growth. Journal of Geophysical Research: Solid Earth, 125, e2019JB018117.
+    - Xu, M., Huang, H., Huang, Z., Wang, P., Wang, L., Xu, M., … & Yuan, X. (2018). Insight into the subducted Indian slab and origin of the Tengchong volcano in SE Tibet from receiver function analysis. Earth and Planetary Science Letters, 482, 567-579.
 
 
-2019
-----
+Lift and Relax for PDE-constrained Inverse Problem in Seismic imaging
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-...
+- 2020/08/26 by Fang Zhilong
+- We present Lift and Relax for Waveform Inversion (LRWI), an approach that mitigates the local minima issue in seismic full waveform inversion (FWI) via a combination of two convexification techniques. The first technique (Lift) extends the set of unknown variables to their products, arranged as a moment matrix. This algebraic idea is a celebrated way to replace a hard polynomial optimization problem by a semidefinite programming approximation. Concretely, both the model and the wavefield are lifted from vectors to rank-2 matrices. The second technique (Relax) invites to consider the wave equation, not as a hard constraint, but as a soft constraint to be satisfied only approximately a technique known as wavefield reconstruction inversion (WRI). WRI weakens wave-equation constraints by introducing wave-equation misfits as a weighted penalty term in the objective function. The relaxed penalty formulation enables balancing the data and wave-equation misfits by tuning a penalty parameter. Together, ”Lift” and ”Relax” help reformulate the inverse problem as a set of constraints on a rank-2 moment matrix in a higher dimensional space. Such a lifting strategy permits a good data and wave-equation fit throughout the inversion process, while leaving the numerical rank of the rank2 moment matrix to be minimized down to one. Numerical examples indicate that compared to FWI and WRI, LRWI can conduct successful inversions using an initial model that would be considered too poor, and data with a starting frequency that would be considered too high, for either method in isolation.
+
+
+Deformation of the Continental Lithosphere
+++++++++++++++++++++++++++++++++++++++++++
+
+- 2020/08/24 by Zhongxiong Cu
+- Deformation of the Continental Lithosphere: Insight from the Continental-Continental Collision in the Southern Tibetan Plateau and Intraplate Deformation in Central Mongolia
+
+
+Temporal seismic velocity change using repeating earthquake
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- 2020/08/19 by Yixiao Sheng
+- Yixiao Sheng's PhD Researches
+
+
+Seismic velocity and attenuation based on earthquake and ambient noise surface-wave
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- 2020/08/12 by Fabrizio Magrini
+- Fabrizio Magrini's PhD Researches
+
+
+Ambient noise tomography data preprocessing, waveform modelling and full waveform inversion
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- 2020/07/30 by Yang Yang
+- Yang Yang's PhD Researches
+
+
+Seismic regional tomography of the southern Puna plateau
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- 2020/06/18 by Jing Chen
+- Jing Chen, Sofia-Katerina Kufner, Xiaohui Yuan,Benjamin Heit, Hao Wu, Dinghui Yang, Bernd Schurr, Suzanne Kay, Lithospheric delamination beneath the southern Puna plateau resolved by local earthquake tomography. `preprint <https://arxiv.org/ftp/arxiv/papers/1912/1912.00854.pdf>`_
 
 
 2018
 ----
 
-...
+Seismic tomography and anisotropy beneath Southeast Tibet
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- 2018/11/07 by `Zhouchuan Huang <https://www.nju.edu.cn/7c/67/c1925a31847/page.htm>`_
+
