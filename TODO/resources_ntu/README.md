@@ -16,4 +16,3 @@
 - [LT/TR Room booking](2019-10-03-room-booking/index.md)
 - [Printing poster at EOS](2020-01-16-poster/index.md)
 - [Network in SPMS](2020-03-03-network/index.md)
-- [DR-NTU (data): Deposit, archive and share research data](2020-06-16-DR-ntu/index.md)
