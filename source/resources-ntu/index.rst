@@ -18,4 +18,5 @@ We will move NTU resources in `resources.ntu <https://github.com/MIGG-NTU/MIG_Do
    vpn
    printer/index
    cluster
+   overseas-travel-policy
    demo
