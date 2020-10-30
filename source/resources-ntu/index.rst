@@ -14,4 +14,3 @@ NTU Resources
    cluster
    overseas-travel-policy
    flight-BTS/index
-   demo
