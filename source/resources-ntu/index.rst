@@ -17,4 +17,5 @@ We will move NTU resources in `resources.ntu <https://github.com/MIGG-NTU/MIG_Do
    ntu-blog/index
    vpn
    printer/index
+   cluster
    demo
