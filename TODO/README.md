@@ -12,4 +12,3 @@
 - [Available cluster](2019-06-26-cluster/index.md)
 - [NTU printer](2019-06-27-printer/index.md)
 - [NTU VPN](2019-06-28-vpn/index.md)
-- [NTU blog](2019-07-05-blog/index.md)
