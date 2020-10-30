@@ -1,10 +1,6 @@
 Groupmeeting
 ============
 
-**Under Construction**
-
-We will move ``MIGG workshops`` and ``EOS-seismology groupmeeting`` in `groupmeeting.ntu <https://github.com/MIGG-NTU/MIG_Docs/tree/master/TODO/groupmeeting.ntu>`_ to this website soon.
-
 
 .. toctree::
 
