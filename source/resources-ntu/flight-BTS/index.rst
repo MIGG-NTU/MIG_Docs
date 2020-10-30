@@ -67,14 +67,16 @@ Business Travel Application
 
 - Business Travel System (BTS): `iNTU <https://intu.ntu.edu.sg/_layouts/iNTU/Main.aspx?Page=Home>`_ -> StaffLink -> HR Services -> Business Travel System
 
-- Notes
-    - Business travel application and approval must be obtained prior to departure. If for some reason, you are not able to apply or obtain approval via BTS in time, staff needs to seek approval via email before departure. Staff that fail to do so might risk not able to get reimbursed. The Office of Finance has arranged for travel insurance coverage under the University's Group Travel Insurance Policy. You will not be covered by travel insurance if your travel application request is not approved prior to departure. Proper document like `invitation letter/email` (mandatory for research trips), `abstract` and `program sheet` to be attached in the application. If there is any conference URL, please provide too. Please be reminded that invitation letter/email should be obtained prior to departure too.
-    - Travel Allowance Type: *Overseas daily allowance (ODA) and reimbursement claims required (100% ODA)*
-    - Each iterm in *Expenditure Item* can be estimated `20% more`. Please note that should the actual claim amount submitted be `less than 110%` of your approved budget.
+**Notes**
 
-- References
-    - Please also refer to `参加国际会议 (以AGU为例) <https://core-man.github.io/blog/post/internaltionl-conference/>`_ & :doc:`/resources-ntu/overseas-travel-policy`.
-    - Please see an example of BTS apllication for `2019 AGU fall meeting <https://raw.githubusercontent.com/MIGG-NTU/MIG_Docs/master/source/resources-ntu/flight-BTS/travel-request.pdf>`_.
+- Business travel application and approval must be obtained prior to departure. If for some reason, you are not able to apply or obtain approval via BTS in time, staff needs to seek approval via email before departure. Staff that fail to do so might risk not able to get reimbursed. The Office of Finance has arranged for travel insurance coverage under the University's Group Travel Insurance Policy. You will not be covered by travel insurance if your travel application request is not approved prior to departure. Proper document like `invitation letter/email` (mandatory for research trips), `abstract` and `program sheet` to be attached in the application. If there is any conference URL, please provide too. Please be reminded that invitation letter/email should be obtained prior to departure too.
+- Travel Allowance Type: *Overseas daily allowance (ODA) and reimbursement claims required (100% ODA)*
+- Each iterm in *Expenditure Item* can be estimated `20% more`. Please note that should the actual claim amount submitted be `less than 110%` of your approved budget.
+
+**References**
+
+- Please also refer to `参加国际会议 (以AGU为例) <https://core-man.github.io/blog/post/internaltionl-conference/>`_ & :doc:`/resources-ntu/overseas-travel-policy`.
+- Please see an example of BTS apllication for `2019 AGU fall meeting <https://raw.githubusercontent.com/MIGG-NTU/MIG_Docs/master/source/resources-ntu/flight-BTS/travel-request.pdf>`_.
 
 
 Business Travel Claim
@@ -85,26 +87,27 @@ Business Travel Claim
     - Travel claims must be submitted ``promptly upon your return``.
     - NSS Finance requires claimants to submit the ``itinerary``, ``flight invoice``, ``original boarding pass``, ``original receipts`` (hotel, transport, regestration, membership, abstract), ``credit card statements of those receipts``, and other supporting documents to NSS local supports for processing of BTS claims. These documents need to be uploaded in the BTS too when you submit the online claim.
 
-- Notes
-    - The claim period should be the exact arrival/departure time in the conference city (e.g., San Francisco for AGU) that is indicated in the itinerary.
-    - Abstract and membership fee should be included in Others, e.g., Others (Abstract Fee + Membership Fee)
-    - If you pay with US dolar or other money instead of Singapore dollar, you should claim the actual Singapore dollar in your credit card statement. **Rate type** should be *Credit Card Statement Rate*, and **Currency** is *SGD*.
-    - For AGU membership receipt, you need to write the following statement on it: **In order to submit the abstract and attend the conference, I have to be a member first**. However, 2019 AGU membership cannot be reimbursed (Sad!!!).
-    - For **Declaration** term in BTS, please tick them except the following cases.
+**Notes**
 
-        - If your claim money is less than the previous budget when you apply for the business travel, you don't have to (meanwhile, you are not able to) tick the first term *I declare that the claims for the period stated above are solely for business travel*.
-        - If the funding you use is not from a funding agency, you don't have to tick the second term **The expense is to be claimed from a funding agency**. Please ask Prof. Ping Tong what kind of the funding is. I guess NTU funding does not belong to a funding agency.
+- The claim period should be the exact arrival/departure time in the conference city (e.g., San Francisco for AGU) that is indicated in the itinerary.
+- Abstract and membership fee should be included in Others, e.g., Others (Abstract Fee + Membership Fee)
+- If you pay with US dolar or other money instead of Singapore dollar, you should claim the actual Singapore dollar in your credit card statement. **Rate type** should be *Credit Card Statement Rate*, and **Currency** is *SGD*.
+- For AGU membership receipt, you need to write the following statement on it: **In order to submit the abstract and attend the conference, I have to be a member first**. However, 2019 AGU membership cannot be reimbursed (Sad!!!).
+- For **Declaration** term in BTS, please tick them except the following cases.
 
-    - Please paste all the small receipts on a piece of A4 paper and indicate the purpose of those receipts, e.g., boarding pass, taxi/MRT/bus receipts. It will save a lot of time as it will minimise the need for NSS local supports to call/email you for clarifications.
+    - If your claim money is less than the previous budget when you apply for the business travel, you don't have to (meanwhile, you are not able to) tick the first term *I declare that the claims for the period stated above are solely for business travel*.
+    - If the funding you use is not from a funding agency, you don't have to tick the second term **The expense is to be claimed from a funding agency**. Please ask Prof. Ping Tong what kind of the funding is. I guess NTU funding does not belong to a funding agency.
 
-- References
+- Please paste all the small receipts on a piece of A4 paper and indicate the purpose of those receipts, e.g., boarding pass, taxi/MRT/bus receipts. It will save a lot of time as it will minimise the need for NSS local supports to call/email you for clarifications.
 
-    - Please also refer to `参加国际会议 (以AGU为例) <https://core-man.github.io/blog/post/internaltionl-conference/>`_ & :doc:`/resources-ntu/overseas-travel-policy`.
-    - Please see an example for `2019 AGU Fall meeting claim <https://raw.githubusercontent.com/MIGG-NTU/MIG_Docs/master/source/resources-ntu/flight-BTS/claim.tar.gz>`_.
+**References**
+
+- Please also refer to `参加国际会议 (以AGU为例) <https://core-man.github.io/blog/post/internaltionl-conference/>`_ & :doc:`/resources-ntu/overseas-travel-policy`.
+- Please see an example for `2019 AGU Fall meeting claim <https://raw.githubusercontent.com/MIGG-NTU/MIG_Docs/master/source/resources-ntu/flight-BTS/claim.tar.gz>`_.
 
 
-Notes
------
+SAP Concur
+----------
 
 ``SAP Concur`` will replace BTS w.e.f. **9 Oct 2020** and ICS w.e.f. **1 Nov 2020**.
 
