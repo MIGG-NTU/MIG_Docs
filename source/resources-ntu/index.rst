@@ -19,4 +19,5 @@ We will move NTU resources in `resources.ntu <https://github.com/MIGG-NTU/MIG_Do
    printer/index
    cluster
    overseas-travel-policy
+   flight-BTS/index
    demo

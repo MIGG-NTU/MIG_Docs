@@ -2,13 +2,6 @@
 
 Build a document for all the materials in the [MIGG-NTU GitHub](https://github.com/MIGG-NTU).
 
-- [References](#references)
-
-
-**TODO**
-
-- [NTU resources](https://github.com/MIGG-NTU/MIG_Docs/tree/master/TODO/resources_ntu)
-
 
 ## References
 
