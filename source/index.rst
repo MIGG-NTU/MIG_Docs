@@ -3,10 +3,6 @@ MIG User Guide
 
 Welcome to Mathematical Imaging and Geophysics Group (MIG) at NTU.
 
-**This guide is still under construction. The following sections are going to updated soon.**
-
-- `NTU Resources <https://migg-ntu.github.io/MIG_Docs/resources-ntu/index.html>`_
-
 
 .. toctree::
    :maxdepth: 3
