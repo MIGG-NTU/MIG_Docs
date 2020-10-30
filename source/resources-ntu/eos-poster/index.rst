@@ -15,5 +15,5 @@ In order to submit your softcopy, you may do any of the following
 - Bring the file to him in a USB flash disk
 - Upload your file at https://posters.earthobservatory.sg
 
-`EOS poster template <https://raw.githubusercontent.com/MIGG-NTU/MIG_Docs/master/source/resources-ntu/eos-poster/EOS_Poster_5Column.pptx>`_
+Please download `EOS poster template <https://raw.githubusercontent.com/MIGG-NTU/MIG_Docs/master/source/resources-ntu/eos-poster/EOS_Poster_5Column.pptx>`_
 

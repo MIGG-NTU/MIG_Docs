@@ -13,4 +13,5 @@ We will move NTU resources in `resources.ntu <https://github.com/MIGG-NTU/MIG_Do
    two-factor-authentication
    spms-network/index
    eos-poster/index
+   room-booking/index
    demo
