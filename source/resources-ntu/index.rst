@@ -10,4 +10,5 @@ We will move NTU resources in `resources.ntu <https://github.com/MIGG-NTU/MIG_Do
 .. toctree::
 
    DR-ntu
+   two-factor-authentication
    demo
