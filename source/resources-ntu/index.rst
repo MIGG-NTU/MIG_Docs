@@ -11,4 +11,5 @@ We will move NTU resources in `resources.ntu <https://github.com/MIGG-NTU/MIG_Do
 
    DR-ntu
    two-factor-authentication
+   spms-network/index
    demo
