@@ -15,4 +15,3 @@
 - [NTU blog](2019-07-05-blog/index.md)
 - [LT/TR Room booking](2019-10-03-room-booking/index.md)
 - [Printing poster at EOS](2020-01-16-poster/index.md)
-- [Network in SPMS](2020-03-03-network/index.md)
