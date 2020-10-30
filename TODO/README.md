@@ -10,4 +10,3 @@
 ### Some resources
 
 - [Available cluster](2019-06-26-cluster/index.md)
-- [NTU printer](2019-06-27-printer/index.md)
