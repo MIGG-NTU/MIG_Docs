@@ -20,6 +20,11 @@ This website is a backup of group meeting information of `EOS Observational Seis
 - Deepa
 - Yukuan Chen
 
+Seismoetctonics of Hindu-Kush and Pamir regions
++++++++++++++++++++++++++++++++++++++++++++++++
+
+- 2020/11/06 by phyo mgmg
+- Schurr,B.,L.Ratschbacher,C.Sippl,R. Gloaguen, X. Yuan, and J. Mechie (2014), Seismotectonics of the Pamir , Tectonics, 33, 1501–1 518, doi:10.1002/2014TC003576.
 
 Pamir‐Hindu Kush Intermediate‐depth Earthquake
 ++++++++++++++++++++++++++++++++++++++++++++++
