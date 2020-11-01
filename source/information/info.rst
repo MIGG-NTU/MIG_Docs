@@ -149,12 +149,6 @@ MIG Routine Managers
 - Help Prof. Tong and other members study and work better
 
 
-MIG Manager and Member Notes
-----------------------------
-
-- [MIG manager and member notes](../MIGG-manage-notes/index.md)
-
-
 Group Meeting
 -------------
 
