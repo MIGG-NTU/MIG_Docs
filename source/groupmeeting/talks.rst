@@ -11,10 +11,13 @@ Three-dimensional thermochemical model and melt distribution beneath Northeast C
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 - 2020/11/12 by Anqi Zhang
+
 Anqi is a Postdoc at Department of Ocean Science and Engineering, Southern University of Science and Technology. her research is mainly focused on using multiple geophysical data to infer the subsurface temperature/composition etc., via a multi-observable probabilistic inversion method. 
 
 - Abstract
+
 Intraplate volcanisms spanning from the Late Cretaceous to present are widespread in Northeast China (NEC). Numerous geophysical and geochemical studies have been carried out during the past few decades to explore the origin and mantle dynamic of these intraplate volcanisms. However, the hypotheses put forward for the geodynamic evolution of the region are diverse and often controversial, such as mantle plume, mantle upwelling originates from the transition zone, small-scale convection, and the influx of fluid released from the stagnant slab of the Pacific plate in the mantle transition zone. Here we use a probabilistic inverse method to jointly invert Rayleigh wave dispersion data, surface heat flow measurements, geoid height, and absolute elevation data. The output is a 3D model of temperature, bulk density, seismic velocity, and compositional structure of the lithosphere beneath NEC. Overall, our results reveal high temperature anomalies beneath all active volcanoes as expected. The resulting lithosphere-asthenosphere boundary (LAB) depth shows significant correlations with independently collected geochemical parameters of young basalts (< 5 Ma) in NEC. This observation manifests lithosphere thickness effect on compositional variations of continental basalts (the lid effect) and emphasizes the consistency between the geophysical and geochemical data. We also estimate distribution of melt in the uppermost mantle beneath the NEC from joint inversion, which is in good agreement with the surface locations of young basalts. Our predicted melt distribution indicates that Changbaishan (CBS) basalts are produced by partial melting of asthenospheric mantle underlies relatively thin lithosphere. The mantle upwelling beneath the CBS volcano may originate from deep mantle sources, which causes large degree of partial melting at 60 km depth. In contrast, basalts in the Xingmeng belt at the west of Songliao basin, such as the Halaha and Abaga volcano, may be derived from relatively low-degree partial melting caused by localized asthenospheric upwelling at shallow depths.
+
 
 Crustal deformation in the southeastern (SE) Tibet revealed by the receiver function analysis
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -28,6 +31,7 @@ Crustal deformation in the southeastern (SE) Tibet revealed by the receiver func
     - We interpret these sharp Moho variations across the plateau margin to have developed when the Tibetan Plateau was extruded southeastward in the late Miocene. Subsequent gravity collapse resulted in crustal extension and gentle topographic variation, while the sharp Moho slope was preserved.
 
 - references
+
     - Xu, M., Huang, Z., Wang, L., Xu, M., Zhang, Y., Mi, N., et al. (2020). Sharp lateral Moho variations across the SE Tibetan margin and their implications for plateau growth. Journal of Geophysical Research: Solid Earth, 125, e2019JB018117.
     - Xu, M., Huang, H., Huang, Z., Wang, P., Wang, L., Xu, M., … & Yuan, X. (2018). Insight into the subducted Indian slab and origin of the Tengchong volcano in SE Tibet from receiver function analysis. Earth and Planetary Science Letters, 482, 567-579.
 
