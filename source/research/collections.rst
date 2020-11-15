@@ -21,3 +21,10 @@ Research Utils
 --------------
 
 - `rsync.pl <https://raw.githubusercontent.com/MIGG-NTU/MIG_Docs/master/source/research/rsync.pl>`_: a template perl script to synchronize data
+
+
+Memo
+----
+
+- `Attending an international conference (AGU) <https://core-man.github.io/blog/post/internaltionl-conference/>`_
+
