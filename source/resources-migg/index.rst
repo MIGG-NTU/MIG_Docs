@@ -6,4 +6,3 @@ Private Resources
 
    portable-drives
    google-drive
-   utils

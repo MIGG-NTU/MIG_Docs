@@ -3,6 +3,6 @@ Researches
 
 .. toctree::
 
-   basis
    collections
    git-github
+   build-websites-and-documentation
