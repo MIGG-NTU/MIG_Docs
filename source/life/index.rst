@@ -3,4 +3,4 @@ Life
 
 .. toctree::
 
-   study-life-singapore
+   overseas-life-singapore
