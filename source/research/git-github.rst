@@ -73,3 +73,10 @@ A list of some commonly-used commands in GitHub command-line tools:
     # create a pull request and request reviews by core-man, HouseJaay, Shucheng-Wu, tianjueli
     gh pr create --reviewer core-man,HouseJaay,Shucheng-Wu,tianjueli
 
+
+A Workflow Example
+------------------
+
+``TODO``
+
+
