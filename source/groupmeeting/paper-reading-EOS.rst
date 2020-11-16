@@ -20,6 +20,12 @@ This website is a backup of group meeting information of `EOS Observational Seis
 - Deepa
 - Yukuan Chen
 
+Evolution of tectonics and geodynamics of the eastern part of the India-Asia collision in Myanmar
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- 2020/11/20 by WARDAH
+- Licht A, Dupont-Nivet G, Win Z, et al. Paleogene evolution of the Burmese forearc basin and implications for the history of India-Asia convergence[J]. GSA Bulletin, 2019, 131(5-6): 730-748.
+
 Seismoetctonics of Hindu-Kush and Pamir regions
 +++++++++++++++++++++++++++++++++++++++++++++++
 
