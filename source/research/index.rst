@@ -5,4 +5,4 @@ Researches
 
    collections
    git-github
-   build-websites-and-documentation
+   websites-and-documentations

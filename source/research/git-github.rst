@@ -7,7 +7,7 @@ MIG uses `Git <https://github.com/git/git>`__ and `Github <https://github.com/>`
 Git
 ---
 
-`Git <https://github.com/git/git>`__ is a fast, scalable, distributed revision control system with an unusually rich command set that provides both high-level operations and full access to internals. Please refer to the following references for details.
+`Git <https://git-scm.com/>`__ is a fast, scalable, distributed revision control system with an unusually rich command set that provides both high-level operations and full access to internals. Please refer to the following references for details.
 
 - `git 简易指南 <https://www.bootcss.com/p/git-guide/index.html>`_
 - `Git教程 (廖雪峰) <https://www.liaoxuefeng.com/wiki/896043488029600>`_
@@ -50,7 +50,10 @@ A list of some commonly-used git commands:
 GitHub
 ------
 
-`Github <https://github.com/>`__  provides hosting for software development and version control using `Git <https://github.com/git/git>`__. Please refer to `Github Docs <https://docs.github.com/en>`_ for details.
+`Github <https://github.com/>`__  provides hosting for software development and version control using ``Git``.
+
+- `Documentation <https://docs.github.com/cn/free-pro-team@latest/github>`__
+- `Understanding the GitHub flow <https://guides.github.com/introduction/flow/>`__
 
 
 A list of some commonly-used commands in GitHub command-line tools:
