@@ -6,7 +6,7 @@ MIG Websites
 
 - `MIG's Project List <https://migg-ntu.github.io/>`_
 - `MIG Homepage <https://personal.ntu.edu.sg/tongping/>`_
-- `MIG User Guide <https://migg-ntu.github.io/MIG_Docs/>`_
+- `MIG Documentation <https://migg-ntu.github.io/MIG_Docs/>`_
 - `MIG Groupmeeting <https://blogs.ntu.edu.sg/geophysics/>`_
 - `MIG GitHub <https://github.com/MIGG-NTU>`_
 
