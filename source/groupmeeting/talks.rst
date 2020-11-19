@@ -18,8 +18,8 @@ Contemporary earthquake hazard models hinge on an understanding of how strain is
 
 - Reference:
 
-Xu X, Sandwell D T, Ward L A, et al. Surface deformation associated with fractures near the 2019 Ridgecrest earthquake sequence[J]. Science, 2020, 370(6516): 605-608.  
- 
+Xu X, Sandwell D T, Ward L A, et al. Surface deformation associated with fractures near the 2019 Ridgecrest earthquake sequence[J]. Science, 2020, 370(6516): 605-608.
+
 Three-dimensional thermochemical model and melt distribution beneath Northeast China
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -88,7 +88,7 @@ Seismic regional tomography of the southern Puna plateau
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 - 2020/06/18 by Jing Chen
-- Jing Chen, Sofia-Katerina Kufner, Xiaohui Yuan,Benjamin Heit, Hao Wu, Dinghui Yang, Bernd Schurr, Suzanne Kay, Lithospheric delamination beneath the southern Puna plateau resolved by local earthquake tomography. `preprint <https://arxiv.org/ftp/arxiv/papers/1912/1912.00854.pdf>`_
+- Jing Chen, Sofia-Katerina Kufner, Xiaohui Yuan,Benjamin Heit, Hao Wu, Dinghui Yang, Bernd Schurr, Suzanne Kay, Lithospheric delamination beneath the southern Puna plateau resolved by local earthquake tomography. `preprint <https://arxiv.org/ftp/arxiv/papers/1912/1912.00854.pdf>`__
 
 
 2018
@@ -97,5 +97,5 @@ Seismic regional tomography of the southern Puna plateau
 Seismic tomography and anisotropy beneath Southeast Tibet
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-- 2018/11/07 by `Zhouchuan Huang <https://www.nju.edu.cn/7c/67/c1925a31847/page.htm>`_
+- 2018/11/07 by Zhouchuan Huang
 

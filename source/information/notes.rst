@@ -16,7 +16,7 @@ Common Notes for Managers
     - The Google Drive only has 15GB. We only use it to store non-open materials or large files that are not suitable to be put in GitHub. Other better method for sharing public data may be found in the future.
     - MIGG public and private data are put in ``MIGG-materials``. ``Right-click it`` -> ``Get shareable link`` -> ``click sharing settings``. We can click ``top-right button (Share with people setting)`` to determine if *Editors can change permissions and share*. We can also click ``bottom-left button (Change)`` to determine if anyone with the link is a ``viewer`` or ``editor``. For file safety, we must set it to be ``viewer``.
     - We can also only share some directories in ``MIGG-materials``. The method is the same.
-    - If you add new file folders, please also modify the corresponding content in the `MIG User Docs <https://migg-ntu.github.io/MIG_Docs/resources-migg/index.html>`_
+    - If you add new file folders, please also modify the corresponding content in the :doc:`/resources-migg/google-drive`.
 
 
 MIG Routine Managers
@@ -39,10 +39,10 @@ Before the new member arrives NTU
 
     There are four websites related to our group now.
 
-    1. `https://personal.ntu.edu.sg/tongping/ <https://personal.ntu.edu.sg/tongping/>`_ (Prof. Ping Tong's research group)
-    2. `https://blogs.ntu.edu.sg/geophysics <https://blogs.ntu.edu.sg/geophysics>`_ (Groupmeeting topics and papers)
-    3. `https://migg-ntu.github.io/MIG_Docs/ <https://migg-ntu.github.io/MIG_Docs/index.html>`_ (MIG User Docs)
-    4. `https://github.com/MIGG-NTU <https://github.com/MIGG-NTU>`_ (MIG GitHub)
+    1. https://personal.ntu.edu.sg/tongping/ (Prof. Ping Tong's research group)
+    2. https://blogs.ntu.edu.sg/geophysics/ (Groupmeeting topics and papers)
+    3. https://migg-ntu.github.io/MIG_Docs/ (MIG User Docs)
+    4. https://github.com/MIGG-NTU/ (MIG GitHub)
 
     Some MIGG internal materials are available in MIGG Google Drive： xxx (replaced xxx with real share link of ``MIGG-materials``)
 
@@ -53,7 +53,7 @@ Before the new member arrives NTU
     Yours,
     XXX (replace xxx with your name)
 
-- Before a new member arrives Singapore, please send him/her some information about NTU and Singapore and **cc to Prof. TONG**. For example, `留学新加坡 <https://core-man.github.io/blog/post/oversea-in-singapore/>`_. This could be included in the above email.
+- Before a new member arrives Singapore, please send him/her some information about NTU and Singapore (e.g., :doc:`/life/overseas-life-singapore`) and **cc to Prof. TONG**. This could be included in the above email.
 
 - If he/she is not in our WeChat group, we can also ask if him/her has a WeChat account so that we can add him/her in the WeChat group. This could also be included in the above email. But remember **first** ask Prof. Tong if we can add him/her into the WeChat group **before** adding him/her into the group. Actualy only boss can add someone into the WeChat group.
 
@@ -69,11 +69,11 @@ After the new member arrives NTU
 
 - After a new member arrives at NTU, please tell him about `Introductary seismological material checklist <https://core-man.github.io/blog/post/intro-material-seismology/>`_ if he/she is not familiar with those basic skills.
 
-- After a new member arrives at NTU, please add his/her information in `MIG members <https://migg-ntu.github.io/MIG_Docs/info-migg/info.html#current-members>`_ and `MIG Homepage <https://personal.ntu.edu.sg/tongping/#people>`_.
+- After a new member arrives at NTU, please add his/her information in :ref:`MIG Current Members <subsec:MIG-currnet-members>` and `MIG Homepage <https://personal.ntu.edu.sg/tongping/#people>`_.
 
 - After a new member arrives at NTU for some time, please ask Prof. Shengji Wei if he/she can be added to EOS-seismology WeChat group **if he/she is interested to attend Shengji's groupmeeting and have a good relationship with EOS-seismology group**.
 
-- After a new member arrives at NTU for some time, please ask him/her if he/she would like to share Bachelor, Master, PhD thesis & ppt. If so, please add it in `MIG Thesis <https://migg-ntu.github.io/MIG_Docs/collection/thesis-MIGG.html>`_ and upload them in MIGG Google Drive.
+- After a new member arrives at NTU for some time, please ask him/her if he/she would like to share Bachelor, Master, PhD thesis & ppt. If so, please add it in :doc:`/photos-thesis/thesis-MIGG` and upload them in MIGG Google Drive.
 
 
 After a memeber leaves NTU
@@ -81,7 +81,7 @@ After a memeber leaves NTU
 
 - After a member leaves NTU, please delete his/her email from Google email group.
 
-- After a member leaves NTU, please update his/her information in `MIG members <https://migg-ntu.github.io/MIG_Docs/info-migg/info.html#current-members>`_ and `MIG Homepage <https://personal.ntu.edu.sg/tongping/#people>`_.
+- After a member leaves NTU, please update his/her information in :ref:`MIG Current Members <subsec:MIG-currnet-members>` and `MIG Homepage <https://personal.ntu.edu.sg/tongping/#people>`_.
 
 - After a member leaves NTU, please click **reply to all** in Prof. Shengji Wei's paper reading notice email, and delete the member's email in the receiver list. Please clarify in the main text that "This email is just to delete XXX XXX in the email list because he/she has left NTU". After the email is sent, the member will not receive their paper reading notice email anymore.
 
@@ -99,17 +99,15 @@ Group meeting arrangement
 
 - Please check Pulic Holidays before arranging a group meeting. Please refer to `NTU Academic Calendar <https://www.ntu.edu.sg/sasd/oas/AcademicCalendar/Pages/index.aspx>`_.
 
-- Please refer to `LT/TR Room booking <https://github.com/MathImaging-Geophysics-Group/resources.ntu>`_ to help Prof. TONG with tutorial room booking. If you have no access, please ask other members help you.
+- Please refer to :doc:`/resources-ntu/room-booking/index` to help Prof. TONG with tutorial room booking. If you have no access, please ask other members help you.
 
-- Please refer to `NTU blog <https://github.com/MIGG-NTU/resources.ntu>`_ to learn how to manage MIGG groupmeeting website.
+- Please refer to :doc:`/resources-ntu/ntu-blog/index` to learn how to manage MIGG groupmeeting website.
 
 - Please remind the reporter to send ppt to the manager after the presentation, so that MIGG members can download the ppt after groupmeeting.
 
-- Please update all the things in `groupmeeting.ntu <https://github.com/MIGG-NTU/groupmeeting.ntu>`_ simultaneously in the GitHub for a backup purpose.
+- Please always remember to update :doc:`/groupmeeting/index` in the GitHub for a backup purpose.
 
 - Please upload ppt to ``groupmeeting.ntu`` in MIGG Google Drive simultaneously for a backup purpose if ppt is available. Paper pdfs are not needed to upload there due to the space limit.
-
-- Please create or update the collections in `MIG Groupmeeting Website <https://blogs.ntu.edu.sg/geophysics/>`_ simultaneously so that we can have a good document record.
 
 
 Group meeting notice

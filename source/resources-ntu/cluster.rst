@@ -75,19 +75,19 @@ Edwin has installed ``Anaconda`` on Gekko, and he suggested us use Anaconda to c
     # 1. Create the virtual env
     # myvirtual: just a name of your virtual environment
     # The following are essential packages you want to install (Python, Obspy, etc.)
-    $ >> conda create -n myvirtual obspy=1.2.1 python=3
+    $ conda create -n myvirtual obspy=1.2.1 python=3
 
     # 2. Activate virtual environment
     # The virtual environment is permanently saved in your home folder
-    $ >> conda activate myvirtual
+    $ conda activate myvirtual
 
     # 3. In your virtual environment, you have the sudo user permission.
     # For example, install more packages using the normal conda or pip commands.
-    $ >> conda install matplotlib
-    $ >> pip install matplotlib
+    $ conda install matplotlib
+    $ pip install matplotlib
 
     # 4. Do anything in you virtual environment
-    $ >> git clone https://github.com/core-man/seismic-data.git
+    $ git clone https://github.com/core-man/seismic-data.git
 
 
 Notes
