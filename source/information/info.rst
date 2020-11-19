@@ -1,6 +1,8 @@
 MIG Information Collection
 ==========================
 
+.. _subsec:MIG-currnet-members:
+
 Current Members
 ---------------
 
@@ -64,23 +66,23 @@ MIG Homepage
 ------------
 
 - Website
-    - 2020/10/14: `https://personal.ntu.edu.sg/tongping <https://personal.ntu.edu.sg/tongping>`_
-    - 201X-2020/10/14: `https://www.ntu.edu.sg/home/tongping <https://www.ntu.edu.sg/home/tongpin>`_
+    - 2020/10/14: https://personal.ntu.edu.sg/tongping/
+    - 201X-2020/10/14: https://www.ntu.edu.sg/home/tongping/
 - Manager: Jiayuan Yao & Ping Tong
 
 
 MIG User Guide
 --------------
 
-- Website: `https://migg-ntu.github.io/MIG_Docs/ <https://migg-ntu.github.io/MIG_Docs/>`_ (built on 2020/09)
+- Website: https://migg-ntu.github.io/MIG_Docs/ (built on 2020/09)
 - Manager: Jiayuan Yao
 
 
 MIG Group Meeting
 -----------------
 
-- Website: `https://blogs.ntu.edu.sg/geophysics <https://blogs.ntu.edu.sg/geophysics>`_
-- Website Tutorial: `NTU blog <https://github.com/MathImaging-Geophysics-Group/resources.ntu>`_
+- Website: https://blogs.ntu.edu.sg/geophysics/
+- Website Tutorial: :doc:`/resources-ntu/ntu-blog/index`
 - Manager: Shijie Hao (Core Administrator), Tianjue Li & Jiayuan Yao
 
 
@@ -94,14 +96,14 @@ MIG Intranet
     - 2019/11/04 ~ 2020/02/19: ``http://10.101.164.185:2018``
     - 2018       ~ 2019/11/03: ``http://172.21.51.61:2018``
 - Location: Installed in Jiayuan Yao's workstation at SPMS-MAS-04-07
-- Access: Only shared to MIG members. We can only get access to the intranet via NTU internet. We have to use `NTU VPN <https://github.com/MathImaging-Geophysics-Group/resources.ntu>`_ if we are outside ot NTU.
+- Access: Only shared to MIG members. We can only get access to the intranet via NTU internet. We have to use :doc:`/resources-ntu/vpn` if we are outside ot NTU.
 - Manager: Jiayuan Yao
 
 
 MIG GitHub
 ----------
 
-- Website: `https://github.com/MIGG-NTU <https://github.com/MIGG-NTU>`_
+- Website: https://github.com/MIGG-NTU/
 - Members
     - Ping Tong (owner)
     - Jiayuan Yao (owner & Core Administrator)
@@ -136,7 +138,7 @@ MIG Shared Data
 ---------------
 
 - Google Drive
-    - Website: `https://drive.google.com/drive/my-drive <https://drive.google.com/drive/my-drive>`_
+    - Website: https://drive.google.com/drive/my-drive
     - Manager: Anyone know MIG email and its passwd can log in the Google Drive.
     - Note: There is **15 GB** free space. We put non-open internal data (e.g., thesis) and some large files (e.g., ppt) here.
 - `Ping Tong's Research Data at NTU <https://researchdata.ntu.edu.sg/dataverse/tongping>`_: NTU data repository to share research data
