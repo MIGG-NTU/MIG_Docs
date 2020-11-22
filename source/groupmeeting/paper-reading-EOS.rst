@@ -20,6 +20,12 @@ This website is a backup of group meeting information of `EOS Observational Seis
 - Deepa
 - Yukuan Chen
 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Continuum of earthquake rupture speeds enabled by oblique slip
+
+- 2020/11/27
+- Weng, H. and Ampuero, J.P., 2020. Continuum of earthquake rupture speeds enabled by oblique slip. Nature Geoscience, pp.1-5.
+
 Evolution of tectonics and geodynamics of the eastern part of the India-Asia collision in Myanmar
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
