@@ -15,7 +15,7 @@ Boss              Ping TONG 童平       tongping@ntu.edu.sg       tongping85@gm
 PhD Student       Yongsheng LIU 刘永生 shidayongsheng@163.com    lysntu@gmail.com          2017 Aug.
 PhD Student       Yingyu QI 齐樱宇     yingyu_qi@hotmail.com                               2017 Aug.
 PhD Student       Tianjue LI 李天觉    tianjueli89@gmail.com     tianjue001@e.ntu.edu.sg   2020 Aug.
-PhD Student       Shijie HAO 郝时杰    shijiehao95@126.com       shijie001@e.ntu.edu.sg    2020 Aug.
+PhD Student       Shijie HAO 郝识杰    shijiehao95@126.com       shijie001@e.ntu.edu.sg    2020 Aug.
 PhD Student       Chunfei CHEY 谢俊辉  chey0014@e.ntu.edu.sg                               2020 Aug.
 Master Student    Yau Wing CHENG       yauwing1118@gmail.com                               2018 Aug.
 Master Student    Xiaoyan LI 李晓岩    839652320@qq.com          xiaoyan003@e.ntu.edu.sg   2019 Jul.
