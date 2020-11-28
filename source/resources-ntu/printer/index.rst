@@ -5,6 +5,7 @@ NTU use *MPS* printer queue. There is a black-white printer in MAS-04-07. Beside
 
 - Install on Macintosh: please use this `manual <https://raw.githubusercontent.com/MIGG-NTU/MIG_Docs/master/source/resources-ntu/printer/NTUMPS-MAC.pdf>`__.
     - Important note for macOS Big Sur (11.0.1 and later) user: the HP driver provided by Apple corrently does not support the system version, please go to `HP website <https://support.hp.com/us-en/drivers/printers>`__ to download the newer driver via the ``HP Easy Start``.
+    - To use the ``HP Easy Start``, you need to know the printer model (for MAS-04-07, the model is LaserJet Pro M404dn), and the printer IP address (you can get this info on the printer by printing out the ``Network Configuration Page``, the current IP is ``10.97.164.29`` but it may change in the future).
 - Install on Windows: please use this `manual <https://raw.githubusercontent.com/MIGG-NTU/MIG_Docs/master/source/resources-ntu/printer/NTUMPS-WIN.pdf>`__.
 - The url used to check the status for MPS is ``http://mps/mydoc``.
 
