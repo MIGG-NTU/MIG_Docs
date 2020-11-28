@@ -4,6 +4,7 @@ NTU printer
 NTU use *MPS* printer queue. There is a black-white printer in MAS-04-07. Besides, we can use color printers in the Heads of Division office (SPMS-PAP-02-01) near the elevator in the second floor in SPMS. There are also two color printers in the fifth floor of MAS. But, only a PI can open the door of the room with printers in the fifth floor.
 
 - Install on Macintosh: please use this `manual <https://raw.githubusercontent.com/MIGG-NTU/MIG_Docs/master/source/resources-ntu/printer/NTUMPS-MAC.pdf>`__.
+    - Important note for macOS Big Sur (11.0.1 and later) user: the HP driver provided by Apple corrently does not support the system version, please go to `HP website <https://support.hp.com/us-en/drivers/printers>`__ to download the newer driver via the ``HP Easy Start``.
 - Install on Windows: please use this `manual <https://raw.githubusercontent.com/MIGG-NTU/MIG_Docs/master/source/resources-ntu/printer/NTUMPS-WIN.pdf>`__.
 - The url used to check the status for MPS is ``http://mps/mydoc``.
 
