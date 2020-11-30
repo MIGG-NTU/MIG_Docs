@@ -7,11 +7,17 @@ Some workshops hosted in MIG, with PPTs in MIG Google Drive (``groupmeeting.NTU/
 Seismic training mini-workshop (**Planned**)
 --------------------------------------------
 
-- Seismic data: introduction, downloading and processing
-- Receiver function
-- Ambient noise tomography
-- Body-wave tomography
-- More
+- Body-wave tomography: About 2020 Dec. by Prof. Tong
+- Seismic data: introduction, downloading and processing: **TBA**
+- Receiver function: **TBA**
+- Ambient noise tomography: **TBA**
+- More: **TBA**
+
+
+Seminar with Prof. Pan Guangming
+--------------------------------
+
+Prof. Pan is an expert in the field of statistics and time series data. We introduce our data and method, hoping to explore the possibility to make use of their expertise with PPTs avaiable in MIG Google Drive (``groupmeeting.MIGG/workshop.MIGG/20201124``).
 
 
 MIG workshop during 2019 AOGS
