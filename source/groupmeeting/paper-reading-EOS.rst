@@ -20,6 +20,12 @@ This website is a backup of group meeting information of `EOS Observational Seis
 - Deepa
 - Yukuan Chen
 
+ Shumagin seismic gap at the Alaska subduction zone
+ +++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+- 2020/12/4 by Qibin
+- Shillington D J, Bécel A, Nedimović M R, et al. Link between plate fabric, hydration and subduction zone seismicity in Alaska[J]. Nature Geoscience, 2015, 8(12): 961-964.
+
 Continuum of earthquake rupture speeds enabled by oblique slip
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
