@@ -91,47 +91,97 @@ We use the following `pull request merging method <https://docs.github.com/cn/fr
 - Automatically delete head branches
 
 
+Preparation
++++++++++++
+
 1. clone the remote repository if it is the first time:
 
 .. code-block:: console
 
     $ git clone git@github.com:MIGG-NTU/MIG_Docs.git
 
-2. Update the local branches and create a feature branch:
+
+Maintainment
+++++++++++++
+
+1. Update the local branches from remote since others may revise the remote branches
 
 .. code-block:: console
 
-    $ hub sync                  # update the local branches since others may revise the remote
-    $ git checkout -b feature_X # create a feature branch
+    # frist way: use hub
+    $ hub sync
+    # second way: use git pull
+    $ git checkout main
+    $ git pull
 
-3. Do some revisions and updates on the feature_X branch, and check them by building the repository locally at the same time. You have to install `Sphinx <https://www.sphinx-doc.org/en/master/usage/installation.html>`__ and `Read the Docs Sphinx Theme <https://github.com/readthedocs/sphinx_rtd_theme>`__ to build the website locally.
-
-.. code-block:: console
-
-    $ make html                            # build the website
-    $ google-chrome build/html/index.html& # open the website in a website browser
-
-4. When you think the revisions are okay, create a pull request and request at least 1 reviewer:
+2. Create a feature branch (e.g., ``feature_x``) in which we update and commit the revisions
 
 .. code-block:: console
 
+    $ git checkout -b feature_X
+
+3. Do some revisions on the feature_X branch, and check them by building the repository locally at the same time. You have to install `Sphinx <https://www.sphinx-doc.org/en/master/usage/installation.html>`__ and `Read the Docs Sphinx Theme <https://github.com/readthedocs/sphinx_rtd_theme>`__ to build the website locally.
+
+.. code-block:: console
+
+    $ make html                            # build the website locally
+    $ google-chrome build/html/index.html& # check the website in a website browser
+
+4. Commit the revisions. You can do the revisions and commit them for many times.
+
+.. code-block:: console
+
+    $ git status
     $ git add --all
-    $ git commit -m "revise ..."
+    $ git status
+    $ git commit -m "leave a revise message here"
+
+5. When you do the revisions locally, the remote ``main`` branch may be updated. So, we have to always synchronize with the remote ``main`` branch.
+
+.. code-block:: console
+
+   # first way
+   # synchronize with remote main branch using hub
+   $ hub sync
+   # rebase the feature branch to be based on the latest main branch
+   $ git rebase main
+
+   # second way
+   # synchronize with remote main branch using git pull
+   $ git checkout main
+   $ git pull
+   # checkout to feature branch and rebase it to be based on the latest main branch
+   $ git checkout feature_X
+   $ git rebase master
+
+
+6. When you revise the content, there could be many commits. Some commits may be not so important. You can squash some commits into one or several commits so that the revisions are clear and easy to manage.
+
+.. code-block:: console
+
+   $ git rebase -i main
+
+
+7. When you think the revisions are okay, create a pull request and request at least 1 reviewer:
+
+.. code-block:: console
+
     $ gh pr create -r core-man,HouseJaay,Shucheng-Wu,tianjueli
 
-5. Review/Approval/Merge on GitHub
+8. Review/Approval/Merge on GitHub
 
    - The reviewers review the commit by commentting and/or approving it online.
    - If everything is fine, the author can go to the GitHub website to merge the commit.
-   - If something is wrong, the author needs to revise the commit or submit a new pull request.
-   - When the commit is merged, the feature_X branch will be automatically deleted in Github.
+   - If there are conflicts, the author needs to resolve them locally and push to remote again.
+   - When commits are merged, the feature_X branch will be automatically deleted in Github.
 
-6. At last, we have to update the local branches:
+9. When commits are merged, we have to update the local branches:
 
 .. code-block:: console
 
     $ hub sync                 # update the local branches since the remote master has been updated
+    $ git checkout main        # checkout to main branch
     $ git branch -D feature_X  # delete local feature branch
 
 
-In summary, we first add revisions in a local feature branch, and submit a pull request. If it is approved and merged to the remote master branch, we then have to update the local master branch with the remote one. At last, the local feature is deleted.
+In summary, we first add revisions in a local feature branch, and submit a pull request. If it is approved and merged to the remote master branch, we then have to update the local main branch with the remote one. At last, the local feature has to be deleted.
