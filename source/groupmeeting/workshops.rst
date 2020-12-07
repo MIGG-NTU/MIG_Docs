@@ -14,6 +14,15 @@ Seismic training mini-workshop (**Planned**)
 - More: **TBA**
 
 
+Seismic Traveltime Tomography Tutorials
+---------------------------------------
+
+A series of tutorials for beginners in seismic traveltime tomography.
+
+- Github repository: https://github.com/MIGG-NTU/SeisTomo_Tutorials
+- Lectures and exercises are available in Github, while we also put them together with tutorial videos in MIG Google Drive (``groupmeeting.MIGG/workshop.MIGG/2020-SeisTomo-Tutorials``) and BaiduDisk (link: https://pan.baidu.com/s/1-8wQmywkvByrPtBhKD4x5g | Passwd: ``4vgu``).
+
+
 Seminar with Prof. Pan Guangming
 --------------------------------
 
