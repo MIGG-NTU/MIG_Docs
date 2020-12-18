@@ -22,10 +22,10 @@ Account & Password
 - Log in: ``ssh jiayuanyao@gekko.earthobservatory.sg``
 
 
-Projects of Prof. Tong Ping
+Prof. Tong Ping's Projects
 ---------------------------
 
-Prof Tong Ping has two project groups: ``spms_tongping`` and ``eos_tongping``.
+PBS-Pro requires a project group to function. Prof Tong Ping has two project groups: ``spms_tongping`` and ``eos_tongping``.
 
 - The account `spms_tongping` will be charge at 4 cents per core hour.
 - The account ``eos_tongping`` will not be charge, as EOS had already paid for the resources. It can be used for running collaboration jobs with EOS.
@@ -94,31 +94,37 @@ Using Scratch Space
 +++++++++++++++++++
 
 **An initial notice sent to Jiayuan Yao:**
+
 If you are hoping to speed up your work especially if you have reading/writing lots of data (I/O intensive),  you may want to use ``/scratch/username``. The scratch space is a fast scratch space several time faster than home directory. It was meant to speed up computing run (nearly **3 times faster**). So you will recover back your time.. But you have to clear off the data manually after the run as the scratch space is very expensive and limited.
 
-**`An notice posted in Yammer on Dec. 14 2020 <https://www.yammer.com/e.ntu.edu.sg/#/threads/show?threadId=989272424267776>`__**
- 
+**An notice posted in Yammer on Dec. 14 2020**
+
+- `original note <https://www.yammer.com/e.ntu.edu.sg/#/threads/show?threadId=989272424267776>`__
+
 NVMe Scratch Space has been increased from **50TB** to **150TB**. Speed up your work by using this fast scratch space!
 
-We have upgraded the NVMe Scratch so that you can have the lowest latency and highest performance especially when your Read/Write to the disk is high. 
+We have upgraded the NVMe Scratch so that you can have the lowest latency and highest performance especially when your Read/Write to the disk is high.
 
-Every users should have a scratch space called ``/scratch/youruserid``. You can copy the specific folder (not your entire home directory please) that you are running there and submit your jobs via ``qsub``. **Upon completion of the job, copy the essential files or folder back to your home directory**. 
+Every users should have a scratch space called ``/scratch/youruserid``. You can copy the specific folder (not your entire home directory please) that you are running there and submit your jobs via ``qsub``. **Upon completion of the job, copy the essential files or folder back to your home directory**.
 
 Do note that the scratch directory is not a home directory to store data permanently. It is a super-fast read/write space
 
-If you are not sure how to use it drop me an private email via yammer. 
+If you are not sure how to use it drop me an private email via yammer.
 
 
-Notes
------
+Quota
++++++
+
+- Default Disk Quota (200GB) per user. For additional space, please see the `website <https://ts.ntu.edu.sg/sites/hpc/_layouts/15/start.aspx#/Charges>`_
+- For EOS user, default disk quota is 500GB. If you need more, such as 10TB, please drop a mail to Edwin Tan Seng Tat (EdwinTan@ntu.edu.sg).
+- Each node has a memory of 384GB.
+
+
+Other Notes
++++++++++++
 
 - Submission Scripts: log in the cluster, and copy from ``/usr/local/templates``.
-- Project Group: PBS-Pro requires a Project Group to function, i.e., ``eos_tongping`` and ``spms_tongping``
 - A new queue @Gekko called ``budget_night`` which is 50% cheaper. The catch is that the job will only run from 6 pm onwards and it has 12 hours wall-time limits only. But there is no restriction in the number of cores you can use. For more information do get it from Yammer (NTU HPC Users' Group) or NTU-HPC website.
-- Quota
-    - Default Disk Quota (200GB) per user. For additional space, please see the `website <https://ts.ntu.edu.sg/sites/hpc/_layouts/15/start.aspx#/Charges>`_
-    - For EOS user, default disk quota is 500GB. If you need more, such as 10TB, please drop a mail to Edwin Tan Seng Tat (EdwinTan@ntu.edu.sg).
-    - Each node has a memory of 384GB.
 - `Computing and storage charges <https://ts.ntu.edu.sg/sites/hpc/_layouts/15/start.aspx#/Charges>`_
 - Software and Hardware Inventories
     - `Hardware Inventories <https://ts.ntu.edu.sg/sites/hpc/_layouts/15/start.aspx#/Hardware%20Configuration>`_
