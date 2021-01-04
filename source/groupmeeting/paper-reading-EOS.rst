@@ -3,6 +3,14 @@ Paper Reading (EOS)
 
 This website is a backup of group meeting information of `EOS Observational Seismology group <https://earthobservatory.sg/research-group/observational-seismology-wei-shengji>`_. Some available PPTs are in MIG Google Drive (``groupmeeting.NTU/groupmeeting.EOS``) or in EOS-Seismology Microsoft Teams (``Files/PaperReading``).
 
+2021
+----
+
+Fault healing promotes high-frequency earthquakes in laboratory experiments and on natural faults
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- 2021/01/08 by Hongyu
+- McLaskey, G., Thomas, A., Glaser, S. et al. Fault healing promotes high-frequency earthquakes in laboratory experiments and on natural faults. Nature 491, 101–104 (2012). https://doi.org/10.1038/nature11512
 
 2020
 ----
