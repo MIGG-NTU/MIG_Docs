@@ -6,6 +6,24 @@ This website is a backup of group meeting information of `EOS Observational Seis
 2021
 ----
 
+Basement Imaging Using Sp Converted Phases from a Dense Strong-Motion Array in Lan-Yang Plain, Taiwan
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- 2021/1/22 by Win
+
+- Chang C H, Lin T L, Wu Y M, et al. Basement imaging using Sp converted phases from a dense strong-motion array in Lan-Yang Plain, Taiwan[J]. Bulletin of the Seismological Society of America, 2010, 100(3): 1363-1369.
+
+Deep structure of NE China
+++++++++++++++++++++++++++
+
+- 2021/01/15 by Weiwen
+
+- Distinct slab interfaces imaged within the mantle transition zone https://doi.org/10.1038/s41561-020-00653-5
+
+- Changbaishan volcanism in northeast China linked to subduction-induced mantle upwelling DOI: 10.1038/NGEO2166
+
+- P-wave tomography of Northeast Asia: Constraints on the western Pacific plate subduction and mantle dynamics https://doi.org/10.1016/j.pepi.2017.11.003
+
 Fault healing promotes high-frequency earthquakes in laboratory experiments and on natural faults
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
