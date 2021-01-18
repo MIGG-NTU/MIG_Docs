@@ -21,7 +21,6 @@ Deep structure of NE China
 - Distinct slab interfaces imaged within the mantle transition zone https://doi.org/10.1038/s41561-020-00653-5
 
 - Changbaishan volcanism in northeast China linked to subduction-induced mantle upwelling DOI: 10.1038/NGEO2166
-
 - P-wave tomography of Northeast Asia: Constraints on the western Pacific plate subduction and mantle dynamics https://doi.org/10.1016/j.pepi.2017.11.003
 
 Fault healing promotes high-frequency earthquakes in laboratory experiments and on natural faults
@@ -753,4 +752,3 @@ Active and recent tectonics of the Burma Platelet
 
 - 2018/08/17
 - Rangin, C. (2017). Active and recent tectonics of the Burma Platelet in Myanmar. Geological Society, London, Memoirs, 48(1), 53-64.
-
