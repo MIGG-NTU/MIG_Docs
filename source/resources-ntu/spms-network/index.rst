@@ -55,3 +55,7 @@ NTU wireless network
 
 We need to upgrade your MacBook macOS to the latest version and upload the NTU wireless profile in order to use the wireless network. The steps to upload the NTU wireless profile can be found `here <https://www.ntu.edu.sg/cits/NTUwireless/Pages/Mac_OS_NTUSECURE.aspx>`_.
 
+Access intranet via wired connection
+------------------------------------
+To access intranet via wired connection, need to config authentication method to be PEAP.
+Here is a `document <https://www.virtualizationhowto.com/2018/12/configure-windows-10-for-802-1x-user-authentication/>`_ (in Chinese).
