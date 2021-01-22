@@ -58,4 +58,4 @@ We need to upgrade your MacBook macOS to the latest version and upload the NTU w
 Access intranet via wired connection
 ------------------------------------
 To access intranet via wired connection, need to config authentication method to be PEAP.
-Here is a `document <https://www.virtualizationhowto.com/2018/12/configure-windows-10-for-802-1x-user-authentication/>`_ (in Chinese).
+Here is a `document <https://www.virtualizationhowto.com/2018/12/configure-windows-10-for-802-1x-user-authentication/>`_.
