@@ -6,6 +6,13 @@ This website is a backup of group meeting information of `EOS Observational Seis
 2021
 ----
 
+Laboratory Earthquakes: The Sub-Rayleigh–to–Supershear Rupture Transition
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- 2021/1/29 by Deepa
+
+- Xia K W, Ares J R, Hiroo K, et al. Laboratory Earthquakes: The Sub-Rayleigh–to–Supershear Rupture Transition. American Association for the Advancement of Science, 2004, 303(5665): 1859-1861. https://doi.org/10.1126/science.1094022
+
 Basement Imaging Using Sp Converted Phases from a Dense Strong-Motion Array in Lan-Yang Plain, Taiwan
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
