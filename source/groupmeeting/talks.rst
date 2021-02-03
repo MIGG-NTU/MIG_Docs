@@ -4,6 +4,23 @@ Invited Talks
 Some invited talks in MIGG, with some PPTs in MIGG Google Drive (``groupmeeting.NTU/talks.MIGG``).
 
 
+2021
+----
+
+Crustal and Upper Mantle Structure Beneath Central Myanmar Inferred from Receiver Functions
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- 2021/02/02 by Yiming Bai
+
+- Abstract: 
+
+The Eocene collision of India into Eurasia dominates the tectonics of Southeast Asia. To the east, the Indian plate is obliquely subducting along the Burma arc into the upper mantle. Affected by this, the country of Myanmar has undergone complex tectonic processes and is of high seismic risk. Yet, the subsurface seismic structure of this region has not been not fully investigated. In this talk, he will present some recent work on the crustal and upper mantle structure beneath central Myanmar and adjacent regions inferred from receiver functions and other techniques. The seismic data used were primarily collected from a China-Myanmar temporary experiment.
+
+- Reference:
+
+Bai Y., Yuan X., He Y., Hou G., M. Thant, K. Sein, Ai Y., et al. (2020). Mantle Transition Zone Structure Beneath Myanmar and Its Geodynamic Implications. AGU Journals: Geochemistry, Geophysics, Geosystems, 21(12): 1-18. https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GC009262
+
+
 2020
 ----
 
