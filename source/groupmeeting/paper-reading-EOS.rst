@@ -9,14 +9,14 @@ This website is a backup of group meeting information of `EOS Observational Seis
 Laboratory Earthquakes: The Sub-Rayleigh–to–Supershear Rupture Transition
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-- 2021/1/29 by Deepa
+- 2021/01/29 by Deepa
 
 - Xia K W, Ares J R, Hiroo K, et al. Laboratory Earthquakes: The Sub-Rayleigh–to–Supershear Rupture Transition. American Association for the Advancement of Science, 2004, 303(5665): 1859-1861. https://doi.org/10.1126/science.1094022
 
 Basement Imaging Using Sp Converted Phases from a Dense Strong-Motion Array in Lan-Yang Plain, Taiwan
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-- 2021/1/22 by Win
+- 2021/01/22 by Win
 
 - Chang C H, Lin T L, Wu Y M, et al. Basement imaging using Sp converted phases from a dense strong-motion array in Lan-Yang Plain, Taiwan[J]. Bulletin of the Seismological Society of America, 2010, 100(3): 1363-1369.
 
