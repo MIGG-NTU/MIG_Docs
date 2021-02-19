@@ -3,56 +3,7 @@ Paper Reading (EOS)
 
 This website is a backup of group meeting information of `EOS Observational Seismology group <https://earthobservatory.sg/research-group/observational-seismology-wei-shengji>`_. Some available PPTs are in MIG Google Drive (``groupmeeting.NTU/groupmeeting.EOS``) or in EOS-Seismology Microsoft Teams (``Files/PaperReading``).
 
-2021
-----
-
-Earth’s deepest earthquake swarms track fluid ascent beneath nascent arc volcanoes
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-- 2021/02/19 by Karen
-
-- White, L. T., Rawlinson, N., Lister, G. S., Waldhauser, F., Hejrani, B., Thompson, D. A., et. al. Morgan, J. P., Earth's deepest earthquake swarms track fluid ascent beneath nascent arc volcanoes, 2019. https://www.sciencedirect.com/science/article/pii/S0012821X19303310 
-
-Deep Learning for Picking Seismic Arrival Times
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-- 2021/02/05 by Yukuan
-
-- Wang, J., Xiao, Z., Liu, C., Zhao, D., & Yao, Z. Deep Learning for Picking Seismic Arrival Times. Journal of Geophysical Research: Solid Earth, 2019, 124(7), 6612–6624. https://doi.org/10.1029/2019jb017536
-
-Laboratory Earthquakes: The Sub-Rayleigh–to–Supershear Rupture Transition
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-- 2021/01/29 by Deepa
-
-- Xia K W, Ares J R, Hiroo K, et al. Laboratory Earthquakes: The Sub-Rayleigh–to–Supershear Rupture Transition. American Association for the Advancement of Science, 2004, 303(5665): 1859-1861. https://doi.org/10.1126/science.1094022
-
-Basement Imaging Using Sp Converted Phases from a Dense Strong-Motion Array in Lan-Yang Plain, Taiwan
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-- 2021/01/22 by Win
-
-- Chang C H, Lin T L, Wu Y M, et al. Basement imaging using Sp converted phases from a dense strong-motion array in Lan-Yang Plain, Taiwan[J]. Bulletin of the Seismological Society of America, 2010, 100(3): 1363-1369.
-
-Deep structure of NE China
-++++++++++++++++++++++++++
-
-- 2021/01/15 by Weiwen
-
-- Distinct slab interfaces imaged within the mantle transition zone https://doi.org/10.1038/s41561-020-00653-5
-- Changbaishan volcanism in northeast China linked to subduction-induced mantle upwelling DOI: 10.1038/NGEO2166
-- P-wave tomography of Northeast Asia: Constraints on the western Pacific plate subduction and mantle dynamics https://doi.org/10.1016/j.pepi.2017.11.003
-
-Fault healing promotes high-frequency earthquakes in laboratory experiments and on natural faults
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-- 2021/01/08 by Hongyu
-- McLaskey, G., Thomas, A., Glaser, S. et al. Fault healing promotes high-frequency earthquakes in laboratory experiments and on natural faults. Nature 491, 101–104 (2012). https://doi.org/10.1038/nature11512
-
-2020
-----
-
-**Schedule:**
+**Current People:**
 
 - Weiwen Chen
 - Karen Lythgoe
@@ -65,8 +16,52 @@ Fault healing promotes high-frequency earthquakes in laboratory experiments and 
 - Deepa
 - Yukuan Chen
 
- Shumagin seismic gap at the Alaska subduction zone
- +++++++++++++++++++++++++++++++++++++++++++++++++++
+
+2021
+----
+
+Earth’s deepest earthquake swarms track fluid ascent beneath nascent arc volcanoes
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- 2021/02/19 by Karen
+- White, L. T., Rawlinson, N., Lister, G. S., Waldhauser, F., Hejrani, B., Thompson, D. A., et. al. Morgan, J. P., Earth's deepest earthquake swarms track fluid ascent beneath nascent arc volcanoes, 2019. https://www.sciencedirect.com/science/article/pii/S0012821X19303310 
+
+Deep Learning for Picking Seismic Arrival Times
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+- 2021/02/05 by Yukuan
+- Wang, J., Xiao, Z., Liu, C., Zhao, D., & Yao, Z. Deep Learning for Picking Seismic Arrival Times. Journal of Geophysical Research: Solid Earth, 2019, 124(7), 6612–6624. https://doi.org/10.1029/2019jb017536
+
+Laboratory Earthquakes: The Sub-Rayleigh–to–Supershear Rupture Transition
+
+- 2021/01/29 by Deepa
+- Xia K W, Ares J R, Hiroo K, et al. Laboratory Earthquakes: The Sub-Rayleigh–to–Supershear Rupture Transition. American Association for the Advancement of Science, 2004, 303(5665): 1859-1861. https://doi.org/10.1126/science.1094022
+
+Basement Imaging Using Sp Converted Phases from a Dense Strong-Motion Array in Lan-Yang Plain, Taiwan
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- 2021/01/22 by Win
+- Chang C H, Lin T L, Wu Y M, et al. Basement imaging using Sp converted phases from a dense strong-motion array in Lan-Yang Plain, Taiwan[J]. Bulletin of the Seismological Society of America, 2010, 100(3): 1363-1369.
+
+Deep structure of NE China
+++++++++++++++++++++++++++
+
+- 2021/01/15 by Weiwen
+- Wang, X., Chen, Q. F., Niu, F., Wei, S., Ning, J., Li, J., ... & Liu, L. (2020). Distinct slab interfaces imaged within the mantle transition zone. Nature Geoscience, 13(12), 822-827.
+- Tang, Y., Obayashi, M., Niu, F., Grand, S. P., Chen, Y. J., Kawakatsu, H., ... & Ni, J. F. (2014). Changbaishan volcanism in northeast China linked to subduction-induced mantle upwelling. Nature Geoscience, 7(6), 470-475.
+- Ma, J., Tian, Y., Liu, C., Zhao, D., Feng, X., & Zhu, H. (2018). P-wave tomography of Northeast Asia: Constraints on the western Pacific plate subduction and mantle dynamics. Physics of the Earth and Planetary Interiors, 274, 105-126.
+
+Fault healing promotes high-frequency earthquakes in laboratory experiments and on natural faults
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- 2021/01/08 by Hongyu
+- McLaskey, G., Thomas, A., Glaser, S. et al. Fault healing promotes high-frequency earthquakes in laboratory experiments and on natural faults. Nature 491, 101–104 (2012). https://doi.org/10.1038/nature11512
+
+2020
+----
+
+Shumagin seismic gap at the Alaska subduction zone
++++++++++++++++++++++++++++++++++++++++++++++++++++
  
 - 2020/12/4 by Qibin
 - Shillington D J, Bécel A, Nedimović M R, et al. Link between plate fabric, hydration and subduction zone seismicity in Alaska[J]. Nature Geoscience, 2015, 8(12): 961-964.
