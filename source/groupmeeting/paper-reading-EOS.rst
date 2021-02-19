@@ -6,17 +6,31 @@ This website is a backup of group meeting information of `EOS Observational Seis
 2021
 ----
 
+Earth’s deepest earthquake swarms track fluid ascent beneath nascent arc volcanoes
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- 2021/02/19 by Karen
+
+- White, L. T., Rawlinson, N., Lister, G. S., Waldhauser, F., Hejrani, B., Thompson, D. A., et. al. Morgan, J. P., Earth's deepest earthquake swarms track fluid ascent beneath nascent arc volcanoes, 2019. https://www.sciencedirect.com/science/article/pii/S0012821X19303310 
+
+Deep Learning for Picking Seismic Arrival Times
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- 2021/02/05 by Yukuan
+
+- Wang, J., Xiao, Z., Liu, C., Zhao, D., & Yao, Z. Deep Learning for Picking Seismic Arrival Times. Journal of Geophysical Research: Solid Earth, 2019, 124(7), 6612–6624. https://doi.org/10.1029/2019jb017536
+
 Laboratory Earthquakes: The Sub-Rayleigh–to–Supershear Rupture Transition
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-- 2021/1/29 by Deepa
+- 2021/01/29 by Deepa
 
 - Xia K W, Ares J R, Hiroo K, et al. Laboratory Earthquakes: The Sub-Rayleigh–to–Supershear Rupture Transition. American Association for the Advancement of Science, 2004, 303(5665): 1859-1861. https://doi.org/10.1126/science.1094022
 
 Basement Imaging Using Sp Converted Phases from a Dense Strong-Motion Array in Lan-Yang Plain, Taiwan
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-- 2021/1/22 by Win
+- 2021/01/22 by Win
 
 - Chang C H, Lin T L, Wu Y M, et al. Basement imaging using Sp converted phases from a dense strong-motion array in Lan-Yang Plain, Taiwan[J]. Bulletin of the Seismological Society of America, 2010, 100(3): 1363-1369.
 
