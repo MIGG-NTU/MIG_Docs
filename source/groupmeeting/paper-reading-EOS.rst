@@ -33,6 +33,7 @@ Deep Learning for Picking Seismic Arrival Times
 - Wang, J., Xiao, Z., Liu, C., Zhao, D., & Yao, Z. Deep Learning for Picking Seismic Arrival Times. Journal of Geophysical Research: Solid Earth, 2019, 124(7), 6612–6624. https://doi.org/10.1029/2019jb017536
 
 Laboratory Earthquakes: The Sub-Rayleigh–to–Supershear Rupture Transition
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 - 2021/01/29 by Deepa
 - Xia K W, Ares J R, Hiroo K, et al. Laboratory Earthquakes: The Sub-Rayleigh–to–Supershear Rupture Transition. American Association for the Advancement of Science, 2004, 303(5665): 1859-1861. https://doi.org/10.1126/science.1094022
