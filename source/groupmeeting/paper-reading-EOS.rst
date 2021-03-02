@@ -26,6 +26,12 @@ Near‐Field Ground Motions and Shaking from Ridgecrest Earthquake
 - 2021/03/05 by Phyo Maung Maung
 - Hough, S. E., Yun, S. H., Jung, J., Thompson, E., Parker, G. A., & Stephenson, O. (2020). Near‐Field Ground Motions and Shaking from the 2019 Mw 7.1 Ridgecrest, California, Mainshock: Insights from Instrumental, Macroseismic Intensity, and Remote‐Sensing Data. Bulletin of the Seismological Society of America, 110(4), 1506-1516.
 
+Localized fault-zone dilatancy and surface inelasticity of the 2019 Ridgecrest earthquakes
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- 2021/02/26 by Priyamvada Nanjundiah
+- Barnhart, W. D., Gold, R. D., & Hollingsworth, J. (2020). Localized fault-zone dilatancy and surface inelasticity of the 2019 Ridgecrest earthquakes. Nature Geoscience, 13(10), 699-704.
+
 Earth’s deepest earthquake swarms track fluid ascent beneath nascent arc volcanoes
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
