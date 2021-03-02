@@ -20,6 +20,12 @@ This website is a backup of group meeting information of `EOS Observational Seis
 2021
 ----
 
+Localized fault-zone dilatancy and surface inelasticity of the 2019 Ridgecrest earthquakes
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- 2021/02/26 by Priyamvada Nanjundiah
+- Barnhart, W. D., Gold, R. D., & Hollingsworth, J. (2020). Localized fault-zone dilatancy and surface inelasticity of the 2019 Ridgecrest earthquakes. Nature Geoscience, 13(10), 699-704.
+
 Earth’s deepest earthquake swarms track fluid ascent beneath nascent arc volcanoes
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
