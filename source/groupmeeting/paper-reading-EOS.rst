@@ -20,6 +20,12 @@ This website is a backup of group meeting information of `EOS Observational Seis
 2021
 ----
 
+Seismotectonics of the eastern Himalayan and indo‐burman plate boundary systems
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- 2021/03/12 by Wardah Shafiqah Binti MOHAMMAD FADIL
+- Kumar, A., Mitra, S., & Suresh, G. (2015). Seismotectonics of the eastern Himalayan and indo-burman plate boundary systems. Tectonics, 34(11), 2279–2295. https://doi.org/10.1002/2015tc003979
+
 Near‐Field Ground Motions and Shaking from Ridgecrest Earthquake
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
