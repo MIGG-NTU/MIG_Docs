@@ -20,6 +20,13 @@ This website is a backup of group meeting information of `EOS Observational Seis
 2021
 ----
 
+Seismotectonics of the eastern Himalayan and Indo‐Burman plate
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- 2021/03/19 by Wardah Shafiqah Binti MOHAMMAD FADIL
+- Kumar, A., Mitra, S., & Suresh, G. (2015). Seismotectonics of the eastern Himalayan and Indo‐Burman plate boundary systems. Tectonics, 34(11), 2279-2295.
+
+
 Seismotectonics of the eastern Himalayan and indo‐burman plate boundary systems
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
