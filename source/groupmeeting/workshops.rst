@@ -3,6 +3,15 @@ Workshops
 
 Some workshops hosted in MIG, with PPTs in MIG Google Drive (``groupmeeting.NTU/workshops.MIGG``).
 
+PyGMT Workshop, Introduction to Markdown, VS Code and Git
+---------------------------------------------------------
+
+An introduction to PyGMT:
+
+- Github repository: https://github.com/MIGG-NTU/PyGMT2021 which contains the installation dependencies and the tutorial file (Jupyter Lab / Jupyter Notebook).
+- Installation instrutions to PyGMT: https://www.pygmt.org/latest/install.html
+- Tutorials regarding basic plots and notes regarding the command-line in GMT compared to PyGMT are discussed.
+
 
 Seismic training mini-workshop (**Planned**)
 --------------------------------------------
