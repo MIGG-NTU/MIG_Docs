@@ -1,8 +1,8 @@
 NTU Network
 ===========
 
-Network Segmenation
--------------------
+Network Segmentation
+--------------------
 
 An Email (27 February 2020)
 +++++++++++++++++++++++++++
