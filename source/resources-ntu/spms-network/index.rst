@@ -1,8 +1,8 @@
 NTU Network
 ===========
 
-SPMS Network Segmenation
-------------------------
+Network Segmenation
+-------------------
 
 An Email (27 February 2020)
 +++++++++++++++++++++++++++
