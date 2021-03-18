@@ -6,7 +6,7 @@ Some workshops hosted in MIG, with PPTs in MIG Google Drive (``groupmeeting.NTU/
 PyGMT Workshop, Introduction to Markdown, VS Code and Git
 ---------------------------------------------------------
 
-An introduction to PyGMT:
+`An introduction to PyGMT <https://github.com/MIGG-NTU/PyGMT2021>`__:
 
 - Github repository: https://github.com/MIGG-NTU/PyGMT2021 which contains the installation dependencies and the tutorial file (Jupyter Lab / Jupyter Notebook).
 - Installation instrutions to PyGMT: https://www.pygmt.org/latest/install.html
