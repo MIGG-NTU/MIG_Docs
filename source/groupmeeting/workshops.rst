@@ -12,6 +12,11 @@ An introduction to PyGMT:
 - Installation instrutions to PyGMT: https://www.pygmt.org/latest/install.html
 - Tutorials regarding basic plots and notes regarding the command-line in GMT compared to PyGMT are discussed.
 
+`Introduction to some useful tools <https://github.com/MIGG-NTU/PyGMT2021/issues/2>`__
+
+- Markdown
+- VS Code
+- Git
 
 Seismic training mini-workshop (**Planned**)
 --------------------------------------------
@@ -150,4 +155,3 @@ Workshop Fee
 牛奶，可乐，椰子水  各两个 16.9      齐樱宇
 矿泉水              1箱多  16.7      李天觉 (7.7 S$) & 李晓岩 (9.0 S$, 收据丢失)
 =================== ====== ========= ========================================
-
