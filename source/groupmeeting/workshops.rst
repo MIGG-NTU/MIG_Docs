@@ -3,6 +3,21 @@ Workshops
 
 Some workshops hosted in MIG, with PPTs in MIG Google Drive (``groupmeeting.NTU/workshops.MIGG``).
 
+PyGMT Workshop
+--------------
+
+`An introduction to PyGMT <https://github.com/MIGG-NTU/PyGMT2021>`__:
+
+- Basic plots
+- Difference between the command-line in GMT and PyGMT
+- How to use non-wrapped GMT commands
+- Some reference tutorial
+
+`Introduction to some useful tools <https://github.com/MIGG-NTU/PyGMT2021/issues/2>`__
+
+- Markdown
+- VS Code
+- Git
 
 Seismic training mini-workshop (**Planned**)
 --------------------------------------------
@@ -141,4 +156,3 @@ Workshop Fee
 牛奶，可乐，椰子水  各两个 16.9      齐樱宇
 矿泉水              1箱多  16.7      李天觉 (7.7 S$) & 李晓岩 (9.0 S$, 收据丢失)
 =================== ====== ========= ========================================
-
