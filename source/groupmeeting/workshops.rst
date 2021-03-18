@@ -8,9 +8,10 @@ PyGMT Workshop
 
 `An introduction to PyGMT <https://github.com/MIGG-NTU/PyGMT2021>`__:
 
-- Github repository: https://github.com/MIGG-NTU/PyGMT2021 which contains the installation dependencies and the tutorial file (Jupyter Lab / Jupyter Notebook).
-- Installation instrutions to PyGMT: https://www.pygmt.org/latest/install.html
-- Tutorials regarding basic plots and notes regarding the command-line in GMT compared to PyGMT are discussed.
+- Basic plots
+- Difference between the command-line in GMT and PyGMT
+- How to use non-wrapped GMT commands
+- Some reference tutorial
 
 `Introduction to some useful tools <https://github.com/MIGG-NTU/PyGMT2021/issues/2>`__
 
