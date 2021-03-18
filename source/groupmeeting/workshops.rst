@@ -3,8 +3,8 @@ Workshops
 
 Some workshops hosted in MIG, with PPTs in MIG Google Drive (``groupmeeting.NTU/workshops.MIGG``).
 
-PyGMT Workshop, Introduction to Markdown, VS Code and Git
----------------------------------------------------------
+PyGMT Workshop
+--------------
 
 `An introduction to PyGMT <https://github.com/MIGG-NTU/PyGMT2021>`__:
 
