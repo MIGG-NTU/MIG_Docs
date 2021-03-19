@@ -19,6 +19,10 @@ This website is a backup of group meeting information of `EOS Observational Seis
 
 2021
 ----
+Seamount Subduction and Earthquakes
+++++++++++++++++++++++++++++++++++++
+- 2021/03/19 by Qibin Shi
+- Watts, A., Koppers, A., & Robinson, D. (2010). Seamount Subduction and Earthquakes. Oceanography, 23(01), 166–173. https://doi.org/10.5670/oceanog.2010.68
 
 Seismotectonics of the eastern Himalayan and indo‐burman plate boundary systems
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
