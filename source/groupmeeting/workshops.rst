@@ -3,30 +3,33 @@ Workshops
 
 Some workshops hosted in MIG, with PPTs in MIG Google Drive (``groupmeeting.NTU/workshops.MIGG``).
 
-PyGMT Workshop
---------------
-
-`An introduction to PyGMT <https://github.com/MIGG-NTU/PyGMT2021>`__:
-
-- Basic plots
-- Difference between the command-line in GMT and PyGMT
-- How to use non-wrapped GMT commands
-- Some reference tutorial
-
-`Introduction to some useful tools <https://github.com/MIGG-NTU/PyGMT2021/issues/2>`__
-
-- Markdown
-- VS Code
-- Git
-
 Seismic training mini-workshop (**Planned**)
 --------------------------------------------
 
-- Body-wave tomography: About 2020 Dec. by Prof. Tong
+- Body-wave tomography: **TBA**
 - Seismic data: introduction, downloading and processing: **TBA**
 - Receiver function: **TBA**
 - Ambient noise tomography: **TBA**
 - More: **TBA**
+
+
+PyGMT Workshop
+--------------
+
+- 2021/03/17 by Jiayuan Yao
+
+- `An introduction to PyGMT <https://github.com/MIGG-NTU/PyGMT2021>`__:
+
+  - Basic plots
+  - Difference between the command-line in GMT and PyGMT
+  - How to use non-wrapped GMT commands
+  - Some reference tutorial
+
+- `Introduction to some useful tools <https://github.com/MIGG-NTU/PyGMT2021/issues/2>`__
+
+  - Markdown
+  - VS Code
+  - Git
 
 
 Seismic Traveltime Tomography Tutorials
@@ -34,6 +37,7 @@ Seismic Traveltime Tomography Tutorials
 
 A series of tutorials for beginners in seismic traveltime tomography.
 
+- 2020/12 by Jiayuan Yao, Tianjue Li, Shijie Hao and Ping Tong
 - Github repository: https://github.com/MIGG-NTU/SeisTomo_Tutorials
 - Lectures and exercises are available in Github, while we also put them together with tutorial videos in MIG Google Drive (``groupmeeting.MIGG/workshop.MIGG/2020-SeisTomo-Tutorials``) and BaiduDisk (link: https://pan.baidu.com/s/1-8wQmywkvByrPtBhKD4x5g | Passwd: ``4vgu``).
 
@@ -43,6 +47,9 @@ Seminar with Prof. Pan Guangming
 
 Prof. Pan is an expert in the field of statistics and time series data. We introduce our data and method, hoping to explore the possibility to make use of their expertise with PPTs avaiable in MIG Google Drive (``groupmeeting.MIGG/workshop.MIGG/20201124``).
 
+- 2020/01/24
+- Tianjue Li, Shijie Hao, Shucheng Wu and Jiayuan Yao
+
 
 MIG workshop during 2019 AOGS
 -----------------------------
@@ -51,6 +58,8 @@ A workshop at MIG organized by Prof. Ping Tong during 2019 AOGS conference, with
 
 Schedule
 ++++++++
+
+**Date**: 2019/07/31
 
 ============= ============== =================================================
 Time          Reporter       Title
