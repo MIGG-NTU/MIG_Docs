@@ -113,8 +113,8 @@ SAP Concur
 
 ICS for **STAFF** will be decommissioned and not able to accept any expense claims after 31 October 2020. Only students’ claims shall continue to be processed through ICS. Staff claims submitted via ICS but not approved by 31 October 2020 will have to be re-submitted via SAP Concur for approval. You will receive a reminder for claims that have yet to be approved in ICS before the system is closed.
 
-For ClaimantL: Claim last submission by **27 October 2020 (Tuesday) 5pm**
-For Approving Authority: Last approval of claim by **31 October 2020 (Saturday) 5pm**
+- For Claimant: Claim last submission by **27 October 2020 (Tuesday) 5pm**
+- For Approving Authority: Last approval of claim by **31 October 2020 (Saturday) 5pm**
 
 For more on how ``SAP Concur`` works, view the `training videos and user guides <https://ts.ntu.edu.sg/sites/intranet/dept/Finance/fast/workstreams/Travel_And_Expenses/Pages/Training-Materials.aspx>`_ or contact ``Ask Concur/ICS@NTU`` if you need further assistance.
 
@@ -123,4 +123,3 @@ Contacts
 --------
 
 Please refer to :ref:`MIG-related Leaders and Executives <subsec:LeadersandExecutives>` for correspoding Finance Executive.
-
