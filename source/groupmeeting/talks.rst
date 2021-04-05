@@ -40,11 +40,11 @@ What can we learn from the surface fractures nearby the Ridgecrest earthquakes?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 - 2020/11/24 by Xiaohua Xu
-- Abstract:
+- Abstract
 
   Contemporary earthquake hazard models hinge on an understanding of how strain is distributed in the crust and the ability to precisely detected mm-scale deformation over broad regions of active faulting. Satellite radar observations revealed hundreds of previously unmapped linear strain concentrations (or fractures) surrounding the 2019 Ridgecrest earthquake sequence. We documented and analyzed displacements and widths of 169 of these fractures. While most fractures are displaced in the direction of the prevailing tectonic stress (prograde), a large number of them are displaced in the opposite (retrograde) direction. We constructed fault slip model and computed static Coulomb stress change for a suite of receiver fault orientations consistent with those exhibiting surface fractures. Comparing static stress change models to the phase gradient maps, we were able to determine that these surface fractures can largely be explained with static stress change from the earthquake sequence, with most antithetic motions are associated with compliant fault deformation, where most prograding ones being shallow frictional slip. We further explore a conceptual model that can explain these observations. One important implication from the model is that much of the “off-fault” strain in the Mojave shear zone is due to permanent inelastic deformation on many small faults. This is in support of the hypothesis that compensation of shallow slip deficit occurs on distributed shallow structures.
 
-- Reference:
+- Reference
 
   - Xu X, Sandwell D T, Ward L A, et al. Surface deformation associated with fractures near the 2019 Ridgecrest earthquake sequence[J]. Science, 2020, 370(6516): 605-608.
 
