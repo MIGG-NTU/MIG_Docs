@@ -21,6 +21,7 @@ This website is a backup of group meeting information of `EOS Observational Seis
 ----
 Propagation of large earthquakes as self-healing pulses or mild cracks
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 - 2021-04-09 by Hongyu Zeng
 - Lambert, V., Lapusta, N., & Perry, S. (2021). Propagation of large earthquakes as self-healing pulses or mild cracks. Nature, 591(7849), 252-258. - 2021-04-09 by Hongyu Zeng
 - Lambert, V., Lapusta, N., & Perry, S. (2021). Propagation of large earthquakes as self-healing pulses or mild cracks. Nature, 591(7849), 252-258.
