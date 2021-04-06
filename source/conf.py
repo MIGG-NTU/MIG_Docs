@@ -63,14 +63,14 @@ html_context = {
     "theme_vcs_pageview_mode": "blob",
     "menu_links": [
         (   '<i class="fa fa-home"></i> MIG Homopage',
-            "https://seismo-learn.org/",
+            "https://personal.ntu.edu.sg/tongping/",
         ),
         (
             '<i class="fa fa-github fa-fw"></i> Source Code',
             github_url,
         ),
         (
-            '<i class="fa fa-comments fa-fw"></i> 参与讨论',
+            '<i class="fa fa-comments fa-fw"></i> Contact',
             f"{github_url}/discussions",
         ),
     ],
