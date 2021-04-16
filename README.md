@@ -42,9 +42,6 @@ We can follow the steps below to build the documenation on our own computers.
 
         $ make html
 
-5.  生成的文档位于 :file:`build/html/` 目录下，可以直接用浏览器打开
-    :file:`build/html/index.html` 即可在本地预览。
-    
-    The generated documentation is located in the :file:`build/html/` directory
+5.  The generated documentation is located in the :file:`build/html/` directory
     and can be previewed locally by directly opening :file:`build/html/index.html`
     with a browser.
