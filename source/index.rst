@@ -4,8 +4,9 @@ MIG Documenation
 **Welcome to Mathematical Imaging and Geophysics Group (MIGG) at NTU.**
 
 The documentation collects useful links and resources for MIGG at NTU.
-Welcome for any suggestion. You may submit a [issue](https://github.com/MIGG-NTU/MIG_Docs/issues)
-or [pull request](https://github.com/MIGG-NTU/MIG_Docs/pulls).
+Welcome for any suggestion. You may submit an
+`issue <https://github.com/MIGG-NTU/MIG_Docs/issues>`__
+or `pull request <https://github.com/MIGG-NTU/MIG_Docs/pulls>`__.
 
 
 .. toctree::
