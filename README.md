@@ -9,32 +9,30 @@ This site is the [MIG Documentation](https://migg-ntu.github.io/MIG_Docs/) that 
 The documentation is built by [Sphinx](http://www.sphinx-doc.org/).
 We can follow the steps below to build the documenation on our own computers.
 
-1.  Download the source codes
+1.  Clone the repository
 
-    ::
+    ```
+    # Assume that the repository is downloaded to ~/Downloads/
+    $ cd ~/Downloads/
 
-        # Go to ~/Downloads/ (Assume that the codes are downloaded this directory)
-        $ cd ~/Downloads/
-
-        # Clone the source codes
-        $ git clone --depth=50 https://github.com/MIGG-NTU/MIG_Docs.git
+    # Clone the repository and then switch to the directory
+    $ git clone https://github.com/MIGG-NTU/MIG_Docs.git
+    $ cd MIG_Docs
+    ```
 
 2.  Install requirements
 
-    ::
-
-        # Enter the downloaded source code directory
-        $ cd ~/Downloads/seismology101/
-
-        # Install requirements including Sphinx
-        $ pip install -r requirements.txt
+    ```
+    # Install requirements including Sphinx
+    $ pip install -r requirements.txt
+    ```
 
 3.  Compile and generate documentation in HTML format
 
-    ::
+    ```
+    $ make html
+    ```
 
-        $ make html
-
-4.  The generated documentation is located in the :file:`build/html/` directory
-    and can be previewed locally by directly opening :file:`build/html/index.html`
+4.  The generated documentation is located in the ``build/html/`` directory
+    and can be previewed locally by directly opening ``build/html/index.html``
     with a browser.
