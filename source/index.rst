@@ -10,7 +10,7 @@ or `pull request <https://github.com/MIGG-NTU/MIG_Docs/pulls>`__.
 
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :hidden:
    :caption: Resources
 
@@ -23,7 +23,7 @@ or `pull request <https://github.com/MIGG-NTU/MIG_Docs/pulls>`__.
 
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :hidden:
    :caption: Researches & Life
 
