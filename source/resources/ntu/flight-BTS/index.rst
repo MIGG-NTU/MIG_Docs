@@ -75,7 +75,7 @@ Business Travel Application
 
 **References**
 
-- Please also refer to `参加国际会议 (以AGU为例) <https://core-man.github.io/blog/post/internaltionl-conference/>`_ & :doc:`/resources-ntu/overseas-travel-policy`.
+- Please also refer to `参加国际会议 (以AGU为例) <https://core-man.github.io/blog/post/internaltionl-conference/>`_ & :doc:`/resources/ntu/overseas-travel-policy`.
 - Please see an example of BTS apllication for `2019 AGU fall meeting <https://raw.githubusercontent.com/MIGG-NTU/MIG_Docs/master/source/resources-ntu/flight-BTS/travel-request.pdf>`_.
 
 
@@ -102,7 +102,7 @@ Business Travel Claim
 
 **References**
 
-- Please also refer to `参加国际会议 (以AGU为例) <https://core-man.github.io/blog/post/internaltionl-conference/>`_ & :doc:`/resources-ntu/overseas-travel-policy`.
+- Please also refer to `参加国际会议 (以AGU为例) <https://core-man.github.io/blog/post/internaltionl-conference/>`_ & :doc:`/resources/ntu/overseas-travel-policy`.
 - Please see an example for `2019 AGU Fall meeting claim <https://raw.githubusercontent.com/MIGG-NTU/MIG_Docs/master/source/resources-ntu/flight-BTS/claim.tar.gz>`_.
 
 
