@@ -1,5 +1,5 @@
-Git & GitHub
-============
+Version Control
+===============
 
 MIG uses `Git <https://github.com/git/git>`__ and `Github <https://github.com/>`__ to manage softwares and documents. All the members cannot push revisions to the main branch of all the public repositories. For private branches, all the memebers **MUST NOT** push revisions to the main branch either. Instead, all the revisions must be reviewed and approved using **Pull Request**.
 
@@ -15,9 +15,7 @@ Git
 - `Git Cheat Sheet <https://www.git-tower.com/blog/git-cheat-sheet/>`_
 
 
-A list of some commonly-used git commands:
-
-.. code-block:: bash
+A list of some commonly-used git commands::
 
     # clone a remote repository to your local computer
     $ git clone git@github.com:username/repository_name.git
@@ -58,20 +56,16 @@ GitHub
 
 A list of some commonly-used commands in GitHub command-line tools:
 
-- `hub <https://hub.github.com/>`_: an extension to command-line git that helps you do everyday GitHub tasks without ever leaving the terminal.
+- `hub <https://hub.github.com/>`_: an extension to command-line git that helps you do everyday GitHub tasks without ever leaving the terminal::
 
-.. code-block:: bash
+      # fast-forward all local branches to match the latest state on the remote
+      $ hub sync
 
-    # fast-forward all local branches to match the latest state on the remote
-    $ hub sync
+- `GitHub CLI <https://cli.github.com/>`_: take GitHub to the command line::
 
-
-- `GitHub CLI <https://cli.github.com/>`_: take GitHub to the command line
-
-.. code-block:: bash
-
-    # create a pull request and request reviews by core-man, HouseJaay, Shucheng-Wu, tianjueli
-    $ gh pr create --reviewer core-man,HouseJaay,Shucheng-Wu,tianjueli
+      # create a pull request and request reviews by
+      # core-man, HouseJaay, Shucheng-Wu, tianjueli
+      $ gh pr create --reviewer core-man,HouseJaay,Shucheng-Wu,tianjueli
 
 
 A Workflow Example
@@ -94,79 +88,71 @@ We use the following `pull request merging method <https://docs.github.com/cn/fr
 Preparation
 +++++++++++
 
-1. clone the remote repository if it is the first time:
+1. clone the remote repository if it is the first time::
 
-.. code-block:: console
-
-    $ git clone git@github.com:MIGG-NTU/MIG_Docs.git
+       $ git clone git@github.com:MIGG-NTU/MIG_Docs.git
 
 
 Maintainment
 ++++++++++++
 
-1. Update the local branches from remote since others may revise the remote branches
+1. Update the local branches from remote since others may revise the remote
+   branches::
 
-.. code-block:: console
+      # frist way: use hub
+      $ hub sync
 
-    # frist way: use hub
-    $ hub sync
-    # second way: use git pull
-    $ git checkout main
-    $ git pull
+      # second way: use git pull
+      $ git checkout main
+      $ git pull
 
-2. Create a feature branch (e.g., ``feature_x``) in which we update and commit the revisions
+2. Create a feature branch (e.g., ``feature_x``) in which we update and commit
+   the revisions::
 
-.. code-block:: console
+      $ git checkout -b feature_X
 
-    $ git checkout -b feature_X
+3. Do some revisions on the feature_X branch, and check them by building the
+   repository locally at the same time. You have to install
+   `Sphinx <https://www.sphinx-doc.org/en/master/usage/installation.html>`__
+   and `Read the Docs Sphinx Theme <https://github.com/readthedocs/sphinx_rtd_theme>`__
+   to build the website locally::
 
-3. Do some revisions on the feature_X branch, and check them by building the repository locally at the same time. You have to install `Sphinx <https://www.sphinx-doc.org/en/master/usage/installation.html>`__ and `Read the Docs Sphinx Theme <https://github.com/readthedocs/sphinx_rtd_theme>`__ to build the website locally.
+      # build the website locally
+      $ make html
 
-.. code-block:: console
+      # check the website in a website browser (e.g., google-chrome)
+      $ google-chrome build/html/index.html&
 
-    $ make html                            # build the website locally
-    $ google-chrome build/html/index.html& # check the website in a website browser
+4. Commit the revisions. You can do the revisions and commit them for many times::
 
-4. Commit the revisions. You can do the revisions and commit them for many times.
+      $ git status
+      $ git add --all
+      $ git status
+      $ git commit -m "leave a revise message here"
 
-.. code-block:: console
+5. When you do the revisions locally, the remote ``main`` branch may be updated. So, we have to always synchronize with the remote ``main`` branch::
 
-    $ git status
-    $ git add --all
-    $ git status
-    $ git commit -m "leave a revise message here"
+     # first way
+     # synchronize with remote main branch using hub
+     $ hub sync
+     # rebase the feature branch to be based on the latest main branch
+     $ git rebase main
 
-5. When you do the revisions locally, the remote ``main`` branch may be updated. So, we have to always synchronize with the remote ``main`` branch.
+     # second way
+     # synchronize with remote main branch using git pull
+     $ git checkout main
+     $ git pull
+     # checkout to feature branch and rebase it to be based on the latest main branch
+     $ git checkout feature_X
+     $ git rebase master
 
-.. code-block:: console
+6. When you revise the content, there could be many commits. Some commits may be not so important. You can squash some commits into one or several commits so that the revisions are clear and easy to manage::
 
-   # first way
-   # synchronize with remote main branch using hub
-   $ hub sync
-   # rebase the feature branch to be based on the latest main branch
-   $ git rebase main
+     $ git rebase -i main
 
-   # second way
-   # synchronize with remote main branch using git pull
-   $ git checkout main
-   $ git pull
-   # checkout to feature branch and rebase it to be based on the latest main branch
-   $ git checkout feature_X
-   $ git rebase master
+7. When you think the revisions are okay, create a pull request and request at least 1 reviewer::
 
-
-6. When you revise the content, there could be many commits. Some commits may be not so important. You can squash some commits into one or several commits so that the revisions are clear and easy to manage.
-
-.. code-block:: console
-
-   $ git rebase -i main
-
-
-7. When you think the revisions are okay, create a pull request and request at least 1 reviewer:
-
-.. code-block:: console
-
-    $ gh pr create -r core-man,HouseJaay,Shucheng-Wu,tianjueli
+     $ gh pr create -r core-man,HouseJaay,Shucheng-Wu,tianjueli
 
 8. Review/Approval/Merge on GitHub
 
@@ -175,13 +161,14 @@ Maintainment
    - If there are conflicts, the author needs to resolve them locally and push to remote again.
    - When commits are merged, the feature_X branch will be automatically deleted in Github.
 
-9. When commits are merged, we have to update the local branches:
+9. When commits are merged, we have to update the local branches::
 
-.. code-block:: console
+      # update the local branches since the remote master has been updated
+      $ hub sync
 
-    $ hub sync                 # update the local branches since the remote master has been updated
-    $ git checkout main        # checkout to main branch
-    $ git branch -D feature_X  # delete local feature branch
-
+      # checkout to main branch
+      $ git checkout main
+      # delete local feature branch
+      $ git branch -D feature_X
 
 In summary, we first add revisions in a local feature branch, and submit a pull request. If it is approved and merged to the remote master branch, we then have to update the local main branch with the remote one. At last, the local feature has to be deleted.

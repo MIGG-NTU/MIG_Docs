@@ -1,7 +1,8 @@
-NTU Resources
-=============
+Resources at NTU
+================
 
 .. toctree::
+   :maxdepth: 1
 
    cluster
    DR-ntu
