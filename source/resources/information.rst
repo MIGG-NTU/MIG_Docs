@@ -1,5 +1,5 @@
-MIG Information Collection
-==========================
+MIG Information
+===============
 
 .. _subsec:MIG-currnet-members:
 
@@ -82,7 +82,7 @@ MIG Group Meeting
 -----------------
 
 - Website: https://blogs.ntu.edu.sg/geophysics/
-- Website Tutorial: :doc:`/resources-ntu/ntu-blog/index`
+- Website Tutorial: :doc:`/resources/ntu/ntu-blog/index`
 - Manager: Shijie Hao (Core Administrator), Tianjue Li & Jiayuan Yao
 
 
@@ -96,7 +96,7 @@ MIG Intranet
     - 2019/11/04 ~ 2020/02/19: ``http://10.101.164.185:2018``
     - 2018       ~ 2019/11/03: ``http://172.21.51.61:2018``
 - Location: Installed in Jiayuan Yao's workstation at SPMS-MAS-04-07
-- Access: Only shared to MIG members. We can only get access to the intranet via NTU internet. We have to use :doc:`/resources-ntu/vpn` if we are outside ot NTU.
+- Access: Only shared to MIG members. We can only get access to the intranet via NTU internet. We have to use :doc:`/resources/ntu/vpn` if we are outside ot NTU.
 - Manager: Jiayuan Yao
 
 
