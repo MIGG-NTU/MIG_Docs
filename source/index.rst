@@ -5,7 +5,7 @@ Welcome to Mathematical Imaging and Geophysics Group (MIG) at NTU.
 
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :hidden:
    :caption: Resources
 
@@ -18,7 +18,7 @@ Welcome to Mathematical Imaging and Geophysics Group (MIG) at NTU.
 
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :hidden:
    :caption: Researches & Life
 
