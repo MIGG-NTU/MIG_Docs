@@ -25,7 +25,7 @@ Fault damage zones
 
 - 2019-04-30 by Win Shwee Sin Oo
 - Kim, Y. S., Peacock, D. C., & Sanderson, D. J. (2004). Fault damage zones. Journal of Structural Geology, 26(3), 503–517. 
-https://doi.org/10.1016/j.jsg.2003.08.002
+  https://doi.org/10.1016/j.jsg.2003.08.002
 
 Propagation of large earthquakes as self-healing pulses or mild cracks
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
