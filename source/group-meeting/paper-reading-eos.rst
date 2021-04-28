@@ -23,7 +23,7 @@ This website is a backup of group meeting information of `EOS Observational Seis
 Fault damage zones
 +++++++++++++++++++
 
-- 2019-04-28 by Win Shwee Sin Oo
+- 2019-04-30 by Win Shwee Sin Oo
 - Kim, Y. S., Peacock, D. C., & Sanderson, D. J. (2004). Fault damage zones. Journal of Structural Geology, 26(3), 503–517. 
 https://doi.org/10.1016/j.jsg.2003.08.002
 
