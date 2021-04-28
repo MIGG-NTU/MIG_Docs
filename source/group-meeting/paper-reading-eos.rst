@@ -12,13 +12,20 @@ This website is a backup of group meeting information of `EOS Observational Seis
 - Wardah Shafiqah Binti MOHAMMAD FADIL
 - Qibin Shi
 - Hongyu Zeng
-- Win Shwe Sin OO
+- Win Shwe Sin Oo
 - Deepa
 - Yukuan Chen
 
 
 2021
 ----
+
+Fault damage zones
++++++++++++++++++++
+
+- 2019-04-28 by Win Shwee Sin Oo
+- Kim, Y. S., Peacock, D. C., & Sanderson, D. J. (2004). Fault damage zones. Journal of Structural Geology, 26(3), 503–517. 
+https://doi.org/10.1016/j.jsg.2003.08.002
 
 Propagation of large earthquakes as self-healing pulses or mild cracks
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
