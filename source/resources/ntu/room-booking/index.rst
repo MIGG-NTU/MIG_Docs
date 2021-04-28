@@ -1,4 +1,4 @@
-LT/TR Room booking
+Booking LT/TR Room
 ==================
 
 Sometimes we need to book Lecture Theatres/Tutorial Rooms/Labs, and NTU provides such a service. Let's talk about how to book a tutorial room at SPMS as an example. Follow the following stream to go into the booking system. Only a staff or faculty can use this system.

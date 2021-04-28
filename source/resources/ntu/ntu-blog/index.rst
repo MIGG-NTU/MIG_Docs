@@ -1,4 +1,4 @@
-MIG Groupmeeting Website Toturial
+Toturial for Groupmeeting Website
 =================================
 
 我们组会网站的地址是 https://blogs.ntu.edu.sg/geophysics，由 `blogs@NTU <https://blogs.ntu.edu.sg>`_ 提供技术支持。 ``blogs@NTU`` 为 NTU 社区提供一个平台，以便整个校园能够有效地沟通交流。网页的管理请参考 ``guide`` 。以下是我们自己在管理组会网站时候的一些具体操作和理解。

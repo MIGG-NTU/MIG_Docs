@@ -1,8 +1,8 @@
-Two-Factor Authentication (2FA) for Workday
-===========================================
+Workday Two-Factor Authentication
+=================================
 
-How to setup 2FA for Workday
-----------------------------
+Setup Workday Two-Factor Authentication (2FA)
+---------------------------------------------
 
 1. If you have a new phone and wants to install MS Authenticator on it then please remove the MS Authenticator on the old phone first.
 
