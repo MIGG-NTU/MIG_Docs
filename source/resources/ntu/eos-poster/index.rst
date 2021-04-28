@@ -1,7 +1,8 @@
-EOS Poster Printing
-===================
+Printing Posters
+================
 
-Let `YONG Jonah <https://www.earthobservatory.sg/people/yong-chin-siong-jonah>`_ know the type of material you wish to print on.
+Let `YONG Jonah <https://www.earthobservatory.sg/people/yong-chin-siong-jonah>`__
+in EOS know the type of material you wish to print on.
 
 - Semi-gloss paper
 - Matte paper
@@ -16,4 +17,3 @@ In order to submit your softcopy, you may do any of the following
 - Upload your file at https://posters.earthobservatory.sg
 
 Please download `EOS poster template <https://raw.githubusercontent.com/MIGG-NTU/MIG_Docs/master/source/resources-ntu/eos-poster/EOS_Poster_5Column.pptx>`_
-

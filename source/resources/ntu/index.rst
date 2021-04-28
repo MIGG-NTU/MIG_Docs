@@ -5,13 +5,13 @@ Resources at NTU
    :maxdepth: 1
 
    cluster
-   DR-ntu
-   two-factor-authentication
-   spms-network/index
+   dr-ntu
    vpn
+   spms-network/index
    printer/index
    eos-poster/index
    room-booking/index
-   ntu-blog/index
+   two-factor-authentication
    overseas-travel-policy
    flight-BTS/index
+   ntu-blog/index

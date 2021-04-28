@@ -1,5 +1,5 @@
-Research Data at NTU
-====================
+Research Data
+=============
 
 If you are submitting your paper to a journal with a *data sharing requirement*, then you’ll be asked to provide a data availability statement. `DR-NTU (Data) <https://researchdata.ntu.edu.sg/>`_ provides Digital Object Identifier (DOI) for dataset, which you can use for *data availability statement*. Therefore, we can use DR-NTU (Data) to deposit, archive and share research data.
 

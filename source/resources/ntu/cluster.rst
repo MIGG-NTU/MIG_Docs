@@ -1,5 +1,5 @@
-Cluster
-=======
+Clusters
+========
 
 These two names are the same cluster ``GEKKO``. You can use any of them, because the IP address for those two names are the same.
 

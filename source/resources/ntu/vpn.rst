@@ -1,5 +1,5 @@
-NTU VPN
-=======
+VPN
+===
 
 - `NTU VPN <https://ntuvpn.ntu.edu.sg/dana/home/index.cgi>`_
 - Supported OS : ``Windows`` | ``Mac OS``

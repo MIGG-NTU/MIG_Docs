@@ -1,5 +1,5 @@
-NTU printer
-===========
+Printers
+========
 
 NTU use *MPS* printer queue. There is a black-white printer in MAS-04-07. Besides, we can use color printers in the Heads of Division office (SPMS-PAP-02-01) near the elevator in the second floor in SPMS. There are also two color printers in the fifth floor of MAS. But, only a PI can open the door of the room with printers in the fifth floor.
 

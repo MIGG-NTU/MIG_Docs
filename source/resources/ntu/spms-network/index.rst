@@ -1,5 +1,5 @@
-NTU Network
-===========
+Network Configuration
+=====================
 
 Network Segmentation
 --------------------
