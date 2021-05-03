@@ -27,6 +27,12 @@ Fault damage zones
 - Kim, Y. S., Peacock, D. C., & Sanderson, D. J. (2004). Fault damage zones. Journal of Structural Geology, 26(3), 503–517. 
   https://doi.org/10.1016/j.jsg.2003.08.002
 
+Earthquakes, geology, tectonics and rheology
+++++++++++++++++++++++++++++++++++++++++++++
+
+- 2021-04-16 by Shengji Wei
+- Jackson, J., McKenzie, D., & Priestley, K. (2021). Relations between earthquake distributions, geological history, tectonics and rheology on the continents. Philosophical Transactions of the Royal Society A, 379(2193), 20190412.
+
 Propagation of large earthquakes as self-healing pulses or mild cracks
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
