@@ -9,6 +9,7 @@ MIG Websites
 - `MIG Documentation <https://migg-ntu.github.io/MIG_Docs/>`_
 - `MIG Groupmeeting <https://blogs.ntu.edu.sg/geophysics/>`_
 - `MIG GitHub <https://github.com/MIGG-NTU>`_
+- `MIG research data <https://researchdata.ntu.edu.sg/dataverse/tongping>`__
 
 
 NTU Websites
