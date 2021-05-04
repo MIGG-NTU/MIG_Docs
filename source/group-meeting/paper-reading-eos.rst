@@ -19,6 +19,12 @@ This website is a backup of group meeting information of `EOS Observational Seis
 
 2021
 ----
+ 
+3D fault architecture controls the dynamism of earthquake swarms.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- 2021-05-07 by Yukuan Chen
+- Ross, Z. E., Cochran, E. S., Trugman, D. T., & Smith, J. D. (2020). 3D fault architecture controls the dynamism of earthquake swarms. Science, 368(6497), 1357-1361.
 
 Fault damage zones
 +++++++++++++++++++
@@ -41,6 +47,7 @@ Propagation of large earthquakes as self-healing pulses or mild cracks
 
 Seamount Subduction and Earthquakes
 ++++++++++++++++++++++++++++++++++++
+
 - 2021/03/19 by Qibin Shi
 - Watts, A., Koppers, A., & Robinson, D. (2010). Seamount Subduction and Earthquakes. Oceanography, 23(01), 166–173. https://doi.org/10.5670/oceanog.2010.68
 
