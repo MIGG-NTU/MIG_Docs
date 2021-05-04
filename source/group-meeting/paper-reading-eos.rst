@@ -20,8 +20,8 @@ This website is a backup of group meeting information of `EOS Observational Seis
 2021
 ----
  
-3D fault architecture controls the dynamism of earthquake swarms.
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+3D fault architecture controls the dynamism of earthquake swarms
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 - 2021-05-07 by Yukuan Chen
 - Ross, Z. E., Cochran, E. S., Trugman, D. T., & Smith, J. D. (2020). 3D fault architecture controls the dynamism of earthquake swarms. Science, 368(6497), 1357-1361.
