@@ -1,5 +1,5 @@
-Resources at NTU
-================
+NTU Resources
+=============
 
 .. toctree::
    :maxdepth: 1
