@@ -7,3 +7,4 @@ Introduction
    overview
    members
    management
+   repositories
