@@ -4,13 +4,10 @@ Links
 MIG Websites
 ------------
 
-- `MIG Project List <https://migg-ntu.github.io/>`_
 - `MIG Homepage <https://personal.ntu.edu.sg/tongping/>`_
 - `MIG Documentation <https://migg-ntu.github.io/MIG_Docs/>`_
-- `MIG Groupmeeting <https://blogs.ntu.edu.sg/geophysics/>`_
 - `MIG GitHub <https://github.com/MIGG-NTU>`_
 - `MIG Research Data at NTU <https://researchdata.ntu.edu.sg/dataverse/tongping>`__
-
 
 NTU Websites
 ------------
@@ -24,7 +21,6 @@ NTU Websites
 - `NTU library <https://www.ntu.edu.sg/Library/Pages/default.aspx>`_ | `Introduction to NTU Library <http://www.ntu.edu.sg/library/About_NTULibrary/Pages/NTU-Library.aspx#library>`_
 - `blogs at NTU <https://blogs.ntu.edu.sg>`_ | `Manual <https://blogs.ntu.edu.sg/support>`__
 - `Prof. Shengji Wei <https://earthobservatory.sg/research-group/observational-seismology-wei-shengji>`_
-
 
 NTU Services
 ------------
@@ -56,7 +52,6 @@ NTU Services
 - `Centre for IT services <http://www.ntu.edu.sg/cits/Pages/default.aspx>`_
 - `Qualifying Examinations <http://spms.ntu.edu.sg/MathematicalSciences/Graduate/Pages/Qualifying-Examinations.aspx>`_
 
-
 NTU Software
 ------------
 
@@ -70,12 +65,10 @@ NTU Software
 - `NTU VPN <https://ntuvpn.ntu.edu.sg/dana/home/index.cgi>`_
 - `Matlab <https://ts.ntu.edu.sg/sites/CITS/homepage/Matlab/Pages/index.aspx>`_
 
-
 NUS Websites
 ------------
 
 - `download.nus <http://download.nus.edu.sg/>`_: A student-run mirror hosted by NUS computer center
-
 
 Singapore Websites
 ------------------
