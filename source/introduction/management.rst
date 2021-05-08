@@ -1,5 +1,5 @@
-Manager and Member Notes
-========================
+Management
+==========
 
 Common Notes for Managers
 -------------------------
@@ -16,7 +16,7 @@ Common Notes for Managers
     - The Google Drive only has 15GB. We only use it to store non-open materials or large files that are not suitable to be put in GitHub. Other better method for sharing public data may be found in the future.
     - MIGG public and private data are put in ``MIGG-materials``. ``Right-click it`` -> ``Get shareable link`` -> ``click sharing settings``. We can click ``top-right button (Share with people setting)`` to determine if *Editors can change permissions and share*. We can also click ``bottom-left button (Change)`` to determine if anyone with the link is a ``viewer`` or ``editor``. For file safety, we must set it to be ``viewer``.
     - We can also only share some directories in ``MIGG-materials``. The method is the same.
-    - If you add new file folders, please also modify the corresponding content in the :doc:`/resources/google-drive`.
+    - If you add new file folders, please also modify the corresponding content in the :doc:`/dataset/google-drive`.
 
 
 MIG Routine Managers
@@ -53,7 +53,7 @@ Before the new member arrives NTU
     Yours,
     XXX (replace xxx with your name)
 
-- Before a new member arrives Singapore, please send him/her some information about NTU and Singapore (e.g., :doc:`/resources/overseas-life-singapore`) and **cc to Prof. TONG**. This could be included in the above email.
+- Before a new member arrives Singapore, please send him/her some information about NTU and Singapore (e.g., :doc:`/singapore/overseas-life-singapore`) and **cc to Prof. TONG**. This could be included in the above email.
 
 - If he/she is not in our WeChat group, we can also ask if him/her has a WeChat account so that we can add him/her in the WeChat group. This could also be included in the above email. But remember **first** ask Prof. Tong if we can add him/her into the WeChat group **before** adding him/her into the group. Actualy only boss can add someone into the WeChat group.
 
@@ -73,7 +73,7 @@ After the new member arrives NTU
 
 - After a new member arrives at NTU for some time, please ask Prof. Shengji Wei if he/she can be added to EOS-seismology WeChat group **if he/she is interested to attend Shengji's groupmeeting and have a good relationship with EOS-seismology group**.
 
-- After a new member arrives at NTU for some time, please ask him/her if he/she would like to share Bachelor, Master, PhD thesis & ppt. If so, please add it in :doc:`/resources/thesis` and upload them in MIGG Google Drive.
+- After a new member arrives at NTU for some time, please ask him/her if he/she would like to share Bachelor, Master, PhD thesis & ppt. If so, please add it in :doc:`/dataset/thesis` and upload them in MIGG Google Drive.
 
 
 After a memeber leaves NTU
@@ -99,9 +99,9 @@ Group meeting arrangement
 
 - Please check Pulic Holidays before arranging a group meeting. Please refer to `NTU Academic Calendar <https://www.ntu.edu.sg/sasd/oas/AcademicCalendar/Pages/index.aspx>`_.
 
-- Please refer to :doc:`/resources/ntu/room-booking/index` to help Prof. TONG with tutorial room booking. If you have no access, please ask other members help you.
+- Please refer to :doc:`/ntu/room-booking/index` to help Prof. TONG with tutorial room booking. If you have no access, please ask other members help you.
 
-- Please refer to :doc:`/resources/ntu/ntu-blog/index` to learn how to manage MIGG groupmeeting website.
+- Please refer to :doc:`/ntu/ntu-blog/index` to learn how to manage MIGG groupmeeting website.
 
 - Please remind the reporter to send ppt to the manager after the presentation, so that MIGG members can download the ppt after groupmeeting.
 

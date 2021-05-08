@@ -9,8 +9,8 @@ Google Drive
     - ``talks.MIGG``: :doc:`/group-meeting/talks`
 
 - ``books``: `Geoscience books <https://core-man.github.io/blog/post/geoscience-books/>`__
-- ``photos.MIGG``: :doc:`photos of MIGG members </resources/photos>`
-- ``thesis.MIGG``: :doc:`thesis of MIGG members </resources/thesis>`
+- ``photos.MIGG``: :doc:`photos of MIGG members </dataset/photos>`
+- ``thesis.MIGG``: :doc:`thesis of MIGG members </dataset/thesis>`
 - ``notes.MIGG``: some notes in MIGG
 
     - ``NTU-study-notes-HuiLi``: NTU study summary by Hui Li

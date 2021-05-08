@@ -12,35 +12,26 @@ or `pull request <https://github.com/MIGG-NTU/MIG_Docs/pulls>`__.
 
 .. toctree::
    :maxdepth: 3
-   :caption: Resources
+   :caption: Getting Started
    :hidden:
 
-   resources/information
-   resources/notes
-   resources/photos
-   resources/thesis
-   resources/google-drive
-   resources/portable-drives
-   resources/ntu/index
-   resources/overseas-life-singapore
-   resources/links
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Group Meeting
-   :hidden:
-
-   group-meeting/paper-reading
-   group-meeting/talks
-   group-meeting/workshops
-   group-meeting/paper-reading-eos
+   introduction/index
+   dataset/index
+   ntu/index
+   singapore/index
 
 .. toctree::
    :maxdepth: 3
    :caption: Research
    :hidden:
 
-   research/collections
-   research/version-control
-   research/websites-documentation
+   group-meeting/index
+   seismology/index
+   programming/index
 
+.. toctree::
+   :maxdepth: 3
+   :caption: Appendix
+   :hidden:
+
+   links

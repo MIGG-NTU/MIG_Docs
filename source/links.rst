@@ -4,12 +4,12 @@ Links
 MIG Websites
 ------------
 
-- `MIG's Project List <https://migg-ntu.github.io/>`_
+- `MIG Project List <https://migg-ntu.github.io/>`_
 - `MIG Homepage <https://personal.ntu.edu.sg/tongping/>`_
 - `MIG Documentation <https://migg-ntu.github.io/MIG_Docs/>`_
 - `MIG Groupmeeting <https://blogs.ntu.edu.sg/geophysics/>`_
 - `MIG GitHub <https://github.com/MIGG-NTU>`_
-- `MIG research data <https://researchdata.ntu.edu.sg/dataverse/tongping>`__
+- `MIG Research Data at NTU <https://researchdata.ntu.edu.sg/dataverse/tongping>`__
 
 
 NTU Websites
@@ -57,8 +57,8 @@ NTU Services
 - `Qualifying Examinations <http://spms.ntu.edu.sg/MathematicalSciences/Graduate/Pages/Qualifying-Examinations.aspx>`_
 
 
-NTU Softwares
--------------
+NTU Software
+------------
 
 - **Office365@NTU**: We have 1TB space for OneDrive.
 
