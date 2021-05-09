@@ -73,7 +73,7 @@ A Workflow Example
 
 We use the repository, `MIG_Docs <https://github.com/MIGG-NTU/MIG_Docs>`__, as an example to show how we should revise and update a GitHub repository on which at least two authors are working.
 
-`Branch protection rules <https://docs.github.com/cn/free-pro-team@latest/github/administering-a-repository/configuring-protected-branches>`__ is used to protect the **master** branch, along with two activated rules:
+`Branch protection rules <https://docs.github.com/en/github/administering-a-repository/managing-a-branch-protection-rule>`__ is used to protect the **master** branch, along with two activated rules:
 
 - Require pull request reviews before merging: 1 reviewer
 - Include administrators
