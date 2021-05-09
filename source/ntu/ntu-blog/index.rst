@@ -178,7 +178,7 @@ Toturial for Groupmeeting Website
 制作相册
 --------
 
-请参考 https://blogs.ntu.edu.sg/creating-contents/image-galleries
+请参考 https://docs.campuspress.com/en/articles/617-add-image-gallery
 
 
 约定事项
@@ -200,5 +200,6 @@ Toturial for Groupmeeting Website
 
 在编写新的Posts或者Pages的时候，可以复制Clone已经写好的Posts或Pages，在已有的基础上进行修改，达到更快的效果。但是记得要修改标题、网页地址、categories、tags等。
 
-如果有任何疑问可以通过 https://blogs.ntu.edu.sg/contact 在线提交，或者发邮件给 nmgadmin@ntu.edu.sg。
+如果有任何疑问可以通过 `contact <https://libfaq.ntu.edu.sg/form.php?queue_id=2609&iframe=1&qlog_id=0&pquestion=>`__
+在线提交，或者发邮件给 nmgadmin@ntu.edu.sg。
 

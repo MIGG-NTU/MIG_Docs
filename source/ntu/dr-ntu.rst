@@ -19,8 +19,7 @@ Here is an example of a simple data availability statement:
 “The data that support the findings of this study are openly available in [repository name] at [doi]”
 
 If you deposit your data in DR-NTU (Data), get the DOI from your dataset. The data availability statement would be something like this:
-    *The data that support the findings of this study are openly available in NTU research data repository DR-NTU (Data) at https://doi.org/10.21979/N9/1CRLCJ*
-
+    *The data that support the findings of this study are openly available in NTU research data repository DR-NTU (Data) at https://doi.org/10.21979/N9/OTNAWV*
 
 Examples
 --------

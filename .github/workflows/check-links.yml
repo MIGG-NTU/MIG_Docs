@@ -26,11 +26,27 @@ jobs:
         path: website
 
     - name: Link Checker
-      uses: lycheeverse/lychee-action@v1.0.6
+      uses: lycheeverse/lychee-action@v1.0.8
       with:
         # 429: Too many requests
         args: >
           --accept 429
+          -- exclude "https://posters.earthobservatory.sg/"
+          -- exclude "https://entuedu.sharepoint.com/teams/ntuhpcusersgroup2"
+          -- exclude "http://mps/mydoc"
+          -- exclude "http://10.85.167.197:2018/"
+          -- exclude "http://172.21.51.61:2018/"
+          -- exclude "http://10.101.164.185:2018/"
+          -- exclude "http://10.101.160.200:2018/"
+          -- exclude "https://ntuvpn.ntu.edu.sg/dana/home/index.cgi"
+          -- exclude "https://ts.ntu.edu.sg/sites/intranet/dept/crew/Pages/index.aspx"
+          -- exclude "http://maps.ntu.edu.sg/maps"
+          -- exclude "https://ts.ntu.edu.sg/sites/search"
+          -- exclude "https://ts.ntu.edu.sg/sites/policyportal/new/Policies2/HumanResource/Pages/BusinessTravel.aspx"
+          -- exclude "https://dcsvridp.ntu.edu.sg/idp/Authn/UserPassword "
+          -- exclude "https://ts.ntu.edu.sg/sites/intranet/dept/Finance/fast/workstreams/Travel_And_Expenses/Pages/Training-Materials.aspx"
+          -- exclude "https://ntuvpn.ntu.edu.sg/dana/home/index.cgi"
+          -- exclude "jiayuanyao@gekko.earthobservatory.sg"
           --verbose
           "repository/README.md"
           "website/**/*.html"
