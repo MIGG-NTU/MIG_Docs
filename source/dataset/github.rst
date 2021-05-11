@@ -1,6 +1,13 @@
 Github Repositories
 ===================
 
+:contributors: |Yao Jiayuan|
+:last updating date: 2021-05-11
+
+----
+
+We put some data in `MIG Github <https://github.com/MIGG-NTU>`__, along with some other resources.
+
 Website & Documentation
 -----------------------
 

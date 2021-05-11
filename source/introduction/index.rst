@@ -7,4 +7,5 @@ Introduction
    overview
    members
    management
-   repositories
+   thesis
+   photos
