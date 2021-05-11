@@ -20,7 +20,7 @@ Common Notes
   Therefore, we can use Markdown language to write email,
   and then convert the text by click the extension button.
 - Google Drive
-  
+
   - The Google Drive only has 15GB. We only use it to store non-open materials
     or large files that are not suitable to be put in GitHub.
     Other better method for sharing public data may be found in the future.
@@ -32,7 +32,7 @@ Common Notes
     with the link is a ``viewer`` or ``editor``.
     For file safety, we must set it to be ``viewer``.
   - We can also only share some directories in ``MIGG-materials``. The method is the same.
-  - If you add new file folders, please also modify the corresponding content in the :doc:`/dataset/google-driver`.
+  - If you add new file folders, please also modify the corresponding content in the :doc:`/dataset/google-drive`.
 
 Routine Managers
 ----------------
@@ -135,7 +135,7 @@ Arrangement
     :doc:`/dataset/google-drive` to store ppts instead of https://blogs.ntu.edu.sg/geophysics/.
     The old group meeting website (https://blogs.ntu.edu.sg/geophysics/)
     has no longer been maintained since 2021/05/11.
-    We still keep the :doc:`/ntu/ntu-blog/index` to learn how to manage the old 
+    We still keep the :doc:`/ntu/ntu-blog/index` to learn how to manage the old
     MIG groupmeeting website.
 
 - Please check Pulic Holidays before arranging a group meeting.
