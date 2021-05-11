@@ -1,8 +1,22 @@
 Toturial for Groupmeeting Website
 =================================
 
-我们组会网站的地址是 https://blogs.ntu.edu.sg/geophysics，由 `blogs@NTU <https://blogs.ntu.edu.sg>`_ 提供技术支持。 ``blogs@NTU`` 为 NTU 社区提供一个平台，以便整个校园能够有效地沟通交流。网页的管理请参考 ``guide`` 。以下是我们自己在管理组会网站时候的一些具体操作和理解。
+:contributors: |Yao Jiayuan|
+:last updating date: 2021-05-11
 
+----
+
+.. note::
+
+   We now use :doc:`GitHub </group-meeting/index>` to record group meeting and
+   :doc:`/dataset/google-drive` to store ppts instead of https://blogs.ntu.edu.sg/geophysics/.
+   The old group meeting website (https://blogs.ntu.edu.sg/geophysics/)
+   has no longer been maintained since 2021/05/11.
+
+我们组会网站的地址是 https://blogs.ntu.edu.sg/geophysics，
+由 `blogs@NTU <https://blogs.ntu.edu.sg>`_ 提供技术支持。
+``blogs@NTU`` 为 NTU 社区提供一个平台，以便整个校园能够有效地沟通交流。
+网页的管理请参考 ``guide`` 。以下是我们自己在管理组会网站时候的一些具体操作和理解。
 
 整体框架
 --------
@@ -202,4 +216,3 @@ Toturial for Groupmeeting Website
 
 如果有任何疑问可以通过 `contact <https://libfaq.ntu.edu.sg/form.php?queue_id=2609&iframe=1&qlog_id=0&pquestion=>`__
 在线提交，或者发邮件给 nmgadmin@ntu.edu.sg。
-

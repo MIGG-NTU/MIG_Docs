@@ -4,8 +4,10 @@ Thesis
 :contributors: |Yao Jiayuan|
 :last updating date: 2021-05-11
 
+----
+
 We collect MIG members' thesis here. Some available PDFs and PPTs are in MIG
-Google Drive (``thesis.MIGG``). Welcome to share yours~
+Google Drive (:file:`thesis.MIGG`). Welcome to share yours~
 
 ==== ============== ====== =====
 Year Author         Type   Title
