@@ -6,13 +6,13 @@ Google Drive
 
 ----
 
-- Website: https://drive.google.com/drive/my-drive
-- Manager: Anyone know MIG email and its passwd can log in the Google Drive.
-
 .. note::
 
    There is **15 GB** free space. We put non-open internal data (e.g., thesis)
    and some large files (e.g., ppt) here.
+
+- Website: https://drive.google.com/drive/my-drive
+- Manager: Anyone know MIG email and its passwd can log in the Google Drive.
 
 Groupmeeting
 ------------
@@ -37,12 +37,16 @@ Dataset
 
 The folder ``resources.MIGG`` contains dataset used by MIGG.
 
-- `Sumatra <https://blogs.ntu.edu.sg/geophysics/resources/research-in-sumatra/>`__
+- ``Sumatra``
 
-  - :file:`Liu-2019-JGR-data`: seismic traveltime data in `Liu et al. (2019) <https://doi.org/10.1029/2019JB017625>`__
-  - :file:`Liu-2020-JGR-data`: seismic traveltime data in `Liu et al. (2020) <https://doi.org/10.1029/2019JB017625>`__
+  - :file:`Liu-2020-JGR-data`: seismic traveltime data in `Liu et al. (2020) <https://doi.org/10.1029/2019JB017625>`__.
+    See the latest version in https://doi.org/10.21979/N9/EBQHFG.
+  - :file:`Liu-2019-JGR-data`: seismic traveltime data in `Liu et al. (2019) <https://doi.org/10.1029/2019JB017625>`__.
+    See the latest version in https://doi.org/10.21979/N9/JANKP9.
 
-- ``2020-USTC-seismological-algorithms``: a seismological algorithm training workshop in 2020 at USTC
+- ``2020-USTC-seismological-algorithms``: a seismological algorithm training workshop in 2020 at USTC.
+  Also see `linkresearcher <https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae>`__
+  and `bilibili <https://www.bilibili.com/video/av841708479/>`__ for videos, codes, and ppts.
 - ``2018-USTC-seismological-algorithms``: a seismological algorithm training workshop in 2018 at USTC
 
 Notes
