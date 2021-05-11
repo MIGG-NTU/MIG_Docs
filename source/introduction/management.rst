@@ -73,7 +73,7 @@ After the new member arrives NTU
 
 - After a new member arrives at NTU for some time, please ask Prof. Shengji Wei if he/she can be added to EOS-seismology WeChat group **if he/she is interested to attend Shengji's groupmeeting and have a good relationship with EOS-seismology group**.
 
-- After a new member arrives at NTU for some time, please ask him/her if he/she would like to share Bachelor, Master, PhD thesis & ppt. If so, please add it in :doc:`/dataset/thesis` and upload them in MIGG Google Drive.
+- After a new member arrives at NTU for some time, please ask him/her if he/she would like to share Bachelor, Master, PhD thesis & ppt. If so, please add it in :doc:`/introduction/thesis` and upload them in MIGG Google Drive.
 
 
 After a memeber leaves NTU

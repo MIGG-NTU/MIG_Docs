@@ -8,3 +8,5 @@ Introduction
    members
    management
    repositories
+   thesis
+   photos
