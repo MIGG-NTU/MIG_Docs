@@ -38,7 +38,7 @@ Booking from NTU appointed travel agency
 
 - Payment of the ticket
 
-    - If you wish to bill this ticket to NTU directly, you can send the invoice to your finance department to expedite and process payment of the ticket, along with the email about the approval of the business travel request. Otherwise, the agency may send you a email to ask you to pay it as soon as possible. The address of your finance department is stated in the invoice, just after *To*. For MAS staff, you can submit the invoice to correspoding Finance Executive referring to :ref:`MIG-related Leaders and Executives <subsec:LeadersandExecutives>`.
+    - If you wish to bill this ticket to NTU directly, you can send the invoice to your finance department to expedite and process payment of the ticket, along with the email about the approval of the business travel request. Otherwise, the agency may send you a email to ask you to pay it as soon as possible. The address of your finance department is stated in the invoice, just after *To*. For MAS staff, you can submit the invoice to correspoding Finance Executive referring to :doc:`/ntu/leaders-executives`.
     - If you wish to pay by credit card first and reimburse from NTU later, please ask the agency. Usually, you have to provide credit card number and expiry date.
 
 
@@ -122,4 +122,4 @@ For more on how ``SAP Concur`` works, view the `training videos and user guides 
 Contacts
 --------
 
-Please refer to :ref:`MIG-related Leaders and Executives <subsec:LeadersandExecutives>` for correspoding Finance Executive.
+Please refer to :doc:`/ntu/leaders-executives` for correspoding Finance Executive.
