@@ -62,7 +62,7 @@ Hugo provides a lot of useful `Themes <https://themes.gohugo.io/>`__ which can b
 We can refer to some parts of those tutorials, because the settings in our websites are a little different.
 
 - `借助 Hugo 和 Academic 主题在 github <https://leidawt.github.io/post/%E5%80%9F%E5%8A%A9hugo%E5%92%8Cacademic%E4%B8%BB%E9%A2%98%E5%9C%A8github/>`__
-- `academic 主题 <https://skyao.io/learning-hugo/theme/academic.html>`__
+- `academic 主题 <https://skyao.io/learning-hugo/docs/theme/academic.html>`__
 - `Academic 实现 Github Page 个人博客 <https://szthanatos.github.io/post/academic/academic_in_practice/>`__
 
 
