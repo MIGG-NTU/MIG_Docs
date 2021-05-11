@@ -24,6 +24,11 @@ github_user = "MIGG-NTU"
 github_repo = "MIG_Docs"
 github_url = f"https://github.com/{github_user}/{github_repo}"
 
+# -- Contributor information -------------------------------------------------
+
+rst_prolog = """
+.. |Yao Jiayuan| replace:: `Yao Jiayuan <https://github.com/core-man>`__
+"""
 
 # -- General configuration ---------------------------------------------------
 
