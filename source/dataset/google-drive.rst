@@ -6,13 +6,13 @@ Google Drive
 
 ----
 
-- Website: https://drive.google.com/drive/my-drive
-- Manager: Anyone know MIG email and its passwd can log in the Google Drive.
-
 .. note::
 
    There is **15 GB** free space. We put non-open internal data (e.g., thesis)
    and some large files (e.g., ppt) here.
+
+- Website: https://drive.google.com/drive/my-drive
+- Manager: Anyone know MIG email and its passwd can log in the Google Drive.
 
 Groupmeeting
 ------------
@@ -39,7 +39,7 @@ The folder ``resources.MIGG`` contains dataset used by MIGG.
 
 - ``Sumatra``
 
-  - :file:`Liu-2020-JGR-data`: seismic traveltime data in `Liu et al. (2020) <https://doi.org/10.1029/2019JB017625>`__
+  - :file:`Liu-2020-JGR-data`: seismic traveltime data in `Liu et al. (2020) <https://doi.org/10.1029/2019JB017625>`__.
     See the latest version in https://doi.org/10.21979/N9/EBQHFG.
   - :file:`Liu-2019-JGR-data`: seismic traveltime data in `Liu et al. (2019) <https://doi.org/10.1029/2019JB017625>`__.
     See the latest version in https://doi.org/10.21979/N9/JANKP9.
