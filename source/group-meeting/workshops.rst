@@ -3,16 +3,6 @@ Workshops
 
 Some workshops hosted in MIG, with PPTs in MIG Google Drive (``groupmeeting.NTU/workshops.MIGG``).
 
-Seismic training mini-workshop (**Planned**)
---------------------------------------------
-
-- Body-wave tomography: **TBA**
-- Seismic data: introduction, downloading and processing: **TBA**
-- Receiver function: **TBA**
-- Ambient noise tomography: **TBA**
-- More: **TBA**
-
-
 PyGMT Workshop
 --------------
 
