@@ -14,7 +14,7 @@ Seismic Source
 
 Seismic structure
 ^^^^^^^^^^^^^^^^^
-Datasets
+
 - Vp, Vs, density
 
 Geodesy
@@ -34,7 +34,6 @@ InSAR
 ^^^^^
 
 - surface deformation
-
 
 Geotherm
 --------
