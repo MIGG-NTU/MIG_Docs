@@ -30,8 +30,6 @@ Codes
 Tutotials
 ---------
 
-- `MIG_SeisTraining <https://github.com/MIGG-NTU/SeisTraining_MIG>`__\ : 
-  Seismic Training Workshop at MIGG 
 - `PyGMT2021 <https://github.com/MIGG-NTU/PyGMT2021>`__\ : A preliminary
   introduction to PyGMT for MIG members
 - `SeisTomo_Tutorials <https://github.com/MIGG-NTU/SeisTomo_Tutorials>`__\ :
