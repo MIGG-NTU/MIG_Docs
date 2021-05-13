@@ -2,7 +2,7 @@ Github Repositories
 ===================
 
 :contributors: |Yao Jiayuan|
-:last updating date: 2021-05-11
+:last updating date: 2021-05-14
 
 ----
 
@@ -40,8 +40,6 @@ Resources
 
 - `geosciences_Myanmar <https://github.com/MIGG-NTU/geosciences_Myanmar>`__\ :
   Geoscience Studies in Myanmar
-- `Global_EQs_Stations <https://github.com/MIGG-NTU/Global_EQs_Stations>`__\ :
-  Global Earthquakes and Stations
 - `SeisData_EOS <https://github.com/MIGG-NTU/SeisData_EOS>`__\ :
   Seismic Dataset at EOS
 - `SeisTomo_NWPU <https://github.com/MIGG-NTU/SeisTomo_NWPU>`__\ :
