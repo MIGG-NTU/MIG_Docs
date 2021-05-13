@@ -14,7 +14,7 @@ Group Homepage
 --------------
 
 - Website
-  
+
   - 2020/10/14-present: https://personal.ntu.edu.sg/tongping/
   - 201?-2020/10/14: https://www.ntu.edu.sg/home/tongping/
 
@@ -36,8 +36,8 @@ This is a compulsory meeting. You can receive email notice ahead of schedule.
 .. note::
 
    We now use :doc:`GitHub </group-meeting/index>` to record group meeting and
-   :doc:`/dataset/google-drive` to store ppts instead of https://blogs.ntu.edu.sg/geophysics/.
-    
+   :doc:`/data-archive/google-drive` to store ppts instead of https://blogs.ntu.edu.sg/geophysics/.
+
 - Website: https://blogs.ntu.edu.sg/geophysics/ (no longer work since 2021/05/11)
 - Website Tutorial: :doc:`/ntu/ntu-blog/index`
 - Manager: Shijie Hao (Core Administrator), Tianjue Li & Jiayuan Yao
@@ -47,11 +47,11 @@ MIG Intranet
 
 .. note::
 
-   We now use other toos to share information and resources. See :doc:`/dataset/index`
+   We now use other toos to share information and resources. See :doc:`/data-archive/index`
    for details.
 
 - Historical IPs
-  
+
   - 2020/03/02 ~ 2020/05/23: ``http://10.85.167.197:2018``
   - 2020/02/20 ~ 2020/03/01: ``http://10.101.160.200:2018``
   - 2019/11/04 ~ 2020/02/19: ``http://10.101.164.185:2018``

@@ -32,7 +32,7 @@ Common Notes
     with the link is a ``viewer`` or ``editor``.
     For file safety, we must set it to be ``viewer``.
   - We can also only share some directories in ``MIGG-materials``. The method is the same.
-  - If you add new file folders, please also modify the corresponding content in the :doc:`/dataset/google-drive`.
+  - If you add new file folders, please also modify the corresponding content in the :doc:`/data-archive/google-drive`.
 
 Routine Managers
 ----------------
@@ -132,7 +132,7 @@ Arrangement
 .. note::
 
     We now use :doc:`GitHub </group-meeting/index>` to record group meeting and
-    :doc:`/dataset/google-drive` to store ppts instead of https://blogs.ntu.edu.sg/geophysics/.
+    :doc:`/data-archive/google-drive` to store ppts instead of https://blogs.ntu.edu.sg/geophysics/.
     The old group meeting website (https://blogs.ntu.edu.sg/geophysics/)
     has no longer been maintained since 2021/05/11.
     We still keep the :doc:`/ntu/ntu-blog/index` to learn how to manage the old
