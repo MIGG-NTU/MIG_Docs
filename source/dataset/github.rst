@@ -38,8 +38,8 @@ Tutotials
 Resources
 ---------
 
-- `geosciences_Myanmar <https://github.com/MIGG-NTU/geosciences_Myanmar>`__\ :
-  Geoscience Studies in Myanmar
+- `geosciences_MIG <https://github.com/MIGG-NTU/geosciences_MIG>`__\ :
+  Geoscience references and datasets used by MIG
 - `SeisData_EOS <https://github.com/MIGG-NTU/SeisData_EOS>`__\ :
   Seismic Dataset at EOS
 - `SeisTomo_NWPU <https://github.com/MIGG-NTU/SeisTomo_NWPU>`__\ :
