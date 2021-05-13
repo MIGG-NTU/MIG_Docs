@@ -35,12 +35,11 @@ Tutotials
 - `SeisTomo_Tutorials <https://github.com/MIGG-NTU/SeisTomo_Tutorials>`__\ :
   Seismic Body-wave Traveltime Tomography Tutorials
 
-Resources
----------
+Data Archive
+------------
 
 - `SeisData_EOS <https://github.com/MIGG-NTU/SeisData_EOS>`__\ :
   Seismic Dataset at EOS
-- `SeisTomo_NWPU <https://github.com/MIGG-NTU/SeisTomo_NWPU>`__
 
 GitHub
 ------
@@ -49,3 +48,9 @@ GitHub
   continuous documentation deployment
 - `MIGG-NTU.github.io <https://github.com/MIGG-NTU/MIGG-NTU.github.io>`__\ :
   GitHub User Page
+
+Archived Repositories
+---------------------
+
+- `geosciences_MIG <https://github.com/MIGG-NTU/geosciences_MIG>`__
+- `SeisTomo_NWPU <https://github.com/MIGG-NTU/SeisTomo_NWPU>`__
