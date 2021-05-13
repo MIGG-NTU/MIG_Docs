@@ -26,7 +26,7 @@ or `pull request <https://github.com/MIGG-NTU/MIG_Docs/pulls>`__.
 
    group-meeting/index
    seismology/index
-   dataset/index
+   data-archive/index
    myanmar/index
    programming/index
 

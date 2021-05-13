@@ -7,5 +7,6 @@ Introduction
    overview
    members
    management
+   github
    thesis
    photos

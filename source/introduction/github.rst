@@ -6,7 +6,7 @@ Github Repositories
 
 ----
 
-We put some data in `MIG Github <https://github.com/MIGG-NTU>`__, along with some other resources.
+We put use `Github <https://github.com/MIGG-NTU>`__ to share data and resources.
 
 Website & Documentation
 -----------------------
