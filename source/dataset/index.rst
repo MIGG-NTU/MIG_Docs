@@ -7,7 +7,7 @@ following ways to share those data among MIG members.
 .. toctree::
    :maxdepth: 2
 
-   research-data-ntu
    github
+   research-data-ntu
    google-drive
    portable-drive

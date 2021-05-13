@@ -27,6 +27,7 @@ or `pull request <https://github.com/MIGG-NTU/MIG_Docs/pulls>`__.
    group-meeting/index
    seismology/index
    dataset/index
+   myanmar/index
    programming/index
 
 .. toctree::
