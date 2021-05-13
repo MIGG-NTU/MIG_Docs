@@ -16,7 +16,6 @@ or `pull request <https://github.com/MIGG-NTU/MIG_Docs/pulls>`__.
    :hidden:
 
    introduction/index
-   dataset/index
    ntu/index
    singapore/index
 
@@ -27,6 +26,7 @@ or `pull request <https://github.com/MIGG-NTU/MIG_Docs/pulls>`__.
 
    group-meeting/index
    seismology/index
+   dataset/index
    programming/index
 
 .. toctree::
