@@ -9,7 +9,7 @@ Toturial for Groupmeeting Website
 .. note::
 
    We now use :doc:`GitHub </group-meeting/index>` to record group meeting and
-   :doc:`/dataset/google-drive` to store ppts instead of https://blogs.ntu.edu.sg/geophysics/.
+   :doc:`/data-archive/google-drive` to store ppts instead of https://blogs.ntu.edu.sg/geophysics/.
    The old group meeting website (https://blogs.ntu.edu.sg/geophysics/)
    has no longer been maintained since 2021/05/11.
 
