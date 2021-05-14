@@ -19,6 +19,12 @@ This website is a backup of group meeting information of `EOS Observational Seis
 
 2021
 ----
+
+Subducted oceanic crust and the origin of lower-mantle heterogeneities
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- 2021-05-14 by Weiwen Chen
+- Wang, W., Xu, Y., Sun, D., Ni, S., Wentzcovitch, R., & Wu, Z. (2020). Velocity and density characteristics of subducted oceanic crust and the origin of lower-mantle heterogeneities. Nature communications, 11(1), 1-8.
  
 3D fault architecture controls the dynamism of earthquake swarms
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
