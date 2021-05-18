@@ -72,7 +72,7 @@ Before the new member arrives NTU
     XXX (replace xxx with your name)
 
 - Before a new member arrives Singapore, please send him/her some information
-  about NTU and Singapore (e.g., :doc:`/singapore/overseas-life-singapore`)
+  about NTU and Singapore (e.g., :doc:`/singapore/index`)
   and **cc to Prof. TONG**. This could be included in the above email.
 - If he/she is not in our WeChat group, we can also ask if him/her has a WeChat
   account so that we can add him/her in the WeChat group.
