@@ -6,7 +6,8 @@ Introduction
 
    overview
    members
-   management
+   managers
+   license
    github
    thesis
    photos
