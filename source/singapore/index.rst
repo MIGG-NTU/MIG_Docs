@@ -1,7 +1,4 @@
 Living in Singapore
 ===================
 
-.. toctree::
-   :maxdepth: 2
-
-   overseas-life-singapore
+- `Overseas study and life in Singapore <https://core-man.github.io/blog/post/oversea-in-singapore/>`_

@@ -14,7 +14,7 @@ We should be very careful when we want or be asked to share codes/software:
 
     We **CAN ONLY** share the codes/softare to other researchers when the
     permission from Prof. Tong Ping **IS** obtained. Meanwhile, the applicants
-    **SHOULD** be noted by the corresponding codes/softare license. We may refer
+    **SHOULD** be noted by the corresponding code/softare license. We may refer
     to a license template :download:`LICENSE.txt`.
 
 2.  For the second kind of codes/softare
