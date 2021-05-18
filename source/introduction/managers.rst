@@ -1,8 +1,8 @@
-Management
-==========
+Managers
+========
 
 :contributors: |Yao Jiayuan|
-:last updating date: 2021-05-11
+:last updating date: 2021-05-18
 
 ----
 
