@@ -1,6 +1,8 @@
 NTU Resources
 =============
 
+This site collects some resources we could use at NTU.
+
 .. toctree::
    :maxdepth: 1
 
