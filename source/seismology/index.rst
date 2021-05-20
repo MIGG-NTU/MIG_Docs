@@ -1,5 +1,5 @@
-Seismology
-==========
+Learning Seismology
+===================
 
 .. toctree::
    :maxdepth: 2
