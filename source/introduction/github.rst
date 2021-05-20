@@ -26,6 +26,7 @@ Codes
   Data Tools
 - `SeisFigs_Examples <https://github.com/MIGG-NTU/SeisFigs_Examples>`__\ :
   Examples of Plotting Seismic Figures
+- `SIMO <https://github.com/MIGG-NTU/SIMO>`__
 
 Tutotials
 ---------
