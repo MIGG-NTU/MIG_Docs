@@ -31,9 +31,9 @@ Welcome for any suggestion by submitting an
 
    group-meeting/index
    seismology/index
-   data-archive/index
-   myanmar/index
    programming/index
+   myanmar/index
+   data-archive/index
 
 .. toctree::
    :maxdepth: 3
