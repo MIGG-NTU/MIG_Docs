@@ -1,5 +1,5 @@
-NTU Resources
-=============
+Resources at NTU
+================
 
 This site collects some resources we could use at NTU.
 
