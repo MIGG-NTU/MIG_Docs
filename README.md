@@ -3,9 +3,8 @@
 [![Deploy](https://github.com/MIGG-NTU/MIG_Docs/actions/workflows/deploy.yml/badge.svg)](https://github.com/MIGG-NTU/MIG_Docs/actions/workflows/deploy.yml)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
 
-This repository contains the source codes for the [MIG_Docs](https://migg-ntu.github.io/MIG_Docs/)
-site, which collects useful links and resources for the
-[Mathematical Imaging and Geophysics Group (MIGG) at NTU](https://personal.ntu.edu.sg/tongping/index.html):
+This repository contains the source codes of the [MIG Documenation](https://migg-ntu.github.io/MIG_Docs/),
+which collects useful resources and links for the [Mathematical Imaging and Geophysics Group (MIGG) at NTU](https://personal.ntu.edu.sg/tongping/index.html):
 
 - Source codes: https://github.com/MIGG-NTU/MIG_Docs
 - Website: https://migg-ntu.github.io/MIG_Docs/
