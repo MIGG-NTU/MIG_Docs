@@ -1,5 +1,5 @@
-Programming
-===========
+Learning Programming
+====================
 
 .. toctree::
    :maxdepth: 2

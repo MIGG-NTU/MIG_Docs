@@ -1,5 +1,5 @@
-Myanmar
-=======
+Myanmar Geosciences
+===================
 
 We collect geoscience references and datasets at Myanmar used by MIG.
 
