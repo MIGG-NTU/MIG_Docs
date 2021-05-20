@@ -1,5 +1,5 @@
-Data Archive
-============
+Data at MIG
+===========
 
 We deposit, archive and share commonly-used data at MIG.
 
