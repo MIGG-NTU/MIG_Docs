@@ -3,20 +3,6 @@ Paper Reading (EOS)
 
 This website is a backup of group meeting information of `EOS Observational Seismology group <https://earthobservatory.sg/research-group/observational-seismology-wei-shengji>`_. Some available PPTs are in MIG Google Drive (``groupmeeting.NTU/groupmeeting.EOS``) or in EOS-Seismology Microsoft Teams (``Files/PaperReading``).
 
-**Current People:**
-
-- Weiwen Chen
-- Karen Lythgoe
-- Priyamvada Nanjundiah
-- Phyo Maung Maung
-- Wardah Shafiqah Binti MOHAMMAD FADIL
-- Qibin Shi
-- Hongyu Zeng
-- Win Shwe Sin Oo
-- Deepa
-- Yukuan Chen
-
-
 2021
 ----
 
@@ -78,13 +64,13 @@ Localized fault-zone dilatancy and surface inelasticity of the 2019 Ridgecrest e
 Earth’s deepest earthquake swarms track fluid ascent beneath nascent arc volcanoes
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-- 2021/02/19 by Karen
+- 2021/02/19 by Karen Lythgoe
 - White, L. T., Rawlinson, N., Lister, G. S., Waldhauser, F., Hejrani, B., Thompson, D. A., et. al. Morgan, J. P., Earth's deepest earthquake swarms track fluid ascent beneath nascent arc volcanoes, 2019. https://www.sciencedirect.com/science/article/pii/S0012821X19303310 
 
 Deep Learning for Picking Seismic Arrival Times
 ++++++++++++++++++++++++++++++++++++++++++++++++
 
-- 2021/02/05 by Yukuan
+- 2021/02/05 by Yukuan Chen
 - Wang, J., Xiao, Z., Liu, C., Zhao, D., & Yao, Z. Deep Learning for Picking Seismic Arrival Times. Journal of Geophysical Research: Solid Earth, 2019, 124(7), 6612–6624. https://doi.org/10.1029/2019jb017536
 
 Laboratory Earthquakes: The Sub-Rayleigh–to–Supershear Rupture Transition
@@ -96,13 +82,13 @@ Laboratory Earthquakes: The Sub-Rayleigh–to–Supershear Rupture Transition
 Basement Imaging Using Sp Converted Phases from a Dense Strong-Motion Array in Lan-Yang Plain, Taiwan
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-- 2021/01/22 by Win
+- 2021/01/22 by Win Shwe Sin Oo
 - Chang C H, Lin T L, Wu Y M, et al. Basement imaging using Sp converted phases from a dense strong-motion array in Lan-Yang Plain, Taiwan[J]. Bulletin of the Seismological Society of America, 2010, 100(3): 1363-1369.
 
 Deep structure of NE China
 ++++++++++++++++++++++++++
 
-- 2021/01/15 by Weiwen
+- 2021/01/15 by Weiwen Chen
 - Wang, X., Chen, Q. F., Niu, F., Wei, S., Ning, J., Li, J., ... & Liu, L. (2020). Distinct slab interfaces imaged within the mantle transition zone. Nature Geoscience, 13(12), 822-827.
 - Tang, Y., Obayashi, M., Niu, F., Grand, S. P., Chen, Y. J., Kawakatsu, H., ... & Ni, J. F. (2014). Changbaishan volcanism in northeast China linked to subduction-induced mantle upwelling. Nature Geoscience, 7(6), 470-475.
 - Ma, J., Tian, Y., Liu, C., Zhao, D., Feng, X., & Zhu, H. (2018). P-wave tomography of Northeast Asia: Constraints on the western Pacific plate subduction and mantle dynamics. Physics of the Earth and Planetary Interiors, 274, 105-126.
@@ -110,7 +96,7 @@ Deep structure of NE China
 Fault healing promotes high-frequency earthquakes in laboratory experiments and on natural faults
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-- 2021/01/08 by Hongyu
+- 2021/01/08 by Hongyu Zeng
 - McLaskey, G., Thomas, A., Glaser, S. et al. Fault healing promotes high-frequency earthquakes in laboratory experiments and on natural faults. Nature 491, 101–104 (2012). https://doi.org/10.1038/nature11512
 
 2020
@@ -119,7 +105,7 @@ Fault healing promotes high-frequency earthquakes in laboratory experiments and 
 Shumagin seismic gap at the Alaska subduction zone
 +++++++++++++++++++++++++++++++++++++++++++++++++++
  
-- 2020/12/4 by Qibin
+- 2020/12/4 by Qibin Shi
 - Shillington D J, Bécel A, Nedimović M R, et al. Link between plate fabric, hydration and subduction zone seismicity in Alaska[J]. Nature Geoscience, 2015, 8(12): 961-964.
 
 Continuum of earthquake rupture speeds enabled by oblique slip
@@ -131,13 +117,13 @@ Continuum of earthquake rupture speeds enabled by oblique slip
 Evolution of tectonics and geodynamics of the eastern part of the India-Asia collision in Myanmar
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-- 2020/11/20 by WARDAH
+- 2020/11/20 by Wardah Shafiqah Binti MOHAMMAD FADIL
 - Licht A, Dupont-Nivet G, Win Z, et al. Paleogene evolution of the Burmese forearc basin and implications for the history of India-Asia convergence[J]. GSA Bulletin, 2019, 131(5-6): 730-748.
 
 Seismoetctonics of Hindu-Kush and Pamir regions
 +++++++++++++++++++++++++++++++++++++++++++++++
 
-- 2020/11/06 by phyo mgmg
+- 2020/11/06 by Phyo Maung Maung
 - Schurr,B.,L.Ratschbacher,C.Sippl,R. Gloaguen, X. Yuan, and J. Mechie (2014), Seismotectonics of the Pamir , Tectonics, 33, 1501–1 518, doi:10.1002/2014TC003576.
 
 Pamir‐Hindu Kush Intermediate‐depth Earthquake
@@ -207,7 +193,7 @@ Machine learning
 Focal depth determination
 +++++++++++++++++++++++++
 
-- 2020/08/28 by Wardah
+- 2020/08/28 by Wardah Shafiqah Binti MOHAMMAD FADIL
 - Yuan, J., Kao, H., & Yu, J. (2020). Depth‐Scanning Algorithm: Accurate, Automatic, and Efficient Determination of Focal Depths for Local and Regional Earthquakes. Journal of Geophysical Research: Solid Earth, 125(7)
 
 
