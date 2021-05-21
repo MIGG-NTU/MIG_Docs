@@ -6,11 +6,17 @@ This website is a backup of group meeting information of `EOS Observational Seis
 2021
 ----
 
+The Hindu Kush slab break-off as revealed by deep structure and crustal deformation
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- 2021-05-21 by Priyamvada Nanjundiah
+- Kufner, S. K., Kakar, N., Bezada, M., Bloch, W., Metzger, S., Yuan, X., ... & Schurr, B. (2021). The Hindu Kush slab break-off as revealed by deep structure and crustal deformation. Nature communications, 12(1), 1-11.
+
 Subducted oceanic crust and the origin of lower-mantle heterogeneities
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 - 2021-05-14 by Weiwen Chen
-- Wang, W., Xu, Y., Sun, D., Ni, S., Wentzcovitch, R., & Wu, Z. (2020). Velocity and density characteristics of subducted oceanic crust and the origin of lower-mantle heterogeneities. Nature communications, 11(1), 1-8.
+- Wang, W., Xu, Y., Sun, D., Ni, S., Wentzcovitch, R., & Wu, Z. (2020). Velocity and density characteristics of subducted oceanic crust and the origin of lower-mantle  heterogeneities. Nature communications, 11(1), 1-8.
  
 3D fault architecture controls the dynamism of earthquake swarms
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
