@@ -1,6 +1,11 @@
 Websites & Documentation
 ========================
 
+:contributors: |Yao Jiayuan|
+:last updating date: 2021-05-22
+
+----
+
 `Hugo <https://gohugo.io/>`__ is used to build the static websites, e.g.,
 Prof. Ping Tong's `homepage <https://personal.ntu.edu.sg/tongping/>`__.
 We use the hugo module, `wowchemy <https://github.com/wowchemy/wowchemy-hugo-modules>`__.
@@ -32,21 +37,23 @@ Websites                                                                  Genera
 `MIGG-NTU.github.io <https://github.com/MIGG-NTU/MIGG-NTU.github.io>`__   ``Jekyll``     ``modernist``            ``GitHub Pages`` ``GitHub``
 ========================================================================= ============== ======================== ================ =====================
 
-
 Hugo
 ----
 
-`Hugo <https://gohugo.io/>`__ is the world’s fastest framework for building static websites.
+`Hugo <https://gohugo.io/>`__ is the world’s fastest framework for building static websites:
 
 - `Install <https://gohugo.io/getting-started/installing/>`__  | `Releases <https://github.com/gohugoio/hugo/releases>`__
 - `Documentation <https://gohugo.io/documentation/>`__ | `中文文档 <https://www.gohugo.org/>`__
 
-
 **Themes:**
 
-`Wowchemy <https://wowchemy.com/>`__ (`GitHub <https://github.com/wowchemy/wowchemy-hugo-modules>`__) is a popular website builder for Hugo. It is now a `Hugo Module <https://gohugo.io/hugo-modules/>`__ and previously was a Hugo Theme called ``hugo-academic``. Some `Wowchemy Templates <https://wowchemy.com/templates/>`__ are available, e.g., ``Academic Starter`` (previous ``academic-kickstart``).
+`Wowchemy <https://wowchemy.com/>`__ (`GitHub <https://github.com/wowchemy/wowchemy-hugo-modules>`__)
+is a popular website builder for Hugo. It is now a `Hugo Module <https://gohugo.io/hugo-modules/>`__
+and previously was a Hugo Theme called ``hugo-academic``.
+Some `Wowchemy Templates <https://wowchemy.com/templates/>`__ are available, e.g., ``Academic Starter`` (previous ``academic-kickstart``).
 
-You can edit the website on the local PC using Wowchemy along with some `prerequisites <https://wowchemy.com/docs/install-locally/#prerequisites>`__. Please refer to `Wowchemy Documentation <https://wowchemy.com/docs/>`__ for more details.
+You can edit the website on the local PC using Wowchemy along with some `prerequisites <https://wowchemy.com/docs/install-locally/#prerequisites>`__.
+Please refer to `Wowchemy Documentation <https://wowchemy.com/docs/>`__ for more details.
 
 Hugo provides a lot of useful `Themes <https://themes.gohugo.io/>`__ which can be also used to build our websites.
 
@@ -64,7 +71,6 @@ We can refer to some parts of those tutorials, because the settings in our websi
 - `借助 Hugo 和 Academic 主题在 github <https://leidawt.github.io/post/%E5%80%9F%E5%8A%A9hugo%E5%92%8Cacademic%E4%B8%BB%E9%A2%98%E5%9C%A8github/>`__
 - `academic 主题 <https://skyao.io/learning-hugo/docs/theme/academic.html>`__
 - `Academic 实现 Github Page 个人博客 <https://szthanatos.github.io/post/academic/academic_in_practice/>`__
-
 
 Sphnix
 ------
@@ -92,7 +98,6 @@ Sphnix
 - `使用单个仓库配置 GitHub Pages + Sphinx <https://natescarlet.github.io/2019/05/11/%E4%BD%BF%E7%94%A8%E5%8D%95%E4%B8%AA%E4%BB%93%E5%BA%93%E9%85%8D%E7%BD%AE-github-pages-sphinx/>`__
 - `如何用Sphinx、GitHub、ReadtheDocs 搭建写书环境 <https://wtf.readthedocs.io/en/latest/index.html>`__
 
-
 GitHub Pages
 ------------
 
@@ -102,7 +107,6 @@ GitHub Pages
 - `如何把 Hugo 生成的博客托管在 GitHub Pages <https://www.gohugo.org/doc/tutorials/github-pages-blog/>`__
 - `发布到Github Pages <https://einverne.github.io/gitbook-tutorial/publish/gitpages.html>`__
 - `解决Github Pages 和 Github .md 文件图片不显示 <https://www.cnblogs.com/Java-Starter/p/11087031.html>`__
-
 
 Github Actions
 --------------
@@ -116,7 +120,6 @@ Github Actions
 - `GitHub Actions 自动部署 <https://segmentfault.com/a/1190000021815477>`__
 - `GitHub Action 一键部署 <https://didiheng.com/front/2019-12-11.html#github-action%E9%85%8D%E7%BD%AE>`__
 
-
 Travis CI
 ---------
 
@@ -127,4 +130,3 @@ Travis CI
 - `Travis CI Tutorial <https://docs.travis-ci.com/user/tutorial/>`__
 - `持续集成服务 Travis CI 教程 <http://www.ruanyifeng.com/blog/2017/12/travis_ci_tutorial.html>`__
 - `使用 Travis CI 自动部署 Hugo 博客 <https://mogeko.me/2018/028/>`__
-
