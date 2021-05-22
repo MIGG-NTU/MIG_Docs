@@ -1,6 +1,11 @@
 Research Data
 =============
 
+:contributors: |Yao Jiayuan|
+:last updating date: 2021-05-09
+
+----
+
 If you are submitting your paper to a journal with a *data sharing requirement*, then you’ll be asked to provide a data availability statement. `DR-NTU (Data) <https://researchdata.ntu.edu.sg/>`_ provides Digital Object Identifier (DOI) for dataset, which you can use for *data availability statement*. Therefore, we can use DR-NTU (Data) to deposit, archive and share research data.
 
 
@@ -8,7 +13,6 @@ What is data availability statement
 -----------------------------------
 
 A data availability statement tells the reader where the underlying data for a research paper is available, typically with links to the data.
-
 
 How to write a data availability statement
 ------------------------------------------
@@ -31,11 +35,9 @@ Examples of paper publications with data availability statement:
 - `Example 1 <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0214482#abstract0>`_ from PLOS ONE
 - `Example 2 <https://www.nature.com/articles/s41467-019-11251-4#data-availability>`_ from Nature Communications
 
-
 Other notes
 -----------
 
 - If having some comments or questions, please refer to `NTU Ask A Librarian <https://libfaq.ntu.edu.sg/form.php?queue_id=2609&iframe=1&qlog_id=0&pquestion=>`_
 - `Past quarterly communications on dataset linking & folder structure <https://libguides.ntu.edu.sg/drntudataguidespolicies#s-lg-box-21360244>`_
 - `Data anonymization: what, when and how <https://libguides.ntu.edu.sg/anon>`_
-
