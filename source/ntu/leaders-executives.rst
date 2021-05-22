@@ -1,15 +1,15 @@
-MIG-related Leaders and Executives
-==================================
+NTU Leaders and Executives
+===========================
 
 :contributors: |Yao Jiayuan|
-:last updating date: 2021-05-11
+:last updating date: 2021-05-22
 
 ----
 
 SPMS
 ----
 
-- `Leadership of SPMS <https://spms.ntu.edu.sg/aboutus/Pages/Leadership.aspx>`_
+- `SPMS Leadership <https://spms.ntu.edu.sg/aboutus/Pages/Leadership.aspx>`__
 - `TEO Woo Lian Susan <https://spms.ntu.edu.sg/aboutus/Our-People/Pages/Chairs-Office.aspx>`_
 
     - Senior Executive, Local Support (Finance & Procurement)
@@ -25,5 +25,5 @@ SPMS
 EOS
 ---
 
-- `Leadership of EOS <https://earthobservatory.sg/about/director>`_
+- `EOS Leadership <https://earthobservatory.sg/about/director>`_
 - `SU SU Hlaing Myint <https://earthobservatory.sg/people/su-su-hlaing-myint>`_: Finance Executive
