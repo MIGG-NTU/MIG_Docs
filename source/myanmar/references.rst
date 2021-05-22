@@ -1,8 +1,12 @@
 References
 ==========
 
-Academic references for geoscience studies in Myanmar.
+:contributors: |Yao Jiayuan|
+:last updating date: 2021-05-22
 
+----
+
+Academic references for geoscience studies in Myanmar.
 
 Tectonics
 ---------
