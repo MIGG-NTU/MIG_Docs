@@ -17,6 +17,9 @@ We need to apply for an account before we can use GEKKO. Please ask Tong Ping fo
 If the NTU network account is jiayuanyao, then we could use ``ssh`` to log in Gekko::
 
     ssh jiayuanyao@gekko.earthobservatory.sg
+    
+It is recommended to use VS Code to log in Gekko and work on codes and files.
+Please refer to a `VS Code tutorial <https://seismo-learn.org/seismology101/computer/editor/#vs-code>`__.
 
 .. note::
 
