@@ -1,6 +1,11 @@
 Links
 =====
 
+:contributors: |Yao Jiayuan|
+:last updating date: 2021-05-22
+
+----
+
 MIG Websites
 ------------
 
@@ -74,5 +79,5 @@ Singapore Websites
 - `Check Work Pass Status <https://checkwpstatus.mom.gov.sg/Pages/home.aspx>`_
 - `Singapore Bus Routes Explorer <https://busrouter.sg>`_
 - `SG transport map <https://www.mytransport.sg/content/mytransport/map.html>`_
-- `Train system map <https://www.lta.gov.sg/content/ltaweb/en/public-transport/mrt-and-lrt-trains/train-system-map.html) & [MRT map](https://www.mytransport.sg/content/mytransport/home/commuting/trainmap.html>`_
-
+- `Train system map <https://www.lta.gov.sg/content/ltaweb/en/public-transport/mrt-and-lrt-trains/train-system-map.html) |
+  [MRT map](https://www.mytransport.sg/content/mytransport/home/commuting/trainmap.html>`_
