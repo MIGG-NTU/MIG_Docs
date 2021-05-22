@@ -15,10 +15,7 @@ Account
 
 We need to apply for an account before we can use GEKKO. Please ask Tong Ping for help.
 
-- Account: NTU network account
-- Password: NTU network password
-
-Log in::
+If the NTU network account is jiayuanyao, then we could use ``ssh`` to log in Gekko::
 
     ssh jiayuanyao@gekko.earthobservatory.sg
 
