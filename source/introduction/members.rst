@@ -1,6 +1,14 @@
 Members
 =======
 
+:contributors: |Yao Jiayuan|
+:last updating date: 2021-05-22
+
+----
+
+More information about MIG current and previous members can be found
+on `MIG Homepage <https://personal.ntu.edu.sg/tongping/#people>`__.
+
 .. _subsec:MIG-currnet-members:
 
 Current Members
@@ -9,9 +17,9 @@ Current Members
 ================= ==================== ========================= ========================= ==========
 Title             Name                 First email               Second email              Period
 ================= ==================== ========================= ========================= ==========
-``PI``
+**PI**
 Boss              Ping TONG 童平       tongping@ntu.edu.sg       tongping85@gmail.com      2016
-``Student``
+**Student**
 PhD Student       Yongsheng LIU 刘永生 shidayongsheng@163.com    lysntu@gmail.com          2017 Aug.
 PhD Student       Yingyu QI 齐樱宇     yingyu_qi@hotmail.com                               2017 Aug.
 PhD Student       Tianjue LI 李天觉    tianjueli89@gmail.com     tianjue001@e.ntu.edu.sg   2020 Aug.
@@ -19,22 +27,10 @@ PhD Student       Shijie HAO 郝识杰    shijiehao95@126.com       shijie001@e.
 PhD Student       Chunfei CHEY 谢俊辉  chey0014@e.ntu.edu.sg                               2020 Aug.
 Master Student    Yau Wing CHENG       yauwing1118@gmail.com                               2018 Aug.
 Master Student    Xiaoyan LI 李晓岩    839652320@qq.com          xiaoyan003@e.ntu.edu.sg   2019 Jul.
-``Staff``
+**Staff**
 Research Fellow   Jiayuan YAO 姚家园   kaka22yao@gmail.com       jiayuanyao@ntu.edu.sg     2018 Aug.
 Research Fellow   Shucheng WU 吴树成   shucheng.wu@ntu.edu.sg    shucheng.wu@foxmail.com   2019 Sep.
 ================= ==================== ========================= ========================= ==========
-
-
-Coming Members
---------------
-
-================= ==================== ========================= ========================= ==========
-Title             Name                 First email               Second email              Period
-================= ==================== ========================= ========================= ==========
-\-                \-                   \-                        \-                        \-
-\-                \-                   \-                        \-                        \-
-================= ==================== ========================= ========================= ==========
-
 
 Previous Memebers
 -----------------
@@ -51,5 +47,3 @@ Visiting PhD Student     Chao ZHANG 张超                                      
 Visiting Master Student  Xiachun LU 卢霞春    lllxchun@163.com                                    2019 Jan. ~ 2019 Nov.   Now at Ningxia University
 Visiting Master Student  Hui LI 李慧          lihui_cdut@qq.com                                   2018 Nov. ~ 2019 Apr.   Now at Chengdu University of Technology
 ======================== ==================== ========================= ========================= ======================= =======
-
-More information about MIG current and previous members can be found `here <https://personal.ntu.edu.sg/tongping/#people>`_
