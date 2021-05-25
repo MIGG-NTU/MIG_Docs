@@ -41,7 +41,7 @@ Data Archive
 
 - `SeisData_EOS <https://github.com/MIGG-NTU/SeisData_EOS>`__\ :
   Seismic Dataset at EOS
-- `geoscience-data <https://github.com/MIGG-NTU/geoscience-data>`__\ :
+- `geoscience_data <https://github.com/MIGG-NTU/geoscience_data>`__\ :
   Geoscience data at MIG
 
 GitHub
