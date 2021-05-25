@@ -55,5 +55,4 @@ GitHub
 Archived Repositories
 ---------------------
 
-- `geosciences_MIG <https://github.com/MIGG-NTU/geosciences_MIG>`__
 - `SeisTomo_NWPU <https://github.com/MIGG-NTU/SeisTomo_NWPU>`__
