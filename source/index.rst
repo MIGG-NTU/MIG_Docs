@@ -32,7 +32,7 @@ Welcome for any suggestion by submitting an
    group-meeting/index
    seismology/index
    programming/index
-   myanmar/index
+   geosciences/index
    data-archive/index
 
 .. toctree::

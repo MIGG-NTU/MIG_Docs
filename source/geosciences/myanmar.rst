@@ -1,8 +1,8 @@
-References
-==========
+Myanmar
+=======
 
 :contributors: |Yao Jiayuan|
-:last updating date: 2021-05-22
+:last updating date: 2021-05-25
 
 ----
 
@@ -97,7 +97,7 @@ Geochemistry
 -------------
 
 - Lamont, T. N., Searle, M. P., Hacker, B. R., Htun, K., Htun, K. M., Morley, C. K., ... & White, R. W. (2021).
-  Late Eocene-Oligocene granulite facies garnet-sillimanite migmatites from 
+  Late Eocene-Oligocene granulite facies garnet-sillimanite migmatites from
   the Mogok Metamorphic belt, Myanmar, and implications for timing of slip along the Sagaing Fault.
   Lithos, 386, 106027.
   https://doi.org/10.1016/j.lithos.2021.106027
