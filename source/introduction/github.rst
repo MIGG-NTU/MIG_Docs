@@ -14,6 +14,16 @@ Website & Documentation
 - `academic <https://github.com/MIGG-NTU/academic>`__\ : MIG Homepage
 - `MIG_Docs <https://github.com/MIGG-NTU/MIG_Docs>`__\ : MIG Documentation
 
+Tutotials
+---------
+
+- `PyGMT2021 <https://github.com/MIGG-NTU/PyGMT2021>`__\ : A preliminary
+  introduction to PyGMT for MIG members
+- `SeisTomo_Tutorials <https://github.com/MIGG-NTU/SeisTomo_Tutorials>`__\ :
+  Seismic Body-wave Traveltime Tomography Tutorials
+- `SeisFigs_Examples <https://github.com/MIGG-NTU/SeisFigs_Examples>`__\ :
+  Examples of Plotting Seismic Figures
+
 Codes
 -----
 
@@ -24,23 +34,15 @@ Codes
   Processing Server
 - `SeisData_Tools <https://github.com/MIGG-NTU/SeisData_Tools>`__\ : Seismic
   Data Tools
-- `SeisFigs_Examples <https://github.com/MIGG-NTU/SeisFigs_Examples>`__\ :
-  Examples of Plotting Seismic Figures
 - `SIMO <https://github.com/MIGG-NTU/SIMO>`__
-
-Tutotials
----------
-
-- `PyGMT2021 <https://github.com/MIGG-NTU/PyGMT2021>`__\ : A preliminary
-  introduction to PyGMT for MIG members
-- `SeisTomo_Tutorials <https://github.com/MIGG-NTU/SeisTomo_Tutorials>`__\ :
-  Seismic Body-wave Traveltime Tomography Tutorials
 
 Data Archive
 ------------
 
 - `SeisData_EOS <https://github.com/MIGG-NTU/SeisData_EOS>`__\ :
   Seismic Dataset at EOS
+- `geoscience-data <https://github.com/MIGG-NTU/geoscience-data>`__\ :
+  Geoscience data at MIG
 
 GitHub
 ------
