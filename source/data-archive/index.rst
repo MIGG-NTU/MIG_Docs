@@ -1,9 +1,9 @@
 Data at MIG
 ===========
 
-MIG deposits, archive and share commonly-used data using several tools. For example,
-Some codes/data are uploaded and maintained on :doc:`MIG GitHub </introduction/github>`.
-We present other tools used at MIG here.
+MIG deposits, archive and share commonly-used data using several tools.
+Some codes/data are uploaded and maintained on :doc:`MIG GitHub </introduction/github>`,
+while we present other tools used at MIG here.
 
 .. toctree::
    :maxdepth: 2
