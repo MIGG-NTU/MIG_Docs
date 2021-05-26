@@ -25,7 +25,6 @@ PhD Student       Yingyu QI 齐樱宇     yingyu_qi@hotmail.com                 
 PhD Student       Tianjue LI 李天觉    tianjueli89@gmail.com     tianjue001@e.ntu.edu.sg   2020 Aug.
 PhD Student       Shijie HAO 郝识杰    shijiehao95@126.com       shijie001@e.ntu.edu.sg    2020 Aug.
 PhD Student       Chunfei CHEY 谢俊辉  chey0014@e.ntu.edu.sg                               2020 Aug.
-Master Student    Yau Wing CHENG       yauwing1118@gmail.com                               2018 Aug.
 Master Student    Xiaoyan LI 李晓岩    839652320@qq.com          xiaoyan003@e.ntu.edu.sg   2019 Jul.
 **Staff**
 Research Fellow   Jiayuan YAO 姚家园   kaka22yao@gmail.com       jiayuanyao@ntu.edu.sg     2018 Aug.
@@ -40,6 +39,7 @@ Title                    Name                 First email               Second e
 ======================== ==================== ========================= ========================= ======================= =======
 Research Fellow          Shaolin LIU  刘少林  shaolinliu88@gmail.com                              2017 ~ 2020/02/29       Now at the Institute of Crustal Dynamics, CEA
 Research Fellow          Xueyuan HUANG 黄雪源 x.y.huang.wb@163.com                                2017 Sep. ~ 2018 Sep.   Now at Beijing Technology and Business University
+Research Assistant       Yau Wing CHENG       yauwing1118@gmail.com                               2018 Aug.
 Research Assistant       Hui Jia FARM                                                             2018 Jul. ~ 2018 Aug.   Now work in Singapore
 Vistting Professor       Wenshuai WANG 汪文帅 wws@nxu.edu.cn            boxinnx@qq.com            2019 Sep.               Now at Ningxia University
 Visiting PhD Student     Dongdong WANG 王冬冬 ddong_wang@foxmail.com    N1906624H@e.ntu.edu.sg    2019 Sep. ~ 2020 Sep.   Now at Hefei University of Technology
