@@ -14,23 +14,23 @@ on `MIG Homepage <https://personal.ntu.edu.sg/tongping/#people>`__.
 Current Members
 ---------------
 
-================= ==================== ========================= ========================= ==========
-Title             Name                 First email               Second email              Period
-================= ==================== ========================= ========================= ==========
+==================== ==================== ========================= ========================= ==========
+Title                Name                 First email               Second email              Period
+==================== ==================== ========================= ========================= ==========
 **PI**
-Boss              Ping TONG 童平       tongping@ntu.edu.sg       tongping85@gmail.com      2016
+Boss                 Ping TONG 童平       tongping@ntu.edu.sg       tongping85@gmail.com      2016
 **Student**
-PhD Student       Yongsheng LIU 刘永生 shidayongsheng@163.com    lysntu@gmail.com          2017 Aug.
-PhD Student       Yingyu QI 齐樱宇     yingyu_qi@hotmail.com                               2017 Aug.
-PhD Student       Tianjue LI 李天觉    tianjueli89@gmail.com     tianjue001@e.ntu.edu.sg   2020 Aug.
-PhD Student       Shijie HAO 郝识杰    shijiehao95@126.com       shijie001@e.ntu.edu.sg    2020 Aug.
-PhD Student       Chunfei CHEY 谢俊辉  chey0014@e.ntu.edu.sg                               2020 Aug.
-Master Student    Xiaoyan LI 李晓岩    839652320@qq.com          xiaoyan003@e.ntu.edu.sg   2019 Jul.
+PhD Student          Yongsheng LIU 刘永生 shidayongsheng@163.com    lysntu@gmail.com          2017 Aug.
+PhD Student          Yingyu QI 齐樱宇     yingyu_qi@hotmail.com                               2017 Aug.
+PhD Student          Tianjue LI 李天觉    tianjueli89@gmail.com     tianjue001@e.ntu.edu.sg   2020 Aug.
+PhD Student          Shijie HAO 郝识杰    shijiehao95@126.com       shijie001@e.ntu.edu.sg    2020 Aug.
+PhD Student          Chunfei CHEY 谢俊辉  chey0014@e.ntu.edu.sg                               2020 Aug.
+Master Student       Xiaoyan LI 李晓岩    839652320@qq.com          xiaoyan003@e.ntu.edu.sg   2019 Jul.
 Visiting PhD Student  Yue Pan 潘钥     n2007049d@e.ntu.edu.sg                              2021 May
 **Staff**
-Research Fellow   Jiayuan YAO 姚家园   kaka22yao@gmail.com       jiayuanyao@ntu.edu.sg     2018 Aug.
-Research Fellow   Shucheng WU 吴树成   shucheng.wu@ntu.edu.sg    shucheng.wu@foxmail.com   2019 Sep.
-================= ==================== ========================= ========================= ==========
+Research Fellow      Jiayuan YAO 姚家园   kaka22yao@gmail.com       jiayuanyao@ntu.edu.sg     2018 Aug.
+Research Fellow      Shucheng WU 吴树成   shucheng.wu@ntu.edu.sg    shucheng.wu@foxmail.com   2019 Sep.
+==================== ==================== ========================= ========================= ==========
 
 Previous Memebers
 -----------------
