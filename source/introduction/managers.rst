@@ -57,14 +57,15 @@ Before the new member arrives NTU
 
     There are four websites related to our group now.
 
-    1. https://personal.ntu.edu.sg/tongping/ (Prof. Ping Tong's research group)
-    2. https://blogs.ntu.edu.sg/geophysics/ (Groupmeeting topics and papers)
-    3. https://migg-ntu.github.io/MIG_Docs/ (MIG User Docs)
-    4. https://github.com/MIGG-NTU/ (MIG GitHub)
+    1. https://personal.ntu.edu.sg/tongping/ (MIG Homepage)
+    2. https://migg-ntu.github.io/MIG_Docs/ (MIG Documentation)
+    3. https://github.com/MIGG-NTU/ (MIG GitHub)
 
-    Some MIGG internal materials are available in MIGG Google Drive： xxx (replaced xxx with real share link of ``MIGG-materials``)
+    Some MIGG internal materials are available in MIGG Google Drive： xxx
+    (replaced xxx with real share link of ``MIGG-materials``)
 
-    If you have any useful materials and information, we will be appreciated that you can share with us. For example, your thesis (pdf & ppt), books, softwares, your experiences etc.
+    If you have any useful materials and information, we will be appreciated that you can share with us.
+    For example, your thesis (pdf & ppt), books, softwares, your experiences etc.
 
     If you have any suggestions about our websites or other things, please feel free to discuss with the managers.
 
