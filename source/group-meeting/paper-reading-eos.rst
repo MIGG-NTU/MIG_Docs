@@ -6,6 +6,12 @@ This website is a backup of group meeting information of `EOS Observational Seis
 2021
 ----
 
+New Ground Motion to Intensity Conversion Equations (GMICEs) for New Zealand
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- 2021-05-28 by Phyo Maung Maung
+- Moratalla, J. M., Goded, T., Rhoades, D. A., Canessa, S., & Gerstenberger, M. C. (2020). New Ground Motion to Intensity Conversion Equations (GMICEs) for New Zealand. Seismological Research Letters, 92(1), 448–459. 
+
 The Hindu Kush slab break-off as revealed by deep structure and crustal deformation
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -27,7 +33,7 @@ Subducted oceanic crust and the origin of lower-mantle heterogeneities
 Fault damage zones
 +++++++++++++++++++
 
-- 2019-04-30 by Win Shwee Sin Oo
+- 2021-04-30 by Win Shwee Sin Oo
 - Kim, Y. S., Peacock, D. C., & Sanderson, D. J. (2004). Fault damage zones. Journal of Structural Geology, 26(3), 503–517. 
   https://doi.org/10.1016/j.jsg.2003.08.002
 
