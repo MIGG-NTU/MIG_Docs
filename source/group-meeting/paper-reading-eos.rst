@@ -6,6 +6,12 @@ This website is a backup of group meeting information of `EOS Observational Seis
 2021
 ----
 
+Elastic Properties of Minerals
++++++++++++++++++++++++++++++++
+
+- 2021-06-04 by Shidong
+- Bass, J. D., Sinogeikin, S. V., & Li, B. (2008). Elastic Properties of Minerals: A Key for Understanding the Composition and Temperature of Earth’s Interior. Elements, 4(3), 165–170. https://doi.org/10.2113/gselements.4.3.165
+
 New Ground Motion to Intensity Conversion Equations (GMICEs) for New Zealand
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
