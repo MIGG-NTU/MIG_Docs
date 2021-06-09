@@ -1,6 +1,5 @@
-Websites & Documentation
-========================
-
+Websites
+========
 :contributors: |Yao Jiayuan|
 :last updating date: 2021-05-22
 
@@ -24,8 +23,8 @@ using `GitHub Pages <https://pages.github.com/>`__.
 or `Travis CI <https://travis-ci.com/>`__ is used to build and deploy the websites and documentation.
 
 
-MIG Website Settings
---------------------
+Website Settings
+-----------------
 
 ========================================================================= ============== ======================== ================ =====================
 Websites                                                                  Generators     Themes                   Hostings         Building & Deployment
