@@ -2,7 +2,7 @@ Learning Programming
 ====================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    version-control
    websites-documentation
