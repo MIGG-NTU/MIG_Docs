@@ -5,6 +5,6 @@ We collect geoscience references used by MIG.
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    myanmar
