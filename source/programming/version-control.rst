@@ -77,8 +77,8 @@ A list of some commonly-used commands in GitHub command-line tools:
       # core-man, HouseJaay, Shucheng-Wu, tianjueli
       $ gh pr create --reviewer core-man,HouseJaay,Shucheng-Wu,tianjueli
 
-A Workflow Example
-------------------
+Workflow
+---------
 
 We use the repository, `MIG_Docs <https://github.com/MIGG-NTU/MIG_Docs>`__,
 as an example to show how we should revise and update a GitHub repository on which at least two authors are working.
