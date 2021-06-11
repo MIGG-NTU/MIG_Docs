@@ -6,6 +6,11 @@ This website is a backup of group meeting information of `EOS Observational Seis
 2021
 ----
 
+Indian continental lithosphere and related volcanism beneath Myanmar: Constraints from local earthquake tomography
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+- 2021-06-11 by Wardah Shafiqah Binti MOHAMMAD FADIL
+- Zhang, G., He, Y., Ai, Y., Jiang, M., Mon, C. T., Hou, G., ... & Sein, K. (2021). Indian continental lithosphere and related volcanism beneath Myanmar: Constraints from local earthquake tomography. Earth and Planetary Science Letters, 567, 116987. 
+
 Elastic Properties of Minerals
 +++++++++++++++++++++++++++++++
 
