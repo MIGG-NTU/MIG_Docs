@@ -6,6 +6,11 @@ This website is a backup of group meeting information of `EOS Observational Seis
 2021
 ----
 
+Data-driven Accelerogram Synthesis using Deep Generative Models
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+- 2021-06-18 by Qibin Shi
+- Florez, M., Caporale, M., Buabthong, P., Ross, Z., Asimaki, D., & Meier, M. (2020). Data-driven Accelerogram Synthesis using Deep Generative Models. https://arxiv.org/abs/2011.09038
+
 Indian continental lithosphere and related volcanism beneath Myanmar: Constraints from local earthquake tomography
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 - 2021-06-11 by Wardah Shafiqah Binti MOHAMMAD FADIL
