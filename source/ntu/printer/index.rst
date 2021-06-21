@@ -75,9 +75,9 @@ Using Printer at Ubuntu
 
 4. Input:
 
-    **Link**: ``smb://mps.ntu.edu.sg/SPMS-MAS-04-07-M01``
-    **User name**: ``domain/username``
-    **Password**
+    - **Link**: ``smb://mps.ntu.edu.sg/SPMS-MAS-04-07-M01``
+    - **User name**: ``domain/username``
+    - **Password**
 
 5. Select drivers: ``HP-LaserJetPro-M404-M405``
 
