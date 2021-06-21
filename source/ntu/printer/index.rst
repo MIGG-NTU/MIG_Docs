@@ -70,8 +70,8 @@ Using Printer at Ubuntu
 
 3.  Setting:
 
-    ``Settings`` -> ``Printers`` -> ``Additional Printer Settings``
-     -> ``Add`` -> ``Network Printer`` -> ``Windows Printer Via SAMBA``
+    ``Settings`` -> ``Printers`` -> ``Additional Printer Settings`` ->
+    ``Add`` -> ``Network Printer`` -> ``Windows Printer Via SAMBA``
 
 4. Input:
 
