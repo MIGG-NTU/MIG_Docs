@@ -68,9 +68,15 @@ Using Printer at Ubuntu
     $ sudo apt install samba
     $ sudo apt install smbclient
 
-3.  Setting: ``Settings`` -> ``Printers`` -> ``Additional Printer Settings`` ->
+3.  Setting
+
+    ``Settings`` -> ``Printers`` -> ``Additional Printer Settings`` ->
     ``Add`` -> ``Network Printer`` -> ``Windows Printer Via SAMBA``
-4. Input link (``smb://mps.ntu.edu.sg/SPMS-MAS-04-07-M01``), user name (``domain/username``) and password
+4. Input
+
+    **Link**: ``smb://mps.ntu.edu.sg/SPMS-MAS-04-07-M01``
+    **User name**: ``domain/username``
+    **Password**
 5. Select drivers (``HP-LaserJetPro-M404-M405``)
 
 Notes
