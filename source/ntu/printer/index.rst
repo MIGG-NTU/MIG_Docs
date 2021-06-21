@@ -28,7 +28,7 @@ Install Printer Driver
    and the printer IP address. You can get this info on the printer by printing out the **Network Configuration Page**,
    the current IP is ``10.97.164.29`` but it may change in the future.
 
-MPS printer queue
+MPS Printer Queue
 -----------------
 
 For macOS, it is the same as the above manual, except the following parts:
@@ -40,8 +40,7 @@ For Windows, it is the same as the above manual, except the following parts:
 
 - Run ``\\172.21.4.94\PRINT` or `\\MPS/PRINT``
 
-
-MPS printer at MAS-04-07
+MPS Printer at MAS-04-07
 ------------------------
 
 For macOS, it is the same as the above manual, except the following parts:
@@ -60,13 +59,27 @@ For Windows, it is the same as the above manual, except the following parts:
 - Printer Model: HP Uniserval Printing PCL 6 (v6.6.0)
 - `manual <https://github.com/MIGG-NTU/MIG_Docs/blob/main/source/ntu/printer/MAS-04-07-WIN.jpeg>`__
 
-Using printer at Ubuntu
+Using Printer at Ubuntu
 ------------------------
-1. If using wired connection, first configure PEAP, `document <https://migg-ntu.github.io/MIG_Docs/ntu/spms-network/>`__.
-2. Install prerequisite ``sudo apt install samba``, ``sudo apt install smbclient``.
-3. Go to ``Settings -> Printers -> Additional Printer Settings -> Add -> Network Printer -> Windows Printer Via SAMBA``.
-4. Input link ``smb://mps.ntu.edu.sg/SPMS-MAS-04-07-M01``, User name ``domain/username`` and password.
-5. Select drivers, now it is ``HP-LaserJetPro-M404-M405``.
+
+1.  `Configure PEAP </ntu/spms-network/#access-intranet-via-wired-connection>`__ first if using wired connection
+2.  Install prerequisite::
+
+    $ sudo apt install samba
+    $ sudo apt install smbclient
+
+3.  Setting:
+
+    ``Settings`` -> ``Printers`` -> ``Additional Printer Settings`` ->
+    ``Add`` -> ``Network Printer`` -> ``Windows Printer Via SAMBA``
+
+4. Input:
+
+    - **Link**: ``smb://mps.ntu.edu.sg/SPMS-MAS-04-07-M01``
+    - **User name**: ``domain/username``
+    - **Password**
+
+5. Select drivers: ``HP-LaserJetPro-M404-M405``
 
 Notes
 -----
