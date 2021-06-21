@@ -72,6 +72,7 @@ Using Printer at Ubuntu
 
     ``Settings`` -> ``Printers`` -> ``Additional Printer Settings`` ->
     ``Add`` -> ``Network Printer`` -> ``Windows Printer Via SAMBA``
+
 4. Input
 
     **Link**: ``smb://mps.ntu.edu.sg/SPMS-MAS-04-07-M01``
