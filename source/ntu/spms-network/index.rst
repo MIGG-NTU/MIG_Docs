@@ -1,5 +1,5 @@
-Network Configuration
-=====================
+Network
+=======
 
 :contributors: |Yao Jiayuan|
 :last updating date: 2021-05-22
