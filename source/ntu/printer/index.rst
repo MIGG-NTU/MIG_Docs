@@ -23,7 +23,7 @@ Install Printer Driver
 
    For macOS Big Sur (11.0.1 and later) user, the HP driver provided by Apple corrently does not support the system version,
    please go to `HP website <https://support.hp.com/us-en/drivers/printers>`__ to download the newer driver via the **HP Easy Start**.
-    
+
    To use the HP Easy Start, you need to know the printer model (for MAS-04-07, the model is LaserJet Pro M404dn),
    and the printer IP address. You can get this info on the printer by printing out the **Network Configuration Page**,
    the current IP is ``10.97.164.29`` but it may change in the future.
@@ -62,7 +62,7 @@ For Windows, it is the same as the above manual, except the following parts:
 Using Printer at Ubuntu
 ------------------------
 
-1.  `Configure PEAP </ntu/spms-network/#access-intranet-via-wired-connection>`__ first if using wired connection
+1.  :ref:`Configure PEAP <intranet-wired-connection>` first if using wired connection
 2.  Install prerequisite::
 
     $ sudo apt install samba

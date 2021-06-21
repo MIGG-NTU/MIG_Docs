@@ -74,6 +74,8 @@ the NTU wireless profile in order to use the wireless network.
 The steps to upload the NTU wireless profile can be found
 `here <https://www.ntu.edu.sg/cits/NTUwireless/Pages/Mac_OS_NTUSECURE.aspx>`__.
 
+.. _intranet-wired-connection:
+
 Access intranet via wired connection
 ------------------------------------
 To access intranet via wired connection, need to config authentication method to be PEAP.
