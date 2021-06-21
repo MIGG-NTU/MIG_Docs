@@ -15,8 +15,8 @@ We can check the task status via http://mps/mydoc after we submit a printing tas
 Install Printer Driver
 -----------------------
 
-- `Install on Macintosh <https://raw.githubusercontent.com/MIGG-NTU/MIG_Docs/master/source/resources-ntu/printer/NTUMPS-MAC.pdf>`__
-- `Install on Windows <https://raw.githubusercontent.com/MIGG-NTU/MIG_Docs/master/source/resources-ntu/printer/NTUMPS-WIN.pdf>`__
+- `Install on Macintosh <https://github.com/MIGG-NTU/MIG_Docs/blob/main/source/ntu/printer/NTUMPS-MAC.pdf>`__
+- `Install on Windows <https://github.com/MIGG-NTU/MIG_Docs/blob/main/source/ntu/printer/NTUMPS-WIN.pdf>`__
 
 .. note::
 
@@ -49,7 +49,7 @@ For macOS, it is the same as the above manual, except the following parts:
 - The software is ``HP LaserJet Pro M404dn``. If there is no such a sofware,
   you can choose ``HP LaserJet 400 M401``, ``HP LaserJet Pro M201-M202``, or ``HP LaserJet Pro M701``.
   It seems that the first one work well. The third one seems to have some problems with duplex printing. If you have a better choice, please tell us.
-- `manual <https://raw.githubusercontent.com/MIGG-NTU/MIG_Docs/master/source/resources-ntu/printer/MAS-04-07-MAC.pdf>`__
+- `manual <https://github.com/MIGG-NTU/MIG_Docs/blob/main/source/ntu/printer/MAS-04-07-MAC.pdf>`__
 
 For Windows, it is the same as the above manual, except the following parts:
 
@@ -57,7 +57,15 @@ For Windows, it is the same as the above manual, except the following parts:
 - If prompted for Network User Name (domain/username) and Password, key in your NTU Credentials.
 - In the list, look for SPMS-MAS-04-07-M01, right click and select connet.
 - Printer Model: HP Uniserval Printing PCL 6 (v6.6.0)
-- `manual <https://raw.githubusercontent.com/MIGG-NTU/MIG_Docs/master/source/resources-ntu/printer/MAS-04-07-WIN.jpeg>`__
+- `manual <https://github.com/MIGG-NTU/MIG_Docs/blob/main/source/ntu/printer/MAS-04-07-WIN.jpeg>`__
+
+Using printer at Ubuntu
+----------------------
+1. If using wired connection, first configure PEAP, `document <https://migg-ntu.github.io/MIG_Docs/ntu/spms-network/>`__.
+2. Install prerequisite ``sudo apt install samba``, ``sudo apt install smbclient``.
+3. Go to ``Settings -> Printers -> Additional Printer Settings -> Add -> Network Printer -> Windows Printer Via SAMBA``.
+4. Input link ``smb://mps.ntu.edu.sg/SPMS-MAS-04-07-M01``, User name ``domain/username`` and password.
+5. Select drivers, now it is ``HP-LaserJetPro-M404-M405``.
 
 Notes
 -----
