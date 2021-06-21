@@ -62,7 +62,7 @@ For Windows, it is the same as the above manual, except the following parts:
 Using Printer at Ubuntu
 ------------------------
 
-1.  `Configure PEAP </ntu/spms-network/#access-intranet-via-wired-connection>`_ first if using wired connection
+1.  `Configure PEAP </ntu/spms-network>` first if using wired connection
 2.  Install prerequisite::
 
     $ sudo apt install samba
