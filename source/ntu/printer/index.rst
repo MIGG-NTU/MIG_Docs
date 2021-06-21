@@ -2,8 +2,9 @@ Printers
 ========
 
 :contributors: |Yao Jiayuan|,
-               |Wu Shucheng|
-:last updating date: 2021-05-22
+               |Wu Shucheng|,
+               |Hao Shijie|
+:last updating date: 2021-06-21
 
 ----
 
@@ -60,7 +61,7 @@ For Windows, it is the same as the above manual, except the following parts:
 - `manual <https://github.com/MIGG-NTU/MIG_Docs/blob/main/source/ntu/printer/MAS-04-07-WIN.jpeg>`__
 
 Using printer at Ubuntu
-----------------------
+------------------------
 1. If using wired connection, first configure PEAP, `document <https://migg-ntu.github.io/MIG_Docs/ntu/spms-network/>`__.
 2. Install prerequisite ``sudo apt install samba``, ``sudo apt install smbclient``.
 3. Go to ``Settings -> Printers -> Additional Printer Settings -> Add -> Network Printer -> Windows Printer Via SAMBA``.
