@@ -29,6 +29,7 @@ github_url = f"https://github.com/{github_user}/{github_repo}"
 rst_prolog = """
 .. |Yao Jiayuan| replace:: `Yao Jiayuan <https://github.com/core-man>`__
 .. |Wu Shucheng| replace:: `Wu Shucheng <https://github.com/Shucheng-Wu>`__
+.. |Hao Shijie| replace:: `Hao Shijie <https://github.com/HouseJaay>`__
 """
 
 # -- General configuration ---------------------------------------------------
