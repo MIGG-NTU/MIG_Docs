@@ -6,6 +6,11 @@ This website is a backup of group meeting information of `EOS Observational Seis
 2021
 ----
 
+Misconception of Waveform Similarity in the Identification of Repeating Earthquakes
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+- 2021-06-25 by Karen Lythgoe
+- Gao, D., Kao, H., & Wang, B. (2021). Misconception of Waveform Similarity in the Identification of Repeating Earthquakes. Geophysical Research Letters. Published. https://doi.org/10.1029/2021gl092815
+
 Data-driven Accelerogram Synthesis using Deep Generative Models
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 - 2021-06-18 by Qibin Shi
