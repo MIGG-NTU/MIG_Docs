@@ -35,6 +35,7 @@ Codes
 - `SeisData_Tools <https://github.com/MIGG-NTU/SeisData_Tools>`__\ : Seismic
   Data Tools
 - `SIMO <https://github.com/MIGG-NTU/SIMO>`__
+- `TSAR <https://github.com/MIGG-NTU/TSAR>`__
 
 Data Archive
 ------------
