@@ -43,7 +43,8 @@ Manual
 General guide
 +++++++++++++
 
-- `NTU-HPC <https://entuedu.sharepoint.com/teams/ntuhpcusersgroup2>`_: you can find a lot of manuals here
+- `NTU-HPC <https://entuedu.sharepoint.com/teams/ntuhpcusersgroup2>`_: you can find a lot of manuals here.
+  Please read :file:`Quick User Guide for Gekko` to learn some basic usage of GEKKO.
 - `NTU-HPC Yammer Users’ Group Site <https://www.yammer.com/e.ntu.edu.sg/#/threads/inGroup?type=in_group&feedId=15849979904&view=all>`_:
   you can also download from the App Store/Google Play/Microsoft Office Site.
   Do log in with your NTU-ID. The Yammer Group is called "NTU HPC Users' Group"
