@@ -6,6 +6,11 @@ This website is a backup of group meeting information of `EOS Observational Seis
 2021
 ----
 
+Rapid Acceleration Leads to Rapid Weakening in Earthquake-Like Laboratory Experiments
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+- 2021-07-02 by Hongyu Zeng
+- Chang, J. C., Lockner, D. A., & Reches, Z. (2012). Rapid Acceleration Leads to Rapid Weakening in Earthquake-Like Laboratory Experiments. Science, 338(6103), 101–105. https://doi.org/10.1126/science.1221195
+
 Misconception of Waveform Similarity in the Identification of Repeating Earthquakes
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 - 2021-06-25 by Karen Lythgoe
