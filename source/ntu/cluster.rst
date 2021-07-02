@@ -143,12 +143,12 @@ If you are not sure how to use it drop me an private email via yammer.
 Notes
 +++++
 
-``Module`` ::
+``Module``::
 
     # check all options of module
     $ module
 
-We set up some packages in the setting file, e.g., :file:`~/.bashrc` ::
+We could set up some packages in the setting file, e.g., :file:`~/.bashrc`::
 
     # Load intel
     module load intel/2018u3
