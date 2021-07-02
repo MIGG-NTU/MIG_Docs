@@ -139,10 +139,29 @@ Do note that the scratch directory is not a home directory to store data permane
 
 If you are not sure how to use it drop me an private email via yammer.
 
+Notes
++++++
+
+``Module`` ::
+
+    # check all options of module
+    $ module
+
+We set up some packages in the setting file, e.g., :file:`~/.bashrc` ::
+
+    # Load intel
+    module load intel/2018u3
+    
+    # Load MATLAB
+    module load matlab/R2019b
+    
+    # Load CUDA
+    module load cuda/10.1
+
 Quota
 +++++
 
-Each node has a memory of 384 GB. Default disk quota is 500GB for an EOS user.
+Each node has a memory of 384 GB. Default disk quota is 500 GB for an EOS user.
 If you need more (e.g., 10 TB), please drop a mail to Edwin Tan Seng Tat (EdwinTan@ntu.edu.sg).
 Default disk quota is 200 GB for other user, and please see the `website <https://ts.ntu.edu.sg/sites/hpc/_layouts/15/start.aspx#/Charges>`__ for additional space.
 
