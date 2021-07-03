@@ -43,7 +43,8 @@ Manual
 General guide
 +++++++++++++
 
-- `NTU-HPC <https://entuedu.sharepoint.com/teams/ntuhpcusersgroup2>`_: you can find a lot of manuals here
+- `NTU-HPC <https://entuedu.sharepoint.com/teams/ntuhpcusersgroup2>`_: you can find a lot of manuals here.
+  Please read :file:`Quick User Guide for Gekko` to learn some basic usage of GEKKO.
 - `NTU-HPC Yammer Users’ Group Site <https://www.yammer.com/e.ntu.edu.sg/#/threads/inGroup?type=in_group&feedId=15849979904&view=all>`_:
   you can also download from the App Store/Google Play/Microsoft Office Site.
   Do log in with your NTU-ID. The Yammer Group is called "NTU HPC Users' Group"
@@ -139,10 +140,29 @@ Do note that the scratch directory is not a home directory to store data permane
 
 If you are not sure how to use it drop me an private email via yammer.
 
+Notes
++++++
+
+``Module``::
+
+    # check all options of module
+    $ module
+
+We could set up some packages in the setting file, e.g., :file:`~/.bashrc`::
+
+    # Load intel
+    module load intel/2018u3
+    
+    # Load MATLAB
+    module load matlab/R2019b
+    
+    # Load CUDA
+    module load cuda/10.1
+
 Quota
 +++++
 
-Each node has a memory of 384 GB. Default disk quota is 500GB for an EOS user.
+Each node has a memory of 384 GB. Default disk quota is 500 GB for an EOS user.
 If you need more (e.g., 10 TB), please drop a mail to Edwin Tan Seng Tat (EdwinTan@ntu.edu.sg).
 Default disk quota is 200 GB for other user, and please see the `website <https://ts.ntu.edu.sg/sites/hpc/_layouts/15/start.aspx#/Charges>`__ for additional space.
 
