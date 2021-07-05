@@ -1,5 +1,5 @@
-Github Repositories
-===================
+Github
+======
 
 :contributors: |Yao Jiayuan|
 :last updating date: 2021-07-03

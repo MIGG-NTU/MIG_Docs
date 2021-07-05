@@ -1,8 +1,10 @@
 Introduction
 ============
 
+Please read the overview for MIG.
+
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    overview
    members
