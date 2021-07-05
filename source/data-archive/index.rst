@@ -6,7 +6,7 @@ Some codes/data are uploaded and maintained on :doc:`MIG GitHub </introduction/g
 while we present other tools used at MIG here.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    research-data-ntu
    google-drive
