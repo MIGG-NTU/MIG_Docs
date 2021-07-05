@@ -32,19 +32,13 @@ Books and Papers
 - :file:`photos.MIGG`: :doc:`photos of MIGG members </introduction/photos>`
 - :file:`references`: some non-public references
 
-Dataset
--------
+Resources
+---------
 
-The folder ``resources.MIGG`` contains dataset used by MIGG.
+The folder ``resources.MIGG`` contains resources used by MIGG.
 
 - ``2020-USTC-seismological-algorithms``: a seismological algorithm training workshop in 2020 at USTC.
   Also see `linkresearcher <https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae>`__
   and `bilibili <https://www.bilibili.com/video/av841708479/>`__ for videos, codes, and ppts.
-- ``2018-USTC-seismological-algorithms``: a seismological algorithm training workshop in 2018 at USTC
-
-Notes
------
-
-The folder :file:`notes.MIGG` contains some notes in MIGG.
-    
-- :file:`NTU-study-notes-HuiLi`: NTU study summary by Hui Li
+- ``2018-USTC-seismological-algorithms``: a seismological algorithm training workshop in 2018 at USTC    
+- :file:`NTU-study-notes-HuiLi`: A summary of studying at NTU by Hui Li
