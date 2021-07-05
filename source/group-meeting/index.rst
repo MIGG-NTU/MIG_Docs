@@ -2,7 +2,7 @@ Group Meeting
 =============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    paper-reading
    talks
