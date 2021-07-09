@@ -6,6 +6,11 @@ This website is a backup of group meeting information of `EOS Observational Seis
 2021
 ----
 
+Structure and QP–QS Relations in the Seattle and Tualatin Basins from Converted Seismic Phases
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+- 2021-07-09 by by Win Shwee Sin Oo
+- Stone, I., Wirth, E. A., & Frankel, A. D. (2021). Structure and QP–QS Relations in the Seattle and Tualatin Basins from Converted Seismic Phases. Bulletin of the Seismological Society of America, 111(3), 1221–1233. https://doi.org/10.1785/0120200390
+
 Rapid Acceleration Leads to Rapid Weakening in Earthquake-Like Laboratory Experiments
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 - 2021-07-02 by Hongyu Zeng
