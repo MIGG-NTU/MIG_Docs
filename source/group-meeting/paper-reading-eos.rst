@@ -6,9 +6,14 @@ This website is a backup of group meeting information of `EOS Observational Seis
 2021
 ----
 
+Correlation of porosity variations and rheological transitions on the southern Cascadia megathrust
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+- 2021-07-16 by Yukuan Chen
+- Guo, H., McGuire, J. J., & Zhang, H. (2021). Correlation of porosity variations and rheological transitions on the southern Cascadia megathrust. Nature Geoscience, 14(5), 341–348. https://doi.org/10.1038/s41561-021-00740-1
+
 Structure and QP–QS Relations in the Seattle and Tualatin Basins from Converted Seismic Phases
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-- 2021-07-09 by by Win Shwee Sin Oo
+- 2021-07-09 by Win Shwee Sin Oo
 - Stone, I., Wirth, E. A., & Frankel, A. D. (2021). Structure and QP–QS Relations in the Seattle and Tualatin Basins from Converted Seismic Phases. Bulletin of the Seismological Society of America, 111(3), 1221–1233. https://doi.org/10.1785/0120200390
 
 Rapid Acceleration Leads to Rapid Weakening in Earthquake-Like Laboratory Experiments
