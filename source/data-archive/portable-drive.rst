@@ -35,5 +35,5 @@ Content
 TODO
 ----
 
-- Jiayuan Yao, Shucheng Wu, Tianjue Li & Yongsheng Liu each have a portable drive with a size of 4 T.
+- Jiayuan Yao, Shucheng Wu, Tianjue Li, Shijie Hao & Yongsheng Liu each have a portable drive with a size of 4 T.
 - Ping Tong has two portable drives.
