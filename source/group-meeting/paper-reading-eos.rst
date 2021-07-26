@@ -6,6 +6,12 @@ This website is a backup of group meeting information of `EOS Observational Seis
 2021
 ----
 
+Identification of Low-Frequency Earthquakes on the San Andreas Fault With Deep Learning
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- 2021-07-23 by Chenyu Li
+- Thomas, A. M., Inbal, A., Searcy, J., Shelly, D. R., & Bürgmann, R. (2021). Identification of Low‐Frequency Earthquakes on the San Andreas Fault With Deep Learning. Geophysical Research Letters, 48(13). https://doi.org/10.1029/2021gl093157
+
 Correlation of porosity variations and rheological transitions on the southern Cascadia megathrust
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 - 2021-07-16 by Yukuan Chen
