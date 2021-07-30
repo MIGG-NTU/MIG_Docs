@@ -6,6 +6,12 @@ This website is a backup of group meeting information of `EOS Observational Seis
 2021
 ----
 
+Mapping Water Content in the Upper Mantle
+++++++++++++++++++++++++++++++++++++++++++
+
+- 2021-07-30 by Weiwen Chen
+- Karato, S., & Eiler, J. (2003). Mapping Water Content in the Upper Mantle. Geophysical Monograph-American Geophysical Union 138, 135-152. 
+
 Identification of Low-Frequency Earthquakes on the San Andreas Fault With Deep Learning
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -14,31 +20,37 @@ Identification of Low-Frequency Earthquakes on the San Andreas Fault With Deep L
 
 Correlation of porosity variations and rheological transitions on the southern Cascadia megathrust
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 - 2021-07-16 by Yukuan Chen
 - Guo, H., McGuire, J. J., & Zhang, H. (2021). Correlation of porosity variations and rheological transitions on the southern Cascadia megathrust. Nature Geoscience, 14(5), 341–348. https://doi.org/10.1038/s41561-021-00740-1
 
 Structure and QP–QS Relations in the Seattle and Tualatin Basins from Converted Seismic Phases
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 - 2021-07-09 by Win Shwee Sin Oo
 - Stone, I., Wirth, E. A., & Frankel, A. D. (2021). Structure and QP–QS Relations in the Seattle and Tualatin Basins from Converted Seismic Phases. Bulletin of the Seismological Society of America, 111(3), 1221–1233. https://doi.org/10.1785/0120200390
 
 Rapid Acceleration Leads to Rapid Weakening in Earthquake-Like Laboratory Experiments
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 - 2021-07-02 by Hongyu Zeng
 - Chang, J. C., Lockner, D. A., & Reches, Z. (2012). Rapid Acceleration Leads to Rapid Weakening in Earthquake-Like Laboratory Experiments. Science, 338(6103), 101–105. https://doi.org/10.1126/science.1221195
 
 Misconception of Waveform Similarity in the Identification of Repeating Earthquakes
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 - 2021-06-25 by Karen Lythgoe
 - Gao, D., Kao, H., & Wang, B. (2021). Misconception of Waveform Similarity in the Identification of Repeating Earthquakes. Geophysical Research Letters. Published. https://doi.org/10.1029/2021gl092815
 
 Data-driven Accelerogram Synthesis using Deep Generative Models
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 - 2021-06-18 by Qibin Shi
 - Florez, M., Caporale, M., Buabthong, P., Ross, Z., Asimaki, D., & Meier, M. (2020). Data-driven Accelerogram Synthesis using Deep Generative Models. https://arxiv.org/abs/2011.09038
 
 Indian continental lithosphere and related volcanism beneath Myanmar: Constraints from local earthquake tomography
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 - 2021-06-11 by Wardah Shafiqah Binti MOHAMMAD FADIL
 - Zhang, G., He, Y., Ai, Y., Jiang, M., Mon, C. T., Hou, G., ... & Sein, K. (2021). Indian continental lithosphere and related volcanism beneath Myanmar: Constraints from local earthquake tomography. Earth and Planetary Science Letters, 567, 116987. 
 
