@@ -23,6 +23,8 @@ Tutotials
 Codes
 -----
 
+- `ATT_training <https://github.com/MIGG-NTU/ATT_training>`__: Adjoint-state
+  Traveltime Tomography (trainning version)
 - `bw-tomo <https://github.com/MIGG-NTU/bw-tomo>`__\ : Eikonal equation-based
   body wave travel time tomography
 - `FetchData-EOS <https://github.com/MIGG-NTU/FetchData-EOS>`__\ : Some perl
