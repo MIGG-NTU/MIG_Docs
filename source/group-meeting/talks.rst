@@ -7,6 +7,17 @@ Some invited talks in MIGG, with some PPTs in MIGG Google Drive (``groupmeeting.
 2021
 ----
 
+Adjoint inversion of passive seismic datasets for sedimentary velocity structures
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- 2021/08/05 by Guoliang Li
+- Abstract
+
+  Accurate seismic images of crust are essential for assessing seismic hazards and elucidating tectonic processes that shape surface landforms. Although California and Nevada have been studied extensively using various seismic datasets and tomographic methods, the region lacks a seismic model that can accurately define both shallow (<6 km) sedimentary basins and the deeper crust. In recent decades, Rayleigh wave ellipticity has been successfully extracted from both earthquake events and noise cross-correlation functions and used by many studies to constrain sedimentary velocity structures. In my study, I try to employ the adjoint tomography method (or finite frequency method) to invert the Rayleigh wave travel time and ellipticity information for both sedimentary and crystalline crustal structures.
+
+  To achieve that goal, I first build an initial 3D shear wave speed model for the adjoint tomography by jointly inverting Rayleigh wave ellipticity, phase velocity, and teleseismic P waveforms based on the traditional Ray-theory. And then, I developed a code package that enables the SPECFEM3D_Cartesian package to mesh the 3D geometry of the curved earth surface in order to fast and accurately simulate waveforms in an area of 1200 km × 1200 km. After that, I devised the misfit function for Rayleigh wave ellipticity and calculated the corresponding adjoint sources and Frechét kernels. In the final step, I will do synthetic tests to verify the contribution of Rayleigh wave ellipticity kernels in resolving sedimentary structures.
+
+
 Seismic Observayion and Imaging Using Dense Seismic Arrays with Nodes and Distributed Acoustic Sensing (DAS)
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
