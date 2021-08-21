@@ -3,6 +3,12 @@ Workshops
 
 Some workshops hosted in MIG, with PPTs in MIG Google Drive (``groupmeeting.NTU/workshops.MIGG``).
 
+Adjoint Traveltime Tomography
+-----------------------------
+
+- 2021/06/07 by Ping Tong
+- Tutorial recording video: ``20210607-ATT.mpi``
+
 PyGMT Workshop
 --------------
 
