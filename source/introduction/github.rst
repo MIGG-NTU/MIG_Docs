@@ -19,6 +19,8 @@ Tutotials
 
 - `PyGMT2021 <https://github.com/MIGG-NTU/PyGMT2021>`__\ : A preliminary
   introduction to PyGMT for MIG members
+- `rf_bwp_tutorial <https://github.com/MIGG-NTU/rf_bwp_tutorial>`__:
+  A simple tutorial for joint inversion of body wave polarization and RF
 
 Codes
 -----
