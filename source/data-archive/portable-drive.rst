@@ -2,7 +2,7 @@ Portable Drive
 ==============
 
 :contributors: |Yao Jiayuan|
-:last updating date: 2021-05-11
+:last updating date: 2021-08-27
 
 ----
 
@@ -11,10 +11,12 @@ We use portable drives to store some research data and resources.
 MIG-8T
 ------
 
-- size: 8 T
-- format: ext4
-- brand: WD My Book
-- manager: Jiayuan Yao
+Introduction
+^^^^^^^^^^^^
+
+- Size: 8 TB
+- Format: ext4
+- Brand: WD My Book
 
 Content
 ^^^^^^^
@@ -27,5 +29,12 @@ Content
 TODO
 ----
 
-- Jiayuan Yao, Shucheng Wu, Tianjue Li, Shijie Hao & Yongsheng Liu each have a portable drive with a size of 4 T.
-- Ping Tong has two portable drives.
+- 4 TB portable drives: Each person below has one.
+
+  - Jiayuan Yao
+  - Shucheng Wu
+  - Tianjue Li
+  - Shijie Hao
+  - Yongsheng Liu 
+
+Besides, Ping Tong has two portable drives.
