@@ -21,9 +21,8 @@ Content
 
 - ``EOS-Seismology``: seismic data managed by the EOS-Seismology group
 - ``IRIS-Myanmar``: seismic data at Myanmar downloaded from IRIS
-- ``DMH-Myanmar``: some seismic data in Myanmar from DMH
-- ``Cheng-YauWing-G1802084J-06112019``: IMPORTANT DATASET!!! Yau Wing Cheng's files.
-- ``Shaolin``: Shaolin Liu's workstation backup. Need to check with him when he come back to NTU next time.
+- ``Cheng-YauWing-06112019.tar.gz``: IMPORTANT DATASET!!! Yau Wing Cheng's files.
+- ``Shaolin.tar.gz``: Shaolin Liu's workstation backup. Need to check with him when he comes back to NTU next time.
 
 TODO
 ----
