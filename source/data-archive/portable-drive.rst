@@ -31,10 +31,8 @@ TODO
 
 - 4 TB portable drives: Each person below has one.
 
-  - Jiayuan Yao
   - Shucheng Wu
   - Tianjue Li
   - Shijie Hao
-  - Yongsheng Liu 
 
 Besides, Ping Tong has two portable drives.
