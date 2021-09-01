@@ -44,6 +44,8 @@ the transition would be seamless and the network would place you in the staff se
 Your IP address will be ``10.85.XXX.XXX``.
 if your computer is not in this segment, please perform a reboot of your computer.
 
+.. _intranet-wired-connection:
+
 For those who are using computers that are not joined to NTU’s domain,
 some of you might still be in segment 4 (Internet Only) until a pop up appears for you to authenticate.
 Computers in segment 4 will have IP address like ``10.101.XXX.XXX``.
