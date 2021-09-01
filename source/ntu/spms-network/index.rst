@@ -44,13 +44,18 @@ the transition would be seamless and the network would place you in the staff se
 Your IP address will be ``10.85.XXX.XXX``.
 if your computer is not in this segment, please perform a reboot of your computer.
 
+.. _intranet-wired-connection:
+
 For those who are using computers that are not joined to NTU’s domain,
 some of you might still be in segment 4 (Internet Only) until a pop up appears for you to authenticate.
 Computers in segment 4 will have IP address like ``10.101.XXX.XXX``.
-If the pop up to authenticate does not appear, please follow the guides according to your computer’s operating system
-`Linux <https://raw.githubusercontent.com/MIGG-NTU/MIG_Docs/main/source/ntu/spms-network/Linux.pdf>`__
-`macOS <https://raw.githubusercontent.com/MIGG-NTU/MIG_Docs/main/source/ntu/spms-network/macOS.pdf>`__
-`Windows <https://raw.githubusercontent.com/MIGG-NTU/MIG_Docs/main/source/ntu/spms-network/Windows.pdf>`__.
+If the pop up to authenticate does not appear, please follow the guides according to your computer’s operating system:
+
+- `Linux <https://raw.githubusercontent.com/MIGG-NTU/MIG_Docs/main/source/ntu/spms-network/Linux.pdf>`__
+- `macOS <https://raw.githubusercontent.com/MIGG-NTU/MIG_Docs/main/source/ntu/spms-network/macOS.pdf>`__
+- `Windows <https://raw.githubusercontent.com/MIGG-NTU/MIG_Docs/main/source/ntu/spms-network/Windows.pdf>`__ |
+  `An brief introduction <https://www.virtualizationhowto.com/2018/12/configure-windows-10-for-802-1x-user-authentication/>`__
+
 When the steps are completed, a pop up will appear asking for authentication.
 Once authenticated, you can check your IP address again and you should be in segment 1 with IP address ``10.85.XXX.XXX``.
 
@@ -73,10 +78,3 @@ We need to upgrade your MacBook macOS to the latest version and upload
 the NTU wireless profile in order to use the wireless network.
 The steps to upload the NTU wireless profile can be found
 `here <https://www.ntu.edu.sg/cits/NTUwireless/Pages/Mac_OS_NTUSECURE.aspx>`__.
-
-.. _intranet-wired-connection:
-
-Access intranet via wired connection
-------------------------------------
-To access intranet via wired connection, need to config authentication method to be PEAP.
-Here is a `document <https://www.virtualizationhowto.com/2018/12/configure-windows-10-for-802-1x-user-authentication/>`_.
