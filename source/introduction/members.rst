@@ -27,9 +27,11 @@ PhD Student          Shijie HAO 郝识杰    shijiehao95@126.com       shijie001
 PhD Student          Chunfei CHEY 谢俊辉  chey0014@e.ntu.edu.sg                               2020 Aug.
 Master Student       Xiaoyan LI 李晓岩    839652320@qq.com          xiaoyan003@e.ntu.edu.sg   2019 Jul.
 Visiting PhD Student Yue Pan 潘钥         n2007049d@e.ntu.edu.sg                              2021 May
+Visiting PhD Student Guoxu Chen 陈国旭    cgx18@mails.tsinghua.edu.cn N2107136A@e.ntu.edu.sg  2021 Oct.
 **Staff**
-Research Fellow      Jiayuan YAO 姚家园   kaka22yao@gmail.com       jiayuanyao@ntu.edu.sg     2018 Aug.
 Research Fellow      Shucheng WU 吴树成   shucheng.wu@ntu.edu.sg    shucheng.wu@foxmail.com   2019 Sep.
+Research Fellow      Kai Wang 王凯        wangkaim8@gmail.com       kaiwang@ntu.edu.sg        2021 Oct.
+Research Fellow      Jing Chen 陈敬       cjcjyu597460474@163.com   jing.chen@ntu.edu.sg      2021 Oct.
 ==================== ==================== ========================= ========================= ==========
 
 Previous Memebers
@@ -47,4 +49,5 @@ Visiting PhD Student     Dongdong WANG 王冬冬 ddong_wang@foxmail.com    N1906
 Visiting PhD Student     Chao ZHANG 张超                                                          2017 Sep. ~ 2017 Oct.   Now at Hohai University
 Visiting Master Student  Xiachun LU 卢霞春    lllxchun@163.com                                    2019 Jan. ~ 2019 Nov.   Now at Ningxia University
 Visiting Master Student  Hui LI 李慧          lihui_cdut@qq.com                                   2018 Nov. ~ 2019 Apr.   Now at Chengdu University of Technology
+Research Fwllow          Jiayuan Yao 姚家园   kaka22yao@gmail.com.                                2018 Aug. ~ 2021 Sep.   Now at China University of Geosciences (Wuhan)
 ======================== ==================== ========================= ========================= ======================= =======
