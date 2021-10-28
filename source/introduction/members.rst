@@ -49,5 +49,5 @@ Visiting PhD Student     Dongdong WANG 王冬冬 ddong_wang@foxmail.com    N1906
 Visiting PhD Student     Chao ZHANG 张超                                                          2017 Sep. ~ 2017 Oct.   Now at Hohai University
 Visiting Master Student  Xiachun LU 卢霞春    lllxchun@163.com                                    2019 Jan. ~ 2019 Nov.   Now at Ningxia University
 Visiting Master Student  Hui LI 李慧          lihui_cdut@qq.com                                   2018 Nov. ~ 2019 Apr.   Now at Chengdu University of Technology
-Research Fwllow          Jiayuan Yao 姚家园   kaka22yao@gmail.com.                                2018 Aug. ~ 2021 Sep.   Now at China University of Geosciences (Wuhan)
+Research Fwllow          Jiayuan Yao 姚家园   kaka22yao@gmail.com                                2018 Aug. ~ 2021 Sep.   Now at China University of Geosciences (Wuhan)
 ======================== ==================== ========================= ========================= ======================= =======
