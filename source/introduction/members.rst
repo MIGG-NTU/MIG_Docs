@@ -27,9 +27,11 @@ PhD Student          Shijie HAO 郝识杰    shijiehao95@126.com       shijie001
 PhD Student          Chunfei CHEY 谢俊辉  chey0014@e.ntu.edu.sg                               2020 Aug.
 Master Student       Xiaoyan LI 李晓岩    839652320@qq.com          xiaoyan003@e.ntu.edu.sg   2019 Jul.
 Visiting PhD Student Yue Pan 潘钥         n2007049d@e.ntu.edu.sg                              2021 May
+Visiting PhD Student Guoxu Chen 陈国旭    N2107136A@e.ntu.edu.sg                              2021 Oct.
 **Staff**
-Research Fellow      Jiayuan YAO 姚家园   kaka22yao@gmail.com       jiayuanyao@ntu.edu.sg     2018 Aug.
 Research Fellow      Shucheng WU 吴树成   shucheng.wu@ntu.edu.sg    shucheng.wu@foxmail.com   2019 Sep.
+Research Fellow      Kai Wang 王凯        wangkaim8@gmail.com       kaiwang@ntu.edu.sg        2021 Oct.
+Research Fellow      Jing Chen 陈敬       cjcjyu597460474@163.com   jing.chen@ntu.edu.sg      2021 Oct.
 ==================== ==================== ========================= ========================= ==========
 
 Previous Memebers
@@ -40,6 +42,7 @@ Title                    Name                 First email               Second e
 ======================== ==================== ========================= ========================= ======================= =======
 Research Fellow          Shaolin LIU  刘少林  shaolinliu88@gmail.com                              2017 ~ 2020/02/29       Now at the Institute of Crustal Dynamics, CEA
 Research Fellow          Xueyuan HUANG 黄雪源 x.y.huang.wb@163.com                                2017 Sep. ~ 2018 Sep.   Now at Beijing Technology and Business University
+Research Fellow          Jiayuan YAO 姚家园   kaka22yao@gmail.com                                 2018 Aug. ~ 2021 Sep.   Now at China University of Geosciences (Wuhan)
 Research Assistant       Yau Wing CHENG       yauwing1118@gmail.com                               2018 Aug.
 Research Assistant       Hui Jia FARM                                                             2018 Jul. ~ 2018 Aug.   Now work in Singapore
 Vistting Professor       Wenshuai WANG 汪文帅 wws@nxu.edu.cn            boxinnx@qq.com            2019 Sep.               Now at Ningxia University
