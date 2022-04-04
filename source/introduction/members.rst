@@ -31,6 +31,7 @@ Research Fellow      Kai Wang 王凯        wangkaim8@gmail.com       kaiwang@nt
 Research Fellow      Jing Chen 陈敬       cjcjyu597460474@163.com   jing.chen@ntu.edu.sg       2021 Oct.
 Research Fellow      Mijian Xu 徐弥坚     mijian.xu@ntu.edu.sg      mijian.xu@smail.nju.edu.cn 2021 Dec.
 Research Fellow      Yiming Bai 白一鸣    yiming.bai@ntu.edu.sg                                2021 Dec.
+Research Fellow      Nagaso Masaru        masaru.nagaso@ntu.edu.sg                              2021 Dec.
 ==================== ==================== ========================= ========================== ==========
 
 Previous Memebers
