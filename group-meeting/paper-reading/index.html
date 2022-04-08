@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Paper Reading &mdash; MIG Documentation</title>
+      <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/custom.css" type="text/css" />
+    <link rel="shortcut icon" href="../../_static/favicon.ico"/>
+  <!--[if lt IE 9]>
+    <script src="../../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+        <script src="../../_static/jquery.js"></script>
+        <script src="../../_static/underscore.js"></script>
+        <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../../genindex/" />
+    <link rel="search" title="Search" href="../../search/" />
+    <link rel="next" title="Invited Talks" href="../talks/" />
+    <link rel="prev" title="Group Meeting" href="../" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="../../" class="icon icon-home"> MIG Documentation
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search/" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+    
+              <p class="caption" role="heading"><span class="caption-text">Getting Started</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../introduction/">Introduction</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../ntu/">Resources at NTU</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../singapore/">Living in Singapore</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Research</span></p>
+<ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../">Group Meeting</a><ul class="current">
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Paper Reading</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#spring">2020 Spring</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#wave-equation-based-earthquake-relocation">Wave equation-based earthquake relocation</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#mid-lithosphere-discontinuities">Mid-lithosphere Discontinuities</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#introduction-to-earthquake-location">Introduction to earthquake location</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#moho-geometry-beneath-volcanoes-by-receiver-function-method">Moho geometry beneath volcanoes by receiver function method</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#workflow-of-tomography-using-the-direct-and-or-reflected-phases">Workflow of tomography using the direct and/or reflected Phases</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#seismic-instrument-problems">Seismic instrument problems</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#seismic-anisotropy-based-on-teleseismic-rayleigh-wave">Seismic anisotropy based on teleseismic Rayleigh-wave</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#an-adjoint-state-method-for-3d-transmission-traveltime-tomography">An adjoint state method for 3D transmission traveltime tomography</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#coding-style-and-introduction-to-data-structure-using-python-c">Coding style and introduction to data structure using Python&amp;C++</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#retrieval-of-amplitude-and-attenuation-from-ambient-seismic-noise">Retrieval of Amplitude and Attenuation from Ambient Seismic Noise</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#parallel-computing-in-solving-eikonal-equations">Parallel computing in solving eikonal equations</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#imaging-the-underground-discontinuity-using-p-wave-reflectivity">Imaging the underground discontinuity using P-wave reflectivity</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#tomography-of-coso-ridgecrest-area">Tomography of Coso-Ridgecrest area</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#joint-inversion-of-surface-wave-dispersion-and-receiver-function">Joint inversion of surface wave dispersion and receiver function</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="#fall">2019 Fall</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#crustal-thickness">Crustal thickness</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#fast-marching-eikonal-solver">Fast marching eikonal solver</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#seismic-migration">Seismic migration</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#global-surface-wave-phase-group-velocity-dataset">Global surface wave phase &amp; group velocity dataset</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#constrain-crustal-structure-using-post-critical-reflection">Constrain crustal structure using post-critical reflection</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#ambient-noise-tomography">Ambient Noise Tomography</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#arrival-time-picking">Arrival time picking</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#seismic-source-relocation-based-on-grid-search-method">Seismic source relocation based on grid search method</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#fast-marching-method-fmm-ray-tracing">Fast Marching Method (FMM) ray tracing</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#seismic-first-arrival-calculation-using-fast-marching-method">Seismic first-arrival calculation using fast marching method</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#ambient-noise-tomography-data-pre-processing">Ambient Noise Tomography: Data pre-processing</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#double-difference-adjoint-seismic-tomography">Double-difference adjoint seismic tomography</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#seismic-imaging-of-shallow-structures-above-10-km">Seismic imaging of shallow structures (above 10 km)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#source-encoding-of-adjoint-tomography">Source encoding of adjoint tomography</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#popular-receiver-function-techniques">Popular receiver function techniques</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#extract-receiver-functions">Extract receiver functions</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="#id1">2018 Fall</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#tomography-and-raytracing-in-anisotropic-media">Tomography and raytracing in anisotropic media</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#spiking-deconvolution">Spiking deconvolution</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#phase-picking">Phase picking</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#body-wave-polarization">Body-wave polarization</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#delay-times">Delay times</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#noise-cross-correlation-kernels">Noise cross-correlation kernels</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#scatter-and-intrinsic-attenuation">Scatter and intrinsic attenuation</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#perfectly-matched-layer">Perfectly Matched Layer</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#anisotropy-tomography-in-sumatra">Anisotropy tomography in Sumatra</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#anisotropy-tomography">Anisotropy tomography</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#d-evolution-of-se-asias-mantle">4D evolution of SE Asia’s mantle</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../talks/">Invited Talks</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../workshops/">Workshops</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../paper-reading-eos/">Paper Reading (EOS)</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../seismology/">Learning Seismology</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../programming/">Learning Programming</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../geosciences/">Learning Geosciences</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../data-archive/">Data at MIG</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Appendix</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../links/">Links</a></li>
+</ul>
+
+
+    
+        <p class="caption">
+            <span class="caption-text">Getting help</span>
+        </p>
+        <ul>
+            
+                <li class="toctree-l1"><a href="https://personal.ntu.edu.sg/tongping/"><i class="fa fa-home"></i> MIG Homopage</a></li>
+            
+                <li class="toctree-l1"><a href="https://github.com/MIGG-NTU/MIG_Docs"><i class="fa fa-github fa-fw"></i> Source Code</a></li>
+            
+                <li class="toctree-l1"><a href="https://github.com/MIGG-NTU/MIG_Docs/discussions"><i class="fa fa-comments fa-fw"></i> Contact</a></li>
+            
+        </ul>
+    
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../">MIG Documentation</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../../" class="icon icon-home"></a> &raquo;</li>
+          <li><a href="../">Group Meeting</a> &raquo;</li>
+      <li>Paper Reading</li>
+      <li class="wy-breadcrumbs-aside">
+              <a href="https://github.com/MIGG-NTU/MIG_Docs/blob/main/source/group-meeting/paper-reading.rst" class="fa fa-github"> Edit on GitHub</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="paper-reading">
+<h1>Paper Reading<a class="headerlink" href="#paper-reading" title="Permalink to this headline"></a></h1>
+<p>This website is a backup of MIGG group meeting information, which is also available at <a class="reference external" href="https://blogs.ntu.edu.sg/geophysics">MIGG group meeting website</a>. All the PDFs and PPT are available in that website, while a backup of all the PPTs is also in MIGG Google Drive (<code class="docutils literal notranslate"><span class="pre">groupmeeting.NTU/groupmeeting.MIGG</span></code>).</p>
+<section id="spring">
+<h2>2020 Spring<a class="headerlink" href="#spring" title="Permalink to this headline"></a></h2>
+<section id="wave-equation-based-earthquake-relocation">
+<h3>Wave equation-based earthquake relocation<a class="headerlink" href="#wave-equation-based-earthquake-relocation" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2020/08/06 by Yongsheng Liu</p></li>
+<li><p>Tong, P., Yang, D., Liu, Q., Yang, X., &amp; Harris, J. (2016). Acoustic wave-equation-based earthquake location. Geophysical Supplements to the Monthly Notices of the Royal Astronomical Society, 205(1), 464-478</p></li>
+</ul>
+</section>
+<section id="mid-lithosphere-discontinuities">
+<h3>Mid-lithosphere Discontinuities<a class="headerlink" href="#mid-lithosphere-discontinuities" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2020/07/23 by Shucheng Wu</p></li>
+<li><p>Selway, K., Ford, H., &amp; Kelemen, P. (2015). The seismic mid-lithosphere discontinuity. Earth and Planetary Science Letters, 414, 45-57</p></li>
+</ul>
+</section>
+<section id="introduction-to-earthquake-location">
+<h3>Introduction to earthquake location<a class="headerlink" href="#introduction-to-earthquake-location" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2020/07/16 by Yingyu Qi</p></li>
+<li><p>Douglas, A. (1967). Joint epicentre determination. Nature, 215(5096), 47-48.</p></li>
+</ul>
+</section>
+<section id="moho-geometry-beneath-volcanoes-by-receiver-function-method">
+<h3>Moho geometry beneath volcanoes by receiver function method<a class="headerlink" href="#moho-geometry-beneath-volcanoes-by-receiver-function-method" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2020/07/09 by Tianjue Li</p></li>
+<li><p>Hammond, J. O., Kendall, J. M., Stuart, G. W., Keir, D., Ebinger, C., Ayele, A., &amp; Belachew, M. (2011). The nature of the crust beneath the Afar triple junction: Evidence from receiver functions. Geochemistry, Geophysics, Geosystems, 12(12).</p></li>
+<li><p>Yuan, H., Dueker, K., &amp; Stachnik, J. (2010). Crustal structure and thickness along the Yellowstone hot spot track: Evidence for lower crustal outflow from beneath the eastern Snake River Plain. Geochemistry, Geophysics, Geosystems, 11(3).</p></li>
+<li><p>McFarlin, H., Christensen, D., McNutt, S. R., Ward, K. M., Ryan, J., Zandt, G., &amp; Thompson, G. (2018). Receiver function analyses of Uturuncu volcano, Bolivia and vicinity. Geosphere, 14(1), 50-64.</p></li>
+<li><p>Hammond, J. O., Wu, J. P., Ri, K. S., Wei, W., Yu, J. N., &amp; Oppenheimer, C. (2020). Distribution of partial melt beneath Changbaishan/Paektu volcano, China/Democratic People’s Republic of Korea. Geochemistry, Geophysics, Geosystems, 21(1), e2019GC008461.</p></li>
+</ul>
+</section>
+<section id="workflow-of-tomography-using-the-direct-and-or-reflected-phases">
+<h3>Workflow of tomography using the direct and/or reflected Phases<a class="headerlink" href="#workflow-of-tomography-using-the-direct-and-or-reflected-phases" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2020/07/02 by Dongdong Wang</p></li>
+<li><p>Huang, X., Yang, D., Tong, P., Badal, J., &amp; Liu, Q. (2016). Wave equation‐based reflection tomography of the 1992 Landers earthquake area. Geophysical Research Letters, 43(5), 1884-1892.</p></li>
+<li><p>Tong, P., Yang, D., &amp; Huang, X. (2019). Multiple-grid model parametrization for seismic tomography with application to the San Jacinto fault zone. Geophysical Journal International, 218(1), 200-223.</p></li>
+</ul>
+</section>
+<section id="seismic-instrument-problems">
+<h3>Seismic instrument problems<a class="headerlink" href="#seismic-instrument-problems" title="Permalink to this headline"></a></h3>
+<ul>
+<li><p>2020/06/25 by Jiayuan Yao</p></li>
+<li><p>Clock error</p>
+<blockquote>
+<div><ul class="simple">
+<li><p>Zhu, G., Yang, H., Lin, J., Zhou, Z., Xu, M., Sun, J., &amp; Wan, K. (2019). Along-strike variation in slab geometry at the southern Mariana subduction zone revealed by seismicity through ocean bottom seismic experiments. Geophysical Journal International, 218(3), 2122-2135.</p></li>
+</ul>
+</div></blockquote>
+</li>
+<li><dl class="simple">
+<dt>Seismometer misorientation</dt><dd><ul class="simple">
+<li><p>Stachnik, J. C., Sheehan, A. F., Zietlow, D. W., Yang, Z., Collins, J., &amp; Ferris, A. (2012). Determination of New Zealand ocean bottom seismometer orientation via Rayleigh-wave polarization. Seismological Research Letters, 83(4), 704-713.</p></li>
+<li><p>Wang, X., Chen, Q. F., Li, J., &amp; Wei, S. (2016). Seismic sensor misorientation measurement using P‐wave particle motion: An application to the NECsaids Array. Seismological Research Letters, 87(4), 901-911.</p></li>
+<li><p>Zheng, H., Fan, J., Zhao, D., Li, C., Dong, D., Zhang, G., &amp; Wang, X. (2020). A new method to estimate ocean-bottom-seismometer orientation using teleseismic receiver functions. Geophysical Journal International, 221(2), 893-904.</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p>Instrument gain problem</p>
+<blockquote>
+<div><ul class="simple">
+<li><p>Park, S., &amp; Ishii, M. (2019). Detection of instrument gain problems based on body‐wave polarization: Application to the Hi‐net array. Seismological Research Letters, 90(2A), 692-698.</p></li>
+</ul>
+</div></blockquote>
+</li>
+<li><dl class="simple">
+<dt>Waveform clipping</dt><dd><ul class="simple">
+<li><p>Yang, W., &amp; Ben-Zion, Y. (2010). An algorithm for detecting clipped waveforms and suggested correction procedures. Seismological Research Letters, 81(1), 53-62.</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</section>
+<section id="seismic-anisotropy-based-on-teleseismic-rayleigh-wave">
+<h3>Seismic anisotropy based on teleseismic Rayleigh-wave<a class="headerlink" href="#seismic-anisotropy-based-on-teleseismic-rayleigh-wave" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2020/06/11 by Shijie Hao</p></li>
+<li><p>Liang, S., Gan, W., Shen, C., Xiao, G., Liu, J., Chen, W., … &amp; Zhou, D. (2013). Three‐dimensional velocity field of present‐day crustal motion of the Tibetan Plateau derived from GPS measurements. Journal of Geophysical Research: Solid Earth, 118(10), 5722-5732</p></li>
+</ul>
+</section>
+<section id="an-adjoint-state-method-for-3d-transmission-traveltime-tomography">
+<h3>An adjoint state method for 3D transmission traveltime tomography<a class="headerlink" href="#an-adjoint-state-method-for-3d-transmission-traveltime-tomography" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2020/06/04 by Ping Tong</p></li>
+<li><p>Leung, S., &amp; Qian, J. (2006). An adjoint state method for three-dimensional transmission traveltime tomography using first-arrivals. Communications in Mathematical Sciences, 4(1), 249-266.</p></li>
+</ul>
+</section>
+<section id="coding-style-and-introduction-to-data-structure-using-python-c">
+<h3>Coding style and introduction to data structure using Python&amp;C++<a class="headerlink" href="#coding-style-and-introduction-to-data-structure-using-python-c" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2020/05/22 by Yongsheng Liu</p></li>
+</ul>
+</section>
+<section id="retrieval-of-amplitude-and-attenuation-from-ambient-seismic-noise">
+<h3>Retrieval of Amplitude and Attenuation from Ambient Seismic Noise<a class="headerlink" href="#retrieval-of-amplitude-and-attenuation-from-ambient-seismic-noise" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2020/05/15 by Shucheng Wu</p></li>
+<li><p>Zhou, L., Song, X., &amp; Weaver, R. L. (2020). Retrieval of amplitude and attenuation from ambient seismic noise: synthetic data and practical considerations. Geophysical Journal International.</p></li>
+</ul>
+</section>
+<section id="parallel-computing-in-solving-eikonal-equations">
+<h3>Parallel computing in solving eikonal equations<a class="headerlink" href="#parallel-computing-in-solving-eikonal-equations" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2020/05/08 by Yingyu Qi</p></li>
+<li><p>Jeong, W. K., &amp; Whitaker, R. T. (2008). A fast iterative method for eikonal equations. SIAM Journal on Scientific Computing, 30(5), 2512-2534.</p></li>
+<li><p>Rouy, E., &amp; Tourin, A. (1992). A viscosity solutions approach to shape-from-shading. SIAM Journal on Numerical Analysis, 29(3), 867-884.</p></li>
+<li><p>Kim, S. (2001). An calO(N) level set method for eikonal equations. SIAM journal on scientific computing, 22(6), 2178-2193.</p></li>
+<li><p>Capozzoli, A., Curcio, C., Liseno, A., &amp; Savarese, S. (2013, November). A comparison of fast marching, fast sweeping and fast iterative methods for the solution of the eikonal equation. In 2013 21st Telecommunications Forum Telfor (TELFOR) (pp. 685-688). IEEE.</p></li>
+</ul>
+</section>
+<section id="imaging-the-underground-discontinuity-using-p-wave-reflectivity">
+<h3>Imaging the underground discontinuity using P-wave reflectivity<a class="headerlink" href="#imaging-the-underground-discontinuity-using-p-wave-reflectivity" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2020/05/01 by Tianjue Li</p></li>
+<li><p>Delph, J. R., Levander, A., &amp; Niu, F. (2019). Constraining crustal properties using receiver functions and the autocorrelation of earthquake‐generated body waves. Journal of Geophysical Research: Solid Earth, 124(8), 8981-8997.</p></li>
+<li><p>Ruigrok, E., &amp; Wapenaar, K. (2012). Global‐phase seismic interferometry unveils P‐wave reflectivity below the Himalayas and Tibet. Geophysical Research Letters, 39(11).</p></li>
+</ul>
+</section>
+<section id="tomography-of-coso-ridgecrest-area">
+<h3>Tomography of Coso-Ridgecrest area<a class="headerlink" href="#tomography-of-coso-ridgecrest-area" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2020/04/24 by Dongdong Wang</p></li>
+<li><p>Yang, Y., Ritzwoller, M. H., and Jones, C. H. ( 2011), Crustal structure determined from ambient noise tomography near the magmatic centers of the Coso region, southeastern California, G3.</p></li>
+<li><p>Zhang, Q., and Lin, G. ( 2014), Three‐dimensional Vp and Vp/Vs models in the Coso geothermal area, California: Seismic characterization of the magmatic system, JGR, 119, 4907–4922.</p></li>
+</ul>
+</section>
+<section id="joint-inversion-of-surface-wave-dispersion-and-receiver-function">
+<h3>Joint inversion of surface wave dispersion and receiver function<a class="headerlink" href="#joint-inversion-of-surface-wave-dispersion-and-receiver-function" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2020/04/17 by Jiayuan Yao</p></li>
+<li><p>Bodin, T., M. Sambridge, H. Tkalčić, P. Arroucau, K. Gallagher, and N. Rawlinson (2012), Transdimensional inversion of receiver functions and surface wave dispersion, J. Geophys. Res., 117, B02301.</p></li>
+<li><p>Shen, W., M.H., Ritzwoller, V. Schulte-Pelkum, F.C., Lin, (2013), Joint inversion of surface wave dispersion and receiver functions: a Bayesian Monte-Carlo approach, GJI.</p></li>
+</ul>
+</section>
+</section>
+<section id="fall">
+<h2>2019 Fall<a class="headerlink" href="#fall" title="Permalink to this headline"></a></h2>
+<section id="crustal-thickness">
+<h3>Crustal thickness<a class="headerlink" href="#crustal-thickness" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2019/11/27 Dongdong Wang</p></li>
+<li><p>Scheidegger, A. E. &amp; Willmore, P. L. 1957. The use of a least squares method for the interpretation f data from seismic surveys. Geophysics, 1, 9-22.</p></li>
+<li><p>Zhu, L. P. &amp; Kanamori, H. 2000. Moho depth variation in southern California from teleseismic receiver functions. Journal of Geophysical Research, 105:B2, 2969-2980.</p></li>
+<li><p>Tong, P., Yang, D. H., Huang, X. Y. 2019. Multiple-grid model parameterization for seismic tomography with application to the San Jacinto fault zone. Geophysical Journal International, 218, 200-223.</p></li>
+</ul>
+</section>
+<section id="fast-marching-eikonal-solver">
+<h3>Fast marching eikonal solver<a class="headerlink" href="#fast-marching-eikonal-solver" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2019/11/13 by Yingyu Qi</p></li>
+<li><p>Alkhalifah, T., Fomel, S. 2001. Implementing the fast marching eikonal solver: spherical versus Cartesian coordinates. Geophysical Prospecting, 49, 165-178.</p></li>
+</ul>
+</section>
+<section id="seismic-migration">
+<h3>Seismic migration<a class="headerlink" href="#seismic-migration" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2019/11/06 by Yongsheng Liu</p></li>
+<li><p>Schneider, W. A. (1978). Integral formulation for migration in two and three dimensions. Geophysics, 43(1), 49-76.</p></li>
+<li><p>Buske, S. (1999). Three-dimensional pre-stack Kirchhoff migration of deep seismic reflection data. Geophysical Journal International, 137(1), 243-260.</p></li>
+<li><p>Liu, G., Yu, Z., Wang, J., &amp; Li, B. (2019). Accelerating Kirchhoff Pre-stack depth migration on a GPU by overlapping ray tracing and imaging. Computers &amp; Geosciences, 128, 79-86.</p></li>
+<li><p>Hill, N. R. (2001). Prestack Gaussian-beam depth migration. Geophysics, 66(4), 1240-1250.</p></li>
+<li><p>Zhang, Y., Duan, L., &amp; Xie, Y. (2014). A stable and practical implementation of least-squares reverse time migration. Geophysics, 80(1), V23-V31.</p></li>
+<li><p>Zhu, H., Luo, Y., Nissen-Meyer, T., Morency, C., &amp; Tromp, J. (2009). Elastic imaging and time-lapse migration based on adjoint methods. Geophysics, 74(6), WCA167-WCA177.</p></li>
+</ul>
+</section>
+<section id="global-surface-wave-phase-group-velocity-dataset">
+<h3>Global surface wave phase &amp; group velocity dataset<a class="headerlink" href="#global-surface-wave-phase-group-velocity-dataset" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2019/10/16 by Jiayuan Yao</p></li>
+<li><p>Ma, Z., &amp; Masters, G. (2014). A new global Rayleigh‐and Love‐wave group velocity dataset for constraining lithosphere properties. Bulletin of the Seismological Society of America, 104(4), 2007-2026.</p></li>
+<li><p>Ma, Z., Masters, G., Laske, G., &amp; Pasyanos, M. (2014). A comprehensive dispersion model of surface wave phase and group velocity for the globe. Geophysical Journal International, 199(1), 113-135.</p></li>
+</ul>
+</section>
+<section id="constrain-crustal-structure-using-post-critical-reflection">
+<h3>Constrain crustal structure using post-critical reflection<a class="headerlink" href="#constrain-crustal-structure-using-post-critical-reflection" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2019/10/09 by Tianjue Li</p></li>
+<li><p>Park Jr., E. H.,  Hawman, R. B., Fischer, K. M., et. 2016. Estimating crustal thickness using SsPmp in regions covered by low-velocity sediments: Imaging the Moho beneath the Southeastern Suture of the Appalachian Margin Experiment (SESAME) array, SE Atlantic Coastal Plain. Geophysical Research Letter, 43: 9627-9635.</p></li>
+</ul>
+</section>
+<section id="ambient-noise-tomography">
+<h3>Ambient Noise Tomography<a class="headerlink" href="#ambient-noise-tomography" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2019/10/02 by Shucheng Wu</p></li>
+<li><p>Guo, Z., Tong, P., Chen, Y. J., Ning, J. Y., et al. 2016. Seismic evidence of on-going sublithosphere upper mantle convection for intra-plate volcanism in Northeast China. Earth and Planetary Science Letter, 433: 31-43.</p></li>
+</ul>
+</section>
+<section id="arrival-time-picking">
+<h3>Arrival time picking<a class="headerlink" href="#arrival-time-picking" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2019/09/25 by Dongdong Wang</p></li>
+<li><p>Tong, P., Zhao, D. P., Yang, D. H., et al. 2014. Wave-equation-based travel-time seismic tomography – Part 1: Method. Solid Earth, 5: 1151-1168.</p></li>
+</ul>
+</section>
+<section id="seismic-source-relocation-based-on-grid-search-method">
+<h3>Seismic source relocation based on grid search method<a class="headerlink" href="#seismic-source-relocation-based-on-grid-search-method" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2019/09/18 by Yauwing Cheng</p></li>
+<li><p>Havskov, J., Bormann, P., Schweitzer, J. 2012. Seismic source location. – In: Bormann, P. (Ed.), New Manual of Seismological Observatory Practice 2 (NMSOP-2), Potsdam: Deutsches GeoForschungsZentrum GFZ, pp. 1-36.</p></li>
+</ul>
+</section>
+<section id="fast-marching-method-fmm-ray-tracing">
+<h3>Fast Marching Method (FMM) ray tracing<a class="headerlink" href="#fast-marching-method-fmm-ray-tracing" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2019/09/11 by Xiachun Lu</p></li>
+<li><p>Zhang, F. X., Wu, Q. J., Li, Y. H., et al. 2010. Application of FMM ray tracing to forward and inverse problems of seismology. Progress in Geophysics (in Chinese), 25(4): 1197-1205.</p></li>
+</ul>
+</section>
+<section id="seismic-first-arrival-calculation-using-fast-marching-method">
+<h3>Seismic first-arrival calculation using fast marching method<a class="headerlink" href="#seismic-first-arrival-calculation-using-fast-marching-method" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2019/09/04 by Yingyu Qi</p></li>
+<li><p>Lelievre, P. G., Farquharson, C. G., &amp; Hurich, C. A. (2011). Computing first-arrival seismic traveltimes on unstructured 3-D tetrahedral grids using the Fast Marching Method. Geophysical Journal International, 184, 885–896.</p></li>
+</ul>
+</section>
+<section id="ambient-noise-tomography-data-pre-processing">
+<h3>Ambient Noise Tomography: Data pre-processing<a class="headerlink" href="#ambient-noise-tomography-data-pre-processing" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2019/08/28 by Shucheng Wu</p></li>
+<li><p>Campillo, M., Paul, A. (2003). Long-range correlations in the diffuse seismic coda. Science, 299, 547-549.</p></li>
+<li><p>Bensen, G. D., Ritzwoller, M. H., Barmin, M. P., et al. (2007). Processing seismic ambient noise data to obtain reliable broad-band surface wave dispersion measurements. Geophysical Journal International, 169, 1239-1260.</p></li>
+<li><p>Groos, J. C., Bussat, S., Ritter, J. R. R. 2012. Performance of different processing schemes in seismic noise cross-correlations. Geophysical Journal International, 188, 498-512.</p></li>
+</ul>
+</section>
+<section id="double-difference-adjoint-seismic-tomography">
+<h3>Double-difference adjoint seismic tomography<a class="headerlink" href="#double-difference-adjoint-seismic-tomography" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2019/08/21 by Shaolin Liu</p></li>
+<li><p>Yuan, Y. O., Simons, F. J., &amp; Tromp, J. (2016). Double-difference adjoint seismic tomography. Geophysical Journal International, 206, 1599-1618.</p></li>
+</ul>
+</section>
+<section id="seismic-imaging-of-shallow-structures-above-10-km">
+<h3>Seismic imaging of shallow structures (above 10 km)<a class="headerlink" href="#seismic-imaging-of-shallow-structures-above-10-km" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2019/08/14 by Jiayuan Yao</p></li>
+<li><p>Svenningsen, L., &amp; Jacobsen, B. H. (2007). Absolute S-velocity estimation from receiver functions. Geophysical Journal International, 170(3), 1089-1094.</p></li>
+<li><p>Schiffer, C., Stephenson, R., Oakey, G. N., &amp; Jacobsen, B. H. (2016). The crustal structure of Ellesmere Island, Arctic Canada—teleseismic mapping across a remote intraplate orogenic belt. Geophysical Journal International, 204(3), 1579-1600.</p></li>
+<li><p>Tanimoto, T., Yano, T., &amp; Hakamata, T. (2013). An approach to improve Rayleigh-wave ellipticity estimates from seismic noise: application to the Los Angeles Basin. Geophysical Journal International, 193(1), 407-420.</p></li>
+</ul>
+</section>
+<section id="source-encoding-of-adjoint-tomography">
+<h3>Source encoding of adjoint tomography<a class="headerlink" href="#source-encoding-of-adjoint-tomography" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2019/07/26 by Yongsheng Liu</p></li>
+<li><p>Tromp, J., &amp; Bachmann, E. (2019). Source encoding for adjoint tomography. Geophysical Journal International, 218, 2019-2044.</p></li>
+</ul>
+</section>
+<section id="popular-receiver-function-techniques">
+<h3>Popular receiver function techniques<a class="headerlink" href="#popular-receiver-function-techniques" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2019/07/19 by Tianjue Li</p></li>
+<li><p>Cheng, C., Bodin, T., &amp; Allen, R. M. (2016). Three-dimensional pre-stack depth migration of receiver functions with the fast marching method: a Kirchhoff approach. Geophysical Journal International, 205(2), 819-829.</p></li>
+<li><p>Kang, H., &amp; Kim, Y. (2019). Localized Anisotropic Subduction‐Zone Structure in Southern Peru: Constraints from Teleseismic Receiver Functions and Forward Modeling. Seismological Research Letters.</p></li>
+</ul>
+</section>
+<section id="extract-receiver-functions">
+<h3>Extract receiver functions<a class="headerlink" href="#extract-receiver-functions" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2019/07/12 by Tianjue Li</p></li>
+<li><p>Bostock, M. G. (2015). Theory and Observations-Seismology and the Structure of the Earth: Teleseismic Body-Wave Scattering and Receiver-Side Structure.</p></li>
+</ul>
+</section>
+</section>
+<section id="id1">
+<h2>2018 Fall<a class="headerlink" href="#id1" title="Permalink to this headline"></a></h2>
+<section id="tomography-and-raytracing-in-anisotropic-media">
+<h3>Tomography and raytracing in anisotropic media<a class="headerlink" href="#tomography-and-raytracing-in-anisotropic-media" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2018/11/28 &amp; 2018/12/05 by Yingyu Qi</p></li>
+<li><p><em>Appendix E</em> from Nye, J. F. (1985). Physical properties of crystals: their representation by tensors and matrices. Oxford university press.</p></li>
+</ul>
+</section>
+<section id="spiking-deconvolution">
+<h3>Spiking deconvolution<a class="headerlink" href="#spiking-deconvolution" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2018/11/14 by Cheng Yau Wing</p></li>
+<li><p>Sud, S. (2017,). Spiking deconvolution for seismic waves using the Fractional Fourier Transform. In SoutheastCon, 2017. IEEE.</p></li>
+</ul>
+</section>
+<section id="phase-picking">
+<h3>Phase picking<a class="headerlink" href="#phase-picking" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2018/10/31 by Cheng Yau Wing</p></li>
+<li><p>Wyżgolik, R. (2002). Determination of P phase arrival in low-amplitude seismic signals from coal-mines with wavelets. In Signal Processing Conference, 2002 11th European. IEEE.</p></li>
+</ul>
+</section>
+<section id="body-wave-polarization">
+<h3>Body-wave polarization<a class="headerlink" href="#body-wave-polarization" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2018/10/24 by Jiayuan Yao</p></li>
+<li><p>Park, S., &amp; Ishii, M. (2018). Near-surface compressional and shear wave speeds constrained by body-wave polarization analysis. Geophys. J. Int., 213(3), 1559-1571.</p></li>
+</ul>
+</section>
+<section id="delay-times">
+<h3>Delay times<a class="headerlink" href="#delay-times" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2018/10/10 by Shaolin Liu</p></li>
+<li><p>Rawlinson, N., and B. L. N. Kennett (2004), Rapid estimation of relative and absolute delay times across a network by adaptive stacking, Geophys. J. Int., 157(1), 332-340.</p></li>
+</ul>
+</section>
+<section id="noise-cross-correlation-kernels">
+<h3>Noise cross-correlation kernels<a class="headerlink" href="#noise-cross-correlation-kernels" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2018/09/26 by Yongsheng Liu</p></li>
+<li><p>Tromp, J., Luo, Y., Hanasoge, S., &amp; Peter, D. (2010). Noise cross-correlation sensitivity kernels. Geophysical Journal International, 183(2), 791-819.</p></li>
+</ul>
+</section>
+<section id="scatter-and-intrinsic-attenuation">
+<h3>Scatter and intrinsic attenuation<a class="headerlink" href="#scatter-and-intrinsic-attenuation" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2018/09/19 by Jiayuan Yao</p></li>
+<li><p>Shearer, P. M., &amp; Earle, P. S. (2004). The global short-period wavefield modelled with a Monte Carlo seismic phonon method. Geophys. J. Int., 158(3), 1103-1117.</p></li>
+</ul>
+</section>
+<section id="perfectly-matched-layer">
+<h3>Perfectly Matched Layer<a class="headerlink" href="#perfectly-matched-layer" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2018/09/12 by Yongsheng Liu</p></li>
+<li><p>Komatitsch, D., &amp; Tromp, J. (2003). A perfectly matched layer absorbing boundary condition for the second-order seismic wave equation. Geophysical Journal International, 154(1), 146-153.</p></li>
+</ul>
+</section>
+<section id="anisotropy-tomography-in-sumatra">
+<h3>Anisotropy tomography in Sumatra<a class="headerlink" href="#anisotropy-tomography-in-sumatra" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2018/09/05 by Xueyuan Huang</p></li>
+</ul>
+</section>
+<section id="anisotropy-tomography">
+<h3>Anisotropy tomography<a class="headerlink" href="#anisotropy-tomography" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2018/08/29 by Xueyuan Huang</p></li>
+<li><p>Zhao, D., S. Yu, and X. Liu (2016), Seismic anisotropy tomography: New insight into subduction dynamics, Gondwana Research, 33, 24-43.</p></li>
+</ul>
+</section>
+<section id="d-evolution-of-se-asias-mantle">
+<h3>4D evolution of SE Asia’s mantle<a class="headerlink" href="#d-evolution-of-se-asias-mantle" title="Permalink to this headline"></a></h3>
+<ul class="simple">
+<li><p>2018/08/15 by Shaolin Liu</p></li>
+<li><p>Replumaz, A., H. Kárason, R. D. van der Hilst, J. Besse, and P. Tapponnier (2004), 4-D evolution of SE Asia’s mantle from geological reconstructions and seismic tomography, Earth Planet. Sci. Lett., 221(1), 103-115.</p></li>
+</ul>
+</section>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="../" class="btn btn-neutral float-left" title="Group Meeting" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="../talks/" class="btn btn-neutral float-right" title="Invited Talks" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2020–2022, MIGG-NTU.
+      <span class="lastupdated">Last updated on 2022-04-08.
+      </span></p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

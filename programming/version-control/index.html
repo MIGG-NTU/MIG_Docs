@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Version Control &mdash; MIG Documentation</title>
+      <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/custom.css" type="text/css" />
+    <link rel="shortcut icon" href="../../_static/favicon.ico"/>
+  <!--[if lt IE 9]>
+    <script src="../../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+        <script src="../../_static/jquery.js"></script>
+        <script src="../../_static/underscore.js"></script>
+        <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../../genindex/" />
+    <link rel="search" title="Search" href="../../search/" />
+    <link rel="next" title="Websites" href="../websites/" />
+    <link rel="prev" title="Learning Programming" href="../" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="../../" class="icon icon-home"> MIG Documentation
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search/" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+    
+              <p class="caption" role="heading"><span class="caption-text">Getting Started</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../introduction/">Introduction</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../ntu/">Resources at NTU</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../singapore/">Living in Singapore</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Research</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../group-meeting/">Group Meeting</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../seismology/">Learning Seismology</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../">Learning Programming</a><ul class="current">
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Version Control</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#git">Git</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#github">GitHub</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#workflow">Workflow</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#preparation">Preparation</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#maintainment">Maintainment</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../websites/">Websites</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../geosciences/">Learning Geosciences</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../data-archive/">Data at MIG</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Appendix</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../links/">Links</a></li>
+</ul>
+
+
+    
+        <p class="caption">
+            <span class="caption-text">Getting help</span>
+        </p>
+        <ul>
+            
+                <li class="toctree-l1"><a href="https://personal.ntu.edu.sg/tongping/"><i class="fa fa-home"></i> MIG Homopage</a></li>
+            
+                <li class="toctree-l1"><a href="https://github.com/MIGG-NTU/MIG_Docs"><i class="fa fa-github fa-fw"></i> Source Code</a></li>
+            
+                <li class="toctree-l1"><a href="https://github.com/MIGG-NTU/MIG_Docs/discussions"><i class="fa fa-comments fa-fw"></i> Contact</a></li>
+            
+        </ul>
+    
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../">MIG Documentation</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../../" class="icon icon-home"></a> &raquo;</li>
+          <li><a href="../">Learning Programming</a> &raquo;</li>
+      <li>Version Control</li>
+      <li class="wy-breadcrumbs-aside">
+              <a href="https://github.com/MIGG-NTU/MIG_Docs/blob/main/source/programming/version-control.rst" class="fa fa-github"> Edit on GitHub</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="version-control">
+<h1>Version Control<a class="headerlink" href="#version-control" title="Permalink to this headline"></a></h1>
+<dl class="field-list simple">
+<dt class="field-odd">contributors</dt>
+<dd class="field-odd"><p><a class="reference external" href="https://github.com/core-man">Yao Jiayuan</a></p>
+</dd>
+<dt class="field-even">last updating date</dt>
+<dd class="field-even"><p>2021-05-22</p>
+</dd>
+</dl>
+<hr class="docutils" />
+<p>MIG uses <a class="reference external" href="https://github.com/git/git">Git</a> and <a class="reference external" href="https://github.com/">Github</a> to manage softwares and documents.</p>
+<p>All the members <strong>SHOULD NOT</strong> push revisions to the main branch of all the public repositories.
+All the memebers <strong>MUST NOT</strong> push revisions to the main branch for private repositories either.
+Instead, all the revisions must be reviewed and approved using <strong>Pull Request</strong>.</p>
+<p>We present some a simple tuturial below.
+Please refer to <a class="reference external" href="https://seismo-learn.org/contributing/">seismo-learn/contributing</a> to learn more.</p>
+<section id="git">
+<h2>Git<a class="headerlink" href="#git" title="Permalink to this headline"></a></h2>
+<p><a class="reference external" href="https://git-scm.com/">Git</a> is a fast, scalable, distributed revision control system with an unusually rich command set
+that provides both high-level operations and full access to internals. Please refer to the following references for details.</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://www.bootcss.com/p/git-guide/index.html">git 简易指南</a></p></li>
+<li><p><a class="reference external" href="https://www.liaoxuefeng.com/wiki/896043488029600">Git教程 (廖雪峰)</a></p></li>
+<li><p><a class="reference external" href="https://git-scm.com/book/zh/v2">Pro Git (中文版)</a></p></li>
+<li><p><a class="reference external" href="https://www.git-tower.com/blog/git-cheat-sheet/">Git Cheat Sheet</a></p></li>
+</ul>
+<p>A list of some commonly-used git commands:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span># clone a remote repository to your local computer
+$ git clone git@github.com:username/repository_name.git
+
+# add the revisions in one file or all the files to Index
+$ git add filename
+$ git add --all
+# commit the revisions to HEAD
+$ git commit -m &quot;revise filename&quot;
+
+# push the revisions to remote repository
+$ git push origin master
+
+# create and go to a new branch
+$ git checkout -b bug_x
+# go to master branch
+$ git checkout master
+
+# delete a fully merged branch
+$ git branch -d bug_x
+# delete a branch
+$ git branch -D bug_x
+
+# fetch and merge the revisions in remote repository
+$ git pull
+# merge revisions at branch bug_x to current branch
+$ git merge bug_x
+</pre></div>
+</div>
+</section>
+<section id="github">
+<h2>GitHub<a class="headerlink" href="#github" title="Permalink to this headline"></a></h2>
+<p><a class="reference external" href="https://github.com/">Github</a>  provides hosting for software development and version control using <code class="docutils literal notranslate"><span class="pre">Git</span></code>:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://docs.github.com/cn/free-pro-team&#64;latest/github">Documentation</a></p></li>
+<li><p><a class="reference external" href="https://guides.github.com/introduction/flow/">Understanding the GitHub flow</a></p></li>
+</ul>
+<p>A list of some commonly-used commands in GitHub command-line tools:</p>
+<ul>
+<li><p><a class="reference external" href="https://hub.github.com/">hub</a>: an extension to command-line git that helps you do everyday GitHub tasks without ever leaving the terminal:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span># fast-forward all local branches to match the latest state on the remote
+$ hub sync
+</pre></div>
+</div>
+</li>
+<li><p><a class="reference external" href="https://cli.github.com/">GitHub CLI</a>: take GitHub to the command line:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span># create a pull request and request reviews by
+# core-man, HouseJaay, Shucheng-Wu, tianjueli
+$ gh pr create --reviewer core-man,HouseJaay,Shucheng-Wu,tianjueli
+</pre></div>
+</div>
+</li>
+</ul>
+</section>
+<section id="workflow">
+<h2>Workflow<a class="headerlink" href="#workflow" title="Permalink to this headline"></a></h2>
+<p>We use the repository, <a class="reference external" href="https://github.com/MIGG-NTU/MIG_Docs">MIG_Docs</a>,
+as an example to show how we should revise and update a GitHub repository on which at least two authors are working.</p>
+<p><a class="reference external" href="https://docs.github.com/en/github/administering-a-repository/managing-a-branch-protection-rule">Branch protection rules</a>
+is used to protect the <strong>main</strong> branch, along with two activated rules:</p>
+<ul class="simple">
+<li><p>Require pull request reviews before merging: 1 reviewer</p></li>
+<li><p>Include administrators</p></li>
+</ul>
+<p>We use the following <a class="reference external" href="https://docs.github.com/cn/free-pro-team&#64;latest/github/administering-a-repository/configuring-pull-request-merges">pull request merging method</a>:</p>
+<ul class="simple">
+<li><p>Allow squash merging</p></li>
+<li><p>Automatically delete head branches</p></li>
+</ul>
+<section id="preparation">
+<h3>Preparation<a class="headerlink" href="#preparation" title="Permalink to this headline"></a></h3>
+<ol class="arabic">
+<li><p>clone the remote repository if it is the first time:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>$ git clone git@github.com:MIGG-NTU/MIG_Docs.git
+</pre></div>
+</div>
+</li>
+</ol>
+</section>
+<section id="maintainment">
+<h3>Maintainment<a class="headerlink" href="#maintainment" title="Permalink to this headline"></a></h3>
+<ol class="arabic">
+<li><p>Update the local branches from remote since others may revise the remote
+branches:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span># frist way: use hub
+$ hub sync
+
+# second way: use git pull
+$ git checkout main
+$ git pull
+</pre></div>
+</div>
+</li>
+<li><p>Create a feature branch (e.g., <code class="docutils literal notranslate"><span class="pre">feature_x</span></code>) in which we update and commit
+the revisions:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>$ git checkout -b feature_X
+</pre></div>
+</div>
+</li>
+<li><p>Do some revisions on the feature_X branch, and check them by building the
+repository locally at the same time. You have to install
+<a class="reference external" href="https://www.sphinx-doc.org/en/master/usage/installation.html">Sphinx</a>
+and <a class="reference external" href="https://github.com/readthedocs/sphinx_rtd_theme">Read the Docs Sphinx Theme</a>
+to build the website locally:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span># build the website locally
+$ make html
+
+# check the website in a website browser (e.g., google-chrome)
+$ google-chrome build/html/index.html&amp;
+</pre></div>
+</div>
+</li>
+<li><p>Commit the revisions. You can do the revisions and commit them for many times:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>$ git status
+$ git add --all
+$ git status
+$ git commit -m &quot;leave a revise message here&quot;
+</pre></div>
+</div>
+</li>
+<li><p>When you do the revisions locally, the remote <code class="docutils literal notranslate"><span class="pre">main</span></code> branch may be updated.
+So, we could choose to synchronize with the remote <code class="docutils literal notranslate"><span class="pre">main</span></code> branch:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span># first way: synchronize with remote main branch using hub
+$ hub sync
+
+# second way: synchronize with remote main branch using git pull
+$ git checkout main
+$ git pull
+</pre></div>
+</div>
+</li>
+<li><p>When you revise the content, there could be many commits. Some commits may be not so important.
+You can squash some commits into one or several commits so that the revisions are clear and easy to manage:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>$ git rebase -i main
+</pre></div>
+</div>
+</li>
+<li><p>When you think the revisions are okay, create a pull request and request at least 1 reviewer:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>$ gh pr create -r core-man,HouseJaay,Shucheng-Wu,tianjueli
+</pre></div>
+</div>
+</li>
+<li><p>Review/Approval/Merge on GitHub</p>
+<ul class="simple">
+<li><p>The reviewers review the commit by commentting and/or approving it online</p></li>
+<li><p>If everything is fine, the author can go to the GitHub website to merge the commit</p></li>
+<li><p>If there are conflicts, the author needs to resolve them locally and push to remote again</p></li>
+<li><p>When commits are merged, the feature_X branch will be automatically deleted in Github</p></li>
+</ul>
+</li>
+<li><p>When commits are merged, we have to update the local branches:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span># update the local branches since the remote master has been updated
+$ hub sync
+
+# checkout to main branch
+$ git checkout main
+# delete local feature branch
+$ git branch -D feature_X
+</pre></div>
+</div>
+</li>
+</ol>
+<p>In summary, we first add revisions in a local feature branch, and submit a pull request.
+If it is approved and merged to the remote master branch,
+we then have to update the local main branch with the remote one.
+At last, the local feature has to be deleted.</p>
+</section>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="../" class="btn btn-neutral float-left" title="Learning Programming" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="../websites/" class="btn btn-neutral float-right" title="Websites" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2020–2022, MIGG-NTU.
+      <span class="lastupdated">Last updated on 2022-04-08.
+      </span></p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
