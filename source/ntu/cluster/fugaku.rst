@@ -11,13 +11,13 @@ Get access
 Preparation 
 ++++++++++++++
 
-- **Passphrase for Supercomputer Fugaku**: this is a ``.pdf`` file involving passphrase code, which used to access the certificate file. This file can be downloaded with a link in an e-mail with subject of "Your passphrase for the supercomputer Fugaku".
+- **Passphrase for Supercomputer Fugaku**: this is a ``.pdf`` file involving passphrase code, which used to access the certificate file. This file can be downloaded with a link in an e-mail with the subject of "Your passphrase for the supercomputer Fugaku".
 
     .. note::
-        This link requires a verification with password of ``hpci-id#verification code``. The ``hpci-id`` and ``verification code`` can be found in an e-mail with subject of "News of registered HPCI-ID".
+        This link requires a verification with password of ``hpci-id#verification code``. The ``hpci-id`` and ``verification code`` can be found in an e-mail with the subject of "News of registered HPCI-ID".
 
 
-- **Certificate file**: this file with filename of ``uxxxxx.p12`` can be downloaded via an e-mail with subject of "Notification of client certificate for the Supercomputer Fugaku".
+- **Certificate file**: this file with filename of ``uxxxxx.p12`` can be downloaded via an e-mail with the subject of "Notification of client certificate for the Supercomputer Fugaku".
 
 Install  client certificate
 ++++++++++++++++++++++++++++
