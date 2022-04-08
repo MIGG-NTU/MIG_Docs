@@ -6,9 +6,9 @@ This site collects some resources we could use at NTU.
 .. toctree::
    :maxdepth: 1
 
-   cluster
    dr-ntu
    vpn
+   cluster/index
    spms-network/index
    printer/index
    eos-poster/index

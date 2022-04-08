@@ -1,4 +1,4 @@
-Clusters
+Gekko
 ========
 
 :contributors: |Yao Jiayuan|

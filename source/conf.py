@@ -28,6 +28,7 @@ github_url = f"https://github.com/{github_user}/{github_repo}"
 
 rst_prolog = """
 .. |Yao Jiayuan| replace:: `Yao Jiayuan <https://github.com/core-man>`__
+.. |Xu Mijian| replace:: `Xu Mijian <https://github.com/xumi1993>`__
 .. |Wu Shucheng| replace:: `Wu Shucheng <https://github.com/Shucheng-Wu>`__
 .. |Hao Shijie| replace:: `Hao Shijie <https://github.com/HouseJaay>`__
 """
@@ -38,7 +39,7 @@ rst_prolog = """
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    "sphinx.ext.githubpages"
+    "sphinx.ext.githubpages",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
